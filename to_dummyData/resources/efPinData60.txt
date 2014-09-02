@@ -1,0 +1,223 @@
+﻿<table>
+<tr><th>Terminal</th><th>Wire Colour</th><th colspan="3">Component</th></tr>
+<tr>
+<td >A1</td>
+<td >R/Y</td>
+<td >Injector 2 Terminal 2</td>
+</tr>
+<tr>
+<td >A2</td>
+<td >BR/R</td>
+<td >Injector 1 Terminal 2</td>
+</tr>
+<tr>
+<td >A3</td>
+<td >R/L</td>
+<td >Injector 3 Terminal 2</td>
+</tr>
+<tr>
+<td >A4</td>
+<td >BR/GR</td>
+<td >Suction Jet Pump Valve Terminal 2</td>
+</tr>
+<tr>
+<td >A5</td>
+<td >V/Y</td>
+<td >Charcoal Canister Valve Terminal 2</td>
+</tr>
+<tr>
+<td >A6</td>
+<td >R/V</td>
+<td >Intake Flap Manifold Valve Terminal 2</td>
+</tr>
+<tr>
+<td >A9</td>
+<td >V</td>
+<td >Knock Sensor 2 Terminal 1</td>
+</tr>
+<tr>
+<td >A10</td>
+<td >Y</td>
+<td >Coolant Temp Sensor Terminal 2</td>
+</tr>
+<tr>
+<td >A12</td>
+<td >B/V</td>
+<td >Throttle Valve Module Terminal 4</td>
+</tr>
+<tr>
+<td >A14</td>
+<td >BR</td>
+<td >Common Return from sensors.</td>
+</tr>
+<tr>
+<td >A15</td>
+<td >R/V</td>
+<td >Throttle Valve Module Terminal 3 (motor)</td>
+</tr>
+<tr>
+<td >A16</td>
+<td >BR/B</td>
+<td >Injector 6 Terminal 2</td>
+</tr>
+<tr>
+<td >A17</td>
+<td >R/V</td>
+<td >Injector 5 Terminal 2</td>
+</tr>
+<tr>
+<td >A18</td>
+<td >R/G</td>
+<td >Injector 3 Terminal 2</td>
+</tr>
+<tr>
+<td >A19</td>
+<td >B/BR</td>
+<td >Fuel Metering Valve Terminal 2</td>
+</tr>
+<tr>
+<td >A20</td>
+<td >L/G</td>
+<td >Intake Camshaft Valve Terminal 2</td>
+</tr>
+<tr>
+<td >A21</td>
+<td >L/GR</td>
+<td >Exhaust Camshaft Valve Terminal 2</td>
+</tr>
+<tr>
+<td >A24</td>
+<td >R</td>
+<td >Knock Sensor 2 Terminal 2</td>
+</tr>
+<tr>
+<td >A25</td>
+<td >L</td>
+<td >Fuel Pressure Sensor Terminal 2</td>
+</tr>
+<tr>
+<td >A26</td>
+<td >Y/GR</td>
+<td >Fuel Pressure Sensor Terminal 3 / Camshaft Position Sensor 1 Terminal 1</td>
+</tr>
+<tr>
+<td >A27</td>
+<td >V/Y</td>
+<td >Throttle Valve Module Terminal 1</td>
+</tr>
+<tr>
+<td >A28</td>
+<td >G</td>
+<td >Throttle Valve Module Terminal 2</td>
+</tr>
+<tr>
+<td >A29</td>
+<td >B</td>
+<td >Throttle Valve Module Terminal 6</td>
+</tr>
+<tr>
+<td >A30</td>
+<td >BR/Y</td>
+<td >Throttle Valve Module Terminal 5 (motor)</td>
+</tr>
+<tr>
+<td >A31</td>
+<td >BR/G</td>
+<td >Injector 3 Terminal 1</td>
+</tr>
+<tr>
+<td >A32</td>
+<td >BR/V</td>
+<td >Injector 5 Terminal 1</td>
+</tr>
+<tr>
+<td >A33</td>
+<td >BR/B</td>
+<td >Injector 1 Terminal 1</td>
+</tr>
+<tr>
+<td >A36</td>
+<td >G</td>
+<td >Crankshaft Position Sensor Terminal 3</td>
+</tr>
+<tr>
+<td >A37</td>
+<td >W/GR</td>
+<td >Fuel Pressure Sensor (Low) Terminal 3 / Camshaft Position Sensor 2 Terminal 1</td>
+</tr>
+<tr>
+<td >A39</td>
+<td >W</td>
+<td >Knock Sensor 1 Terminal 1</td>
+</tr>
+<tr>
+<td >A41</td>
+<td >G/V</td>
+<td >Ignition Coil No 6 Terminal 4</td>
+</tr>
+<tr>
+<td >A42</td>
+<td >G/R</td>
+<td >Ignition Coil No 4 Terminal 4</td>
+</tr>
+<tr>
+<td >A43</td>
+<td >G/W</td>
+<td >Ignition Coil No 5 Terminal 4</td>
+</tr>
+<tr>
+<td >A44</td>
+<td >G</td>
+<td >Camshaft Position Sensor 1 Terminal 2</td>
+</tr>
+<tr>
+<td >A46</td>
+<td >BR/L</td>
+<td >Injector 4 Terminal 1</td>
+</tr>
+<tr>
+<td >A47</td>
+<td >BR/Y</td>
+<td >Injector 2 Terminal 1</td>
+</tr>
+<tr>
+<td >A48</td>
+<td >BR/Y</td>
+<td >Injector 6 Terminal 1</td>
+</tr>
+<tr>
+<td >A51</td>
+<td >Y</td>
+<td >Crankshaft Position Sensor Terminal 2</td>
+</tr>
+<tr>
+<td >A52</td>
+<td >B</td>
+<td >Shielding Wiring Return</td>
+</tr>
+<tr>
+<td >A54</td>
+<td >BR</td>
+<td >Knock Sensor 1 Terminal 2</td>
+</tr>
+<tr>
+<td >A56</td>
+<td >G/B</td>
+<td >Ignition Coil No 3 Terminal 4</td>
+</tr>
+<tr>
+<td >A57</td>
+<td >G/L</td>
+<td >Ignition Coil No 2 Terminal 4</td>
+</tr>
+<tr>
+<td >A59</td>
+<td >L</td>
+<td >Camshaft Position Sensor 2 Terminal 2</td>
+</tr>
+<tr>
+<td >A60</td>
+<td >G/Y</td>
+<td >Ignition Coil No 1 Terminal 4</td>
+</tr>
+</table>

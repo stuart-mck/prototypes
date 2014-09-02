@@ -1,0 +1,16 @@
+﻿<div id="@Model.Id" class="row tableContentEditor sectionContent">
+
+@model to_lib.ServiceSchedule
+
+
+<div id="@Model.Id" class="row serviceScheduleContentEditor sectionContent">
+    <div class="row toolBar">
+        <span class="col-lg-1">@Html.EditorFor(e => e.Title)</span>
+        <span class="col-lg-offset-7  col-lg-1">@Html.EditorFor(e => e.Attributes, "Attributes", new { modelId = @Model.Id })</span>
+        <span class="col-lg-1">@Html.EditorFor(e => e.Tags, "Tags", new { modelId = @Model.Id })</span>
+        <a href="#" onclick="toggleFirstChild('@Model.Id')" class="col-lg-1 glyphicon glyphicon-arrow-down"> </a>
+    </div>
+    <div class="row ssEditor">
+        @Html.EditorFor(e => e.ServiceIntervals, "ServiceIntervals", new {modelId = @Model.Id})
+    </div>
+</div>

@@ -1,0 +1,75 @@
+﻿<table>
+<tr>
+<td ><strong> Drain Plug:</strong></td>
+<td >16 Nm</td>
+</tr>
+<tr>
+<td ><strong> Overflow Plug:</strong></td>
+<td >1 Nm</td>
+</tr>
+<tr>
+<td ><strong> Pan Bolts:</strong></td>
+<td >8 Nm</td>
+</tr>
+<tr>
+<td ><strong>Filter Bolts:</strong></td>
+<td >10 Nm</td>
+</tr>
+<tr>
+<td ><strong> Bell Housing Bolts:</strong></td>
+<td >M10 45 Nm</td>
+</tr>
+<tr>
+<td >&#160;</td>
+<td >M12 80 Nm</td>
+</tr>
+<tr>
+<td ><strong> Starter Motor Bolts 3.0L:</strong></td>
+<td >65 Nm</td>
+</tr>
+<tr>
+<td ><strong> Starter Motor Bolts 3.6L:</strong></td>
+<td >65 Nm</td>
+</tr>
+<tr>
+<td ><strong> Starter Motor Bolts 4.2L:</strong></td>
+<td >45 Nm</td>
+</tr>
+<tr>
+<td ><strong> Starter Motor Bolts 6.0L:</strong></td>
+<td >65 Nm</td>
+</tr>
+<tr>
+<td ><strong>Converter Bolts:</strong></td>
+<td >#Use new bolts</td>
+</tr>
+<tr>
+<td >&#160;</td>
+<td >85 Nm</td>
+</tr>
+<tr>
+<td ><strong> Drive Plate Bolts :</strong></td>
+<td >#Use new bolts</td>
+</tr>
+<tr>
+<td >&#160;</td>
+<td ><strong>1st:</strong> 60 Nm, <strong>2nd:</strong> 90&#176;</td>
+</tr>
+<tr>
+<td ><strong>Pressure Port Bolts:</strong></td>
+<td >N/S</td>
+</tr>
+<tr>
+<td ><strong>Inhibitor Switch Bolts:</strong></td>
+<td >6 Nm</td>
+</tr>
+<tr>
+<td ><strong>Valve Body Bolts:</strong></td>
+<td >#Use new bolts</td>
+</tr>
+<tr>
+<td >&#160;</td>
+<td ><strong>1st:</strong> 8 Nm, <strong>2nd:</strong> 90&#176;</td>
+</tr>
+<tr>
+</table>

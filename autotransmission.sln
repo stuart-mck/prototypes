@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30501.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "autotransmission", "autotransmission\autotransmission.csproj", "{B596D50B-91CD-4083-B53B-995BB7E8F2CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "to_lib", "to_lib\to_lib.csproj", "{1096441C-2AE8-4BBE-8742-5AD8CC532D52}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "to_dummyData", "to_dummyData\to_dummyData.csproj", "{16A3B665-6915-4AB3-AA36-7C988480437F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B596D50B-91CD-4083-B53B-995BB7E8F2CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B596D50B-91CD-4083-B53B-995BB7E8F2CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B596D50B-91CD-4083-B53B-995BB7E8F2CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B596D50B-91CD-4083-B53B-995BB7E8F2CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1096441C-2AE8-4BBE-8742-5AD8CC532D52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1096441C-2AE8-4BBE-8742-5AD8CC532D52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1096441C-2AE8-4BBE-8742-5AD8CC532D52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1096441C-2AE8-4BBE-8742-5AD8CC532D52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16A3B665-6915-4AB3-AA36-7C988480437F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16A3B665-6915-4AB3-AA36-7C988480437F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16A3B665-6915-4AB3-AA36-7C988480437F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16A3B665-6915-4AB3-AA36-7C988480437F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

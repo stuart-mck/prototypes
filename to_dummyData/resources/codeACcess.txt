@@ -1,0 +1,5 @@
+﻿<p>Data link connector is under the driver side dash.</p>
+<h4>Reading Codes</h4>
+<p>A suitable diagnostic scan tool is required to extract fault codes.</p>
+<h4>Erasing Codes</h4>
+<p>A suitable diagnostic scan tool is required to erase fault codes.</p>

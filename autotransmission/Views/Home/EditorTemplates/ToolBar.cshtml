@@ -1,0 +1,8 @@
+﻿@model to_lib.ElementBase
+
+
+
+@Html.LabelFor(e => e.Title, new { @class = "col-lg-1" }) <span class="col-lg-1">@Html.EditorFor(e => e.Title)</span>
+<span class="col-lg-offset-8  col-lg-1">@Html.EditorFor(e => e.Attributes, "Attributes")</span>
+<span class="col-lg-1">@Html.EditorFor(e => e.Tags, "Tags")</span>
+

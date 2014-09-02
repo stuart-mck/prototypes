@@ -1,0 +1,25 @@
+﻿@model to_lib.Section
+
+@{
+    Model.Elements = Model.Elements.OrderBy(e => e.Order).ToList();
+}
+
+<div class="row section" id="@Model.Id">
+    <div class="row toolBar">
+        <label for="Title" class="col-lg-1">Section Title</label><span class="col-lg-1" >@Html.EditorFor(e => e.Title)</span>
+        <div class="col-lg-offset-6  col-lg-1"><a class="btn btn-sm btn-default" href="/Home/LoadContent" data-toggle="modal" data-target="#sect@(Model.Id)">Load Content</a></div>
+        <div class="col-lg-1">@Html.EditorFor(e => e.Attributes, "Attributes", new { modelId = @Model.Id })</div>
+        <span class="col-lg-1">@Html.EditorFor(e => e.Tags, "Tags", new { modelId = @Model.Id })</span>
+        <a href="#" onclick="toggleFirstChild('@Model.Id')" class="col-lg-1 glyphicon glyphicon-arrow-down"> </a>
+    </div>
+    <div class="row content">
+        @Html.EditorFor(e => e.Elements)
+    </div>
+</div>
+
+<div id="sect@(Model.Id)" class="modal fade attEditor" tabindex="-1" role="dialog" aria-labelledby="remoteModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>

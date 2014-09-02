@@ -1,0 +1,21 @@
+﻿@model IEnumerable<to_lib.Attribute>
+
+
+@{
+    var id = ViewData["modelId"];
+}
+
+
+<div class="attributeEditor">
+    <!-- Button trigger modal -->
+    <a class="btn btn-sm btn-default" data-toggle="modal" href="/Home/LoadAttributes?id=@id" data-target="#att@(id)">Attributes</a>
+</div>
+
+
+
+<div id="att@(id)" class="modal fade attEditor" tabindex="-1" role="dialog"  aria-labelledby="remoteModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>

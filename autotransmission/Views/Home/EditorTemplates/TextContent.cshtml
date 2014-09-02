@@ -1,0 +1,55 @@
+﻿@model to_lib.TextContent
+
+<div id="@Model.Id" class="row textContentEditor sectionContent">
+    <div class="row toolBar">
+        <span class="col-lg-1">@Html.EditorFor(e => e.Title)</span>
+        <span class="col-lg-offset-7  col-lg-1">@Html.EditorFor(e => e.Attributes, "Attributes", new { modelId = @Model.Id })</span>
+        <span class="col-lg-1">@Html.EditorFor(e => e.Tags, "Tags", new { modelId = @Model.Id })</span>
+        <a href="#" onclick="toggleFirstChild('@Model.Id')" class="col-lg-1 glyphicon glyphicon-arrow-down"> </a>
+    </div>
+    <div class="row editor">
+        @Html.DevExpress().HtmlEditor(
+    settings =>
+    {
+        settings.Name = Guid.NewGuid().ToString();
+        settings.CallbackRouteValues = new { Controller = "Home", Action = "TablesPartial" };
+        settings.Width = System.Web.UI.WebControls.Unit.Percentage(100);
+        settings.Html = @Model.ElementContent;
+        settings.SettingsImageUpload.UploadCallbackRouteValues = new { Controller = "Home", Action = "TablesImageUpload" };
+        settings.Toolbars.CreateDefaultToolbars();
+        settings.Toolbars[0].Items.RemoveAll(item => item.GetType() == typeof(ToolbarTableOperationsDropDownButton));
+
+        settings.Settings.AllowHtmlView = false;
+        settings.Settings.AllowPreview = false;
+
+        //ToolbarCustomCssEdit cssButton = new ToolbarCustomCssEdit();
+        //ToolbarCustomCssListEditItem item1 = new ToolbarCustomCssListEditItem();
+        //item1.TagName = "";
+        //item1.Text = "Clear Style";
+        //item1.CssClass = "";
+        //ToolbarCustomCssListEditItem item2 = new ToolbarCustomCssListEditItem();
+        //item2.TagName = "H3";
+        //item2.Text = "Header";
+        //item2.CssClass = "CommonHeader";
+        //item2.PreviewStyle.CssClass = "CommonHeaderPreview";
+        //ToolbarCustomCssListEditItem item3 = new ToolbarCustomCssListEditItem();
+        //item3.TagName = "Strong";
+        //item3.Text = "Features";
+        //item3.CssClass = "CommonFeatures";
+        //item3.PreviewStyle.CssClass = "CommonFeaturesPreview";
+        //ToolbarCustomCssListEditItem item4 = new ToolbarCustomCssListEditItem();
+        //item4.TagName = "";
+        //item4.Text = "Link";
+        //item4.CssClass = "Link";
+        //item3.PreviewStyle.CssClass = "LinkPreview";
+        //cssButton.Items.Add(item1);
+        //cssButton.Items.Add(item2);
+        //cssButton.Items.Add(item3);
+        //cssButton.Items.Add(item4);
+        //settings.Toolbars[0].Items.Add(cssButton);
+        settings.Toolbars.Add(MVCxHtmlEditorToolbar.CreateTableToolbar());
+
+    }).GetHtml()
+    </div>
+</div>
+

@@ -1,0 +1,354 @@
+﻿<table>
+<tr><th>Terminal</th><th>Wire Colour</th><th colspan="3">Component</th></tr>
+<tr>
+<td >B1</td>
+<td >BR</td>
+<td >Coolant Circulation Pump Relay Terminal A6a / AC High Pressure Switch Terminal 1 / Earth on right side of plenum chamber.</td>
+</tr>
+<tr>
+<td >B2</td>
+<td >BR</td>
+<td >Coolant Circulation Pump Relay Terminal A6a / AC High Pressure Switch Terminal 1 / Earth on right side of plenum chamber.</td>
+</tr>
+<tr>
+<td >B3</td>
+<td >L/B</td>
+<td >Fuse 9 15A Engine Compartment Fuse Box.</td>
+</tr>
+<tr>
+<td >B4</td>
+<td >BR</td>
+<td >Coolant Circulation Pump Relay Terminal A6a / AC High Pressure Switch Terminal 1 / Earth on right side of plenum chamber.</td>
+</tr>
+<tr>
+<td >B5</td>
+<td >L/B</td>
+<td >Fuse 9 15A Engine Compartment Fuse Box.</td>
+</tr>
+<tr>
+<td >B6</td>
+<td >L/B</td>
+<td >Fuse 9 15A Engine Compartment Fuse Box.</td>
+</tr>
+<tr>
+<td >B7</td>
+<td >G/W</td>
+<td >O2 Sensor After Cat 1 Heater Terminal 2</td>
+</tr>
+<tr>
+<td >B8</td>
+<td >Y/GR</td>
+<td >Fuel System Diagnostic Pump Terminal 2</td>
+</tr>
+<tr>
+<td >B12</td>
+<td >G/Y</td>
+<td >Radiator Outlet Temperature Sensor Terminal 2</td>
+</tr>
+<tr>
+<td >B13</td>
+<td >G</td>
+<td >MAF / IAT Sensor Terminal 3</td>
+</tr>
+<tr>
+<td >B15</td>
+<td >G</td>
+<td >Fuel Pressure Sensor (Low) Terminal 2</td>
+</tr>
+<tr>
+<td >B18</td>
+<td >GR/Y</td>
+<td >Steering Column ECU Terminal 5</td>
+</tr>
+<tr>
+<td >B22</td>
+<td >L</td>
+<td >MAF / IAT Sensor Terminal 1</td>
+</tr>
+<tr>
+<td >B23</td>
+<td >B/W</td>
+<td >Entry / Start Authorization Control Unit Terminal 14</td>
+</tr>
+<tr>
+<td >B24</td>
+<td >R/B</td>
+<td >Starter Relay 1 Terminal A1h / Starter Terminal 50</td>
+</tr>
+<tr>
+<td >B25</td>
+<td >B/G</td>
+<td >Brake Light Suppression Relay Terminal 30</td>
+</tr>
+<tr>
+<td >B26</td>
+<td >W/GR</td>
+<td >Fuel Pressure Sensor (Low) Terminal 1/ Radiator Outlet Temperature Sensor Terminal 1</td>
+</tr>
+<tr>
+<td >B27</td>
+<td >V/R</td>
+<td >Fuel Pump Control Unit Terminal 5</td>
+</tr>
+<tr>
+<td >B28</td>
+<td >BR/GR</td>
+<td >Radiator Fan Control Unit 1 Terminal 3</td>
+</tr>
+<tr>
+<td >B29</td>
+<td >G/Y</td>
+<td >O2 Sensor After Cat 2 Terminal 2</td>
+</tr>
+<tr>
+<td >B30</td>
+<td >V/R</td>
+<td >Radiator Fan Control Unit 1 Terminal 3</td>
+</tr>
+<tr>
+<td >B32</td>
+<td >GR/G</td>
+<td >Engine Component Current Supply Relay Terminal A3c</td>
+</tr>
+<tr>
+<td >B33</td>
+<td >V/G</td>
+<td >Circulation Pump Relay Terminal C19c</td>
+</tr>
+<tr>
+<td >B35</td>
+<td >Y/G</td>
+<td >Climate Control Unit Terminal 7</td>
+</tr>
+<tr>
+<td >B40</td>
+<td >Y/V</td>
+<td >Fuel System Diagnostic Pump Terminal 1</td>
+</tr>
+<tr>
+<td >B41</td>
+<td >V</td>
+<td >Clutch Pedal Switch Terminal 3</td>
+</tr>
+<tr>
+<td >B42</td>
+<td >GR/Y</td>
+<td >MAF / IAT Sensor Terminal 2</td>
+</tr>
+<tr>
+<td >B47</td>
+<td >R/B</td>
+<td >Brake Pedal Switch Terminal 2</td>
+</tr>
+<tr>
+<td >B51</td>
+<td >R/BR</td>
+<td >O2 Sensor Before Cat 1 Terminal 3</td>
+</tr>
+<tr>
+<td >B51*</td>
+<td >R/W</td>
+<td >O2 Sensor Before Cat 1 Terminal 3 (Phased in)</td>
+</tr>
+<tr>
+<td >B52</td>
+<td >Y/L</td>
+<td >Starter Relay Terminal A1f</td>
+</tr>
+<tr>
+<td >B54</td>
+<td >V</td>
+<td >O2 Sensor After Cat 2 Terminal 2</td>
+</tr>
+<tr>
+<td >B54*</td>
+<td >Y</td>
+<td >O2 Sensor After Cat 2 Terminal 2 (Phased in)</td>
+</tr>
+<tr>
+<td >B55</td>
+<td >R</td>
+<td >O2 Sensor After Cat 2 Terminal 4</td>
+</tr>
+<tr>
+<td >B55*</td>
+<td >BR</td>
+<td >O2 Sensor After Cat 2 Terminal 4 (Phased in)</td>
+</tr>
+<tr>
+<td >B56</td>
+<td >L</td>
+<td >Accelerator Pedal Sensor Terminal 5</td>
+</tr>
+<tr>
+<td >B57</td>
+<td >BR/G</td>
+<td >Accelerator Pedal Sensor Terminal 6</td>
+</tr>
+<tr>
+<td >B58</td>
+<td >GR/Y</td>
+<td >Accelerator Pedal Sensor Terminal 2</td>
+</tr>
+<tr>
+<td >B59</td>
+<td >V/Y</td>
+<td >O2 Sensor Before Cat 2 Terminal 1</td>
+</tr>
+<tr>
+<td >B59*</td>
+<td >W</td>
+<td >O2 Sensor Before Cat 2 Terminal 1 (Phased in)</td>
+</tr>
+<tr>
+<td >B60</td>
+<td >V/BR</td>
+<td >O2 Sensor Before Cat 1 Terminal 1</td>
+</tr>
+<tr>
+<td >B60*</td>
+<td >G</td>
+<td >O2 Sensor Before Cat 1 Terminal 1 (Phased in)</td>
+</tr>
+<tr>
+<td >B61</td>
+<td >BR</td>
+<td >O2 Sensor Before Cat 1 Terminal 2</td>
+</tr>
+<tr>
+<td >B61*</td>
+<td >Y</td>
+<td >O2 Sensor Before Cat 1 Terminal 2 (Phased in)</td>
+</tr>
+<tr>
+<td >B62</td>
+<td >GR</td>
+<td >O2 Sensor Before Cat 2 Terminal 6</td>
+</tr>
+<tr>
+<td >B62*</td>
+<td >GR</td>
+<td >O2 Sensor Before Cat 2 Terminal 6 (Phased in)</td>
+</tr>
+<tr>
+<td >B64</td>
+<td >BR</td>
+<td >MAF / IAT Sensor Terminal 4</td>
+</tr>
+<tr>
+<td >B67</td>
+<td >O/BR</td>
+<td >Can Bus Low</td>
+</tr>
+<tr>
+<td >B68</td>
+<td >O/B</td>
+<td >Can Bus High</td>
+</tr>
+<tr>
+<td >B69</td>
+<td >GR/B</td>
+<td >Main Engine Relay Terminal C20c</td>
+</tr>
+<tr>
+<td >B73</td>
+<td >R/Y</td>
+<td >O2 Sensor Before Cat 2 Terminal 3</td>
+</tr>
+<tr>
+<td >B73*</td>
+<td >R/Y</td>
+<td >O2 Sensor Before Cat 2 Terminal 3 (Phased in)</td>
+</tr>
+<tr>
+<td >B74</td>
+<td >Y/B</td>
+<td >Starter Relay Terminal A1f</td>
+</tr>
+<tr>
+<td >B76</td>
+<td >Y</td>
+<td >O2 Sensor After Cat 1 Terminal 3</td>
+</tr>
+<tr>
+<td >B76*</td>
+<td >R/GR</td>
+<td >O2 Sensor After Cat 1 Terminal 3</td>
+</tr>
+<tr>
+<td >B77</td>
+<td >G</td>
+<td >O2 Sensor After Cat 1 Terminal 4</td>
+</tr>
+<tr>
+<td >B77*</td>
+<td >BR/GR</td>
+<td >O2 Sensor After Cat 1 Terminal 4</td>
+</tr>
+<tr>
+<td >B78</td>
+<td >Y/L</td>
+<td >Accelerator Pedal Sensor Terminal 3</td>
+</tr>
+<tr>
+<td >B79</td>
+<td >Y/B</td>
+<td >Accelerator Pedal Sensor Terminal 1</td>
+</tr>
+<tr>
+<td >B80</td>
+<td >BR/G</td>
+<td >Accelerator Pedal Sensor Terminal 2</td>
+</tr>
+<tr>
+<td >B81</td>
+<td >GR/R</td>
+<td >O2 Sensor Before Cat 1 Terminal 5</td>
+</tr>
+<tr>
+<td >B81*</td>
+<td >W</td>
+<td >O2 Sensor Before Cat 1 Terminal 5</td>
+</tr>
+<tr>
+<td >B82</td>
+<td >W</td>
+<td >O2 Sensor Before Cat 1 Terminal 6</td>
+</tr>
+<tr>
+<td >B82*</td>
+<td >R</td>
+<td >O2 Sensor Before Cat 1 Terminal 6</td>
+</tr>
+<tr>
+<td >B83</td>
+<td >GR/Y</td>
+<td >O2 Sensor Before Cat 2 Terminal 5</td>
+</tr>
+<tr>
+<td >B83*</td>
+<td >L</td>
+<td >O2 Sensor Before Cat 2 Terminal 5</td>
+</tr>
+<tr>
+<td >B84</td>
+<td >L</td>
+<td >O2 Sensor Before Cat 2 Terminal 2</td>
+</tr>
+<tr>
+<td >B84*</td>
+<td >R</td>
+<td >O2 Sensor Before Cat 2 Terminal 2</td>
+</tr>
+<tr>
+<td >B87</td>
+<td >B/L</td>
+<td >Fuse 11 5A Engine Compartment Fuse Box</td>
+</tr>
+<tr>
+<td >B92</td>
+<td >R/V</td>
+<td >Fuse 17 5A Engine Compartment Fuse Box</td>
+</tr>
+</tbody>
+</table>

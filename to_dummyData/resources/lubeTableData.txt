@@ -1,0 +1,30 @@
+﻿<table>
+<tr>
+<td> Fluid Type: </td>
+<td >Refer to Dealer</td>
+</tr>
+<tr>
+<td > Service Refill Capacity:</td>
+<td >N/S</td>
+</tr>
+<tr>
+<td>Dry Fill Capacity:</td>
+<td ><strong>3.0L TFSI :</strong> 10.6 L</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td ><strong>3.0L TDI :</strong> 12.8 L</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td ><strong>4.2L TDI :</strong> 12.4 L</td>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<td ><strong>Cooling System :</strong> 0.7 L</td>
+</tr>
+<tr>
+<td ><strong> Filter Type / Location: </strong></td>
+<td >Wire mesh / in pan</td>
+</tr>
+</table>

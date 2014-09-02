@@ -1,0 +1,84 @@
+﻿@model to_lib.Article
+
+@{
+    if (Model != null) { 
+        Model.Sections = Model.Sections.OrderBy(e => e.Order).ToList();
+    }
+}
+@if (Model != null)
+{
+    <div class="toolBar">
+        <a class="btn btn-sm btn-primary" data-toggle="modal" href="/Home/LoadCategories" data-target="#popup">Categories</a>
+        <a class="btn btn-sm btn-primary" data-toggle="modal" href="/Home/LoadKeywords" data-target="#popup1">Keywords</a>
+    </div>
+    <div id="@Model.Id"  class="row header">
+        <h3>@Html.DisplayTextFor(e => Model.Title)</h3>
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="row">
+                    <span class="col-lg-2">
+                        @Html.LabelFor(e => e.Make)
+                    </span>
+                    <span class="col-lg-3">
+                        @Html.DisplayTextFor(e => e.Make)
+                    </span>
+                    <span class="col-lg-2">
+                        @Html.LabelFor(e => e.YearFrom)
+                    </span>
+                    <span class="col-lg-3">
+                        @Html.DisplayTextFor(e => e.YearFrom)
+                    </span>
+                </div>
+                <div class="row">
+                    <span class="col-lg-2">
+                        @Html.LabelFor(e => e.Model)
+                    </span>
+                    <span class="col-lg-3">
+                        @Html.DisplayTextFor(e => e.Model)
+                    </span>
+                    <span class="col-lg-2">
+                        @Html.LabelFor(e => e.YearTO)
+                    </span>
+                    <span class="col-lg-3">
+                        @Html.DisplayTextFor(e => e.YearTO)
+                    </span>
+                </div>
+                <div class="row">
+                    <span class="col-lg-2">
+                        @Html.LabelFor(e => e.Series)
+                    </span>
+                    <span class="col-lg-3">
+                        @Html.DisplayTextFor(e => e.Series)
+                    </span>
+                </div>
+            </div>
+            <div class="col-lg-3">
+                <label for="Engines">Engines</label>
+                @Html.DisplayFor(e => e.Engines)
+            </div>
+        </div>
+        <div class="row">
+                @Html.EditorFor(e => e.Resources)
+        </div>
+    </div> <!-- header row -->
+
+
+    <div class="row">
+        @Html.EditorFor(e => e.Sections)
+    </div>
+}
+
+
+<div id="popup" class="modal fade attEditor" tabindex="-1" role="dialog" aria-labelledby="remoteModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
+
+<div id="popup1" class="modal fade attEditor" tabindex="-1" role="dialog" aria-labelledby="remoteModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>

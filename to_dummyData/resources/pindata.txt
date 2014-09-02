@@ -1,0 +1,218 @@
+﻿<table>
+<tbody>
+<tr>
+<td colspan="3"><strong>CONNECTOR A</strong></td>
+</tr>
+<tr><th>Terminal</th><th>Wire Colour</th><th>Component</th></tr>
+<tr>
+<td >1</td>
+<td >BR</td>
+<td >Earth under driver seat.</td>
+</tr>
+<tr>
+<td >2</td>
+<td >BR</td>
+<td >Earth under driver seat.</td>
+</tr>
+<tr>
+<td >3</td>
+<td >B/L</td>
+<td >Fuse 6 5A ST2 Fuse Box C</td>
+</tr>
+<tr>
+<td >4</td>
+<td >Y/B</td>
+<td >Pressure Regulator Valve 2 Terminal 9</td>
+</tr>
+<tr>
+<td >5</td>
+<td >L</td>
+<td >Pressure Regulator Valve 7 Terminal 5</td>
+</tr>
+<tr>
+<td >6</td>
+<td >Y/V</td>
+<td >Pressure Regulator Valve 2 Terminal 2</td>
+</tr>
+<tr>
+<td >7</td>
+<td >Y/W</td>
+<td >Pressure Regulator Valve 6 Terminal 7</td>
+</tr>
+<tr>
+<td >8</td>
+<td >BR</td>
+<td >Oil Temp Sensor Terminal 14</td>
+</tr>
+<tr>
+<td >9</td>
+<td >GR/W</td>
+<td >Diagnostic Link Terminal 7</td>
+</tr>
+<tr>
+<td >10</td>
+<td >L</td>
+<td >Selector Switch (Multifunction Switch) Terminal 7</td>
+</tr>
+<tr>
+<td >13</td>
+<td >W/GR</td>
+<td >Control Unit for Auxiliary Hydraulic Pump Terminal 5</td>
+</tr>
+<tr>
+<td >15</td>
+<td >L/V</td>
+<td >Solenoid 2 Terminal 8</td>
+</tr>
+<tr>
+<td >16</td>
+<td >Y/L</td>
+<td >Pressure Regulator Valve 4 Terminal 7</td>
+</tr>
+<tr>
+<td >17</td>
+<td >L/W</td>
+<td >Pressure Regulator Valve 1 Terminal 12</td>
+</tr>
+<tr>
+<td >18</td>
+<td >Y/BR</td>
+<td >Pressure Regulator Valve 5 Terminal 6</td>
+</tr>
+<tr>
+<td >19</td>
+<td >V/Y</td>
+<td >Cooling Oil Valve Terminal 1</td>
+</tr>
+<tr>
+<td >21</td>
+<td >R/Y</td>
+<td >Selector Switch (Multifunction Switch) Terminal 8</td>
+</tr>
+<tr>
+<td >22</td>
+<td >L/V</td>
+<td >Selector Switch (Multifunction Switch) Terminal 5</td>
+</tr>
+<tr>
+<td >24</td>
+<td >W/R</td>
+<td >Transmission Hydraulic Pump Relay Terminal 6</td>
+</tr>
+<tr>
+<td >25</td>
+<td >W/L</td>
+<td >Control Unit for Auxiliary Hydraulic Pump Terminal 3</td>
+</tr>
+<tr>
+<td >27</td>
+<td >R/G</td>
+<td >Fuse 5 15A ST3 Fuse Box C</td>
+</tr>
+<tr>
+<td >28</td>
+<td >R/G</td>
+<td >Fuse 5 15A ST3 Fuse Box C</td>
+</tr>
+<tr>
+<td >29</td>
+<td >B/R</td>
+<td >Selector Lever Lock Solenoid Terminal A1</td>
+</tr>
+<tr>
+<td >30</td>
+<td >Y/GR</td>
+<td >Pressure Regulator Valve 5 Terminal 5</td>
+</tr>
+<tr>
+<td >31</td>
+<td >G/W</td>
+<td >Pressure Regulator Valve 1 Terminal 11</td>
+</tr>
+<tr>
+<td >32</td>
+<td >Y/G</td>
+<td >Pressure Regulator Valve 4 Terminal 4</td>
+</tr>
+<tr>
+<td >33</td>
+<td >BR/Y</td>
+<td >Pressure Regulator Valve 6 Terminal 8</td>
+</tr>
+<tr>
+<td >34</td>
+<td >O/BR</td>
+<td >CAN BUS Low</td>
+</tr>
+<tr>
+<td >36</td>
+<td >L/G</td>
+<td >Selector Switch (Multifunction Switch) Terminal 9</td>
+</tr>
+<tr>
+<td >38</td>
+<td >GR</td>
+<td >Output Speed Sensor Terminal 3</td>
+</tr>
+<tr>
+<td >39</td>
+<td >GR/R</td>
+<td >Input Speed Sensor Terminal 2</td>
+</tr>
+<tr>
+<td >40</td>
+<td >V/B</td>
+<td >Selector Lever Terminal 9</td>
+</tr>
+<tr>
+<td >41</td>
+<td >V/L</td>
+<td >Solenoid 1 Terminal 7</td>
+</tr>
+<tr>
+<td >42</td>
+<td >Y/R</td>
+<td >Pressure Regulator Valve 3 Terminal 1</td>
+</tr>
+<tr>
+<td >43</td>
+<td >G</td>
+<td >Pressure Regulator Valve 7 Terminal 6</td>
+</tr>
+<tr>
+<td >44</td>
+<td >L/Y</td>
+<td >Pressure Regulator Valve 2 Terminal 10</td>
+</tr>
+<tr>
+<td >45</td>
+<td >G</td>
+<td >Oil Temp Sensor Terminal 13</td>
+</tr>
+<tr>
+<td >46</td>
+<td >O/B</td>
+<td >CAN BUS High</td>
+</tr>
+<tr>
+<td >48</td>
+<td >L/R</td>
+<td >Selector Switch (Multifunction Switch) Terminal 1</td>
+</tr>
+<tr>
+<td >49</td>
+<td >GR/W</td>
+<td >Selector Lever Terminal 3</td>
+</tr>
+<tr>
+<td >50</td>
+<td >B</td>
+<td >Output Speed Sensor Terminal 4</td>
+</tr>
+<tr>
+<td >51</td>
+<td >V/Y</td>
+<td >Input Speed Sensor Terminal 1</td>
+</tr>
+</tbody>
+</table>

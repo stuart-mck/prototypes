@@ -1,0 +1,5990 @@
+﻿<table >
+<tr><th>DTC / VAG</th><th>SAE P-code</th><th>Description</th></tr>
+<tr>
+<td >&#8211;</td>
+<td >P00A</td>
+<td>"A" Camshaft Position Sensor slow response, Bank 1</td>
+</tr>
+<tr>
+<td >16394</td>
+<td >P0010</td>
+<td>"A" Camshaft Position Actuator Circuit / Open Bank 1</td>
+</tr>
+<tr>
+<td >16395</td>
+<td >P0011</td>
+<td>"A" Camshaft Position - Timing Over-Advanced or System Performance Bank 1</td>
+</tr>
+<tr>
+<td >16396</td>
+<td >P0012</td>
+<td>"A" Camshaft Position - Timing Over-Retarded Bank 1</td>
+</tr>
+<tr>
+<td >16397</td>
+<td >P0013</td>
+<td>"B" Camshaft Position - Actuator Circuit/Open Bank 1</td>
+</tr>
+<tr>
+<td >16398</td>
+<td >P0014</td>
+<td>"B" Camshaft Position - Timing Over-Advanced or System Performance Bank 1</td>
+</tr>
+<tr>
+<td >16399</td>
+<td >P0015</td>
+<td>"B" Camshaft Position - Timing Over-Retarded Bank 1</td>
+</tr>
+<tr>
+<td >16100</td>
+<td >P0016</td>
+<td>Crankshaft Position - Camshaft Position Correlation Bank 1 Sensor A</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P025A</td>
+<td>Fuel Pump Control Circuit Open</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P025C</td>
+<td>Fuel Pump Control Circuit Low</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P025D</td>
+<td>Fuel Pump Control Circuit High</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P0020</td>
+<td>"A" Camshaft Position Actuator Circuit / Open Bank 2</td>
+</tr>
+<tr>
+<td >16414</td>
+<td >P0030</td>
+<td>HO2S Heater Control Circuit Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16415</td>
+<td >P0031</td>
+<td>HO2S Heater Control Circuit Low Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16416</td>
+<td >P0032</td>
+<td>HO2S Heater Control Circuit High Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16420</td>
+<td >P0036</td>
+<td>HO2S Heater Control Circuit Bank 1 Sensor 2</td>
+</tr>
+<tr>
+<td >16421</td>
+<td >P0037</td>
+<td>HO2S Heater Control Circuit Low Bank 1 Sensor 2</td>
+</tr>
+<tr>
+<td >16422</td>
+<td >P0038</td>
+<td>HO2S Heater Control Circuit High Bank 1 Sensor 2</td>
+</tr>
+<tr>
+<td >16424</td>
+<td >P0040</td>
+<td>O2 Sensor Signals Swapped Bank 1 Sensor 1/Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16425</td>
+<td >P0041</td>
+<td>O2 Sensor Signals Swapped Bank 1 Sensor 2/Bank 2 Sensor 2</td>
+</tr>
+<tr>
+<td >16426</td>
+<td >P0042</td>
+<td>HO2S Heater Control Circuit Bank 1 Sensor 3</td>
+</tr>
+<tr>
+<td >16427</td>
+<td >P0043</td>
+<td>HO2S Heater Control Circuit Low Bank 1 Sensor 3</td>
+</tr>
+<tr>
+<td >16428</td>
+<td >P0044</td>
+<td>HO2S Heater Control Circuit High Bank 1 Sensor 3</td>
+</tr>
+<tr>
+<td >16434</td>
+<td >P0050</td>
+<td>HO2S Heater Control Circuit Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16435</td>
+<td >P0051</td>
+<td>HO2S Heater Control Circuit Low Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16436</td>
+<td >P0052</td>
+<td>HO2S Heater Control Circuit High Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16440</td>
+<td >P0056</td>
+<td>HO2S Heater Control Circuit Bank 2 Sensor 2</td>
+</tr>
+<tr>
+<td >16441</td>
+<td >P0057</td>
+<td>HO2S Heater Control Circuit Low Bank 2 Sensor 2</td>
+</tr>
+<tr>
+<td >16442</td>
+<td >P0058</td>
+<td>HO2S Heater Control Circuit High Bank 2 Sensor 2</td>
+</tr>
+<tr>
+<td >16449</td>
+<td >P0065</td>
+<td>Air Assisted Injector Control Range / Performance</td>
+</tr>
+<tr>
+<td >16450</td>
+<td >P0066</td>
+<td>Air Assisted Injector Control Circuit or Circuit Low</td>
+</tr>
+<tr>
+<td >16451</td>
+<td >P0067</td>
+<td>Air Assisted Injector Control Circuit High</td>
+</tr>
+<tr>
+<td >16452</td>
+<td >P0068</td>
+<td>MAP/MAF - Throttle Position Correlation</td>
+</tr>
+<tr>
+<td >16453</td>
+<td >P0069</td>
+<td>Manifold Absolute Pressure - Barometric Pressure Correlation</td>
+</tr>
+<tr>
+<td >16471</td>
+<td >P0087</td>
+<td>Fuel Rail/System Pressure - Too Low</td>
+</tr>
+<tr>
+<td >16472</td>
+<td >P0088</td>
+<td>Fuel Rail/System Pressure - Too High</td>
+</tr>
+<tr>
+<td >16473</td>
+<td >P0089</td>
+<td>Fuel Pressure Regulator 1 Performance</td>
+</tr>
+<tr>
+<td >16481</td>
+<td >P0097</td>
+<td>Intake Air Temperature Sensor 2 Circuit Low Bank 1</td>
+</tr>
+<tr>
+<td >16482</td>
+<td >P0098</td>
+<td>Intake Air Temperature Sensor 2 Circuit High Bank 1</td>
+</tr>
+<tr>
+<td >16484</td>
+<td >P0100</td>
+<td>Mass or Volume Air Flow "A" Circuit</td>
+</tr>
+<tr>
+<td >16485</td>
+<td >P0101</td>
+<td>Mass or Volume Air Flow "A" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16486</td>
+<td >P0102</td>
+<td>Mass or Volume Air Flow "A" Circuit Low</td>
+</tr>
+<tr>
+<td >16487</td>
+<td >P0103</td>
+<td>Mass or Volume Air Flow "A" Circuit High</td>
+</tr>
+<tr>
+<td >16489</td>
+<td >P0105</td>
+<td>Manifold Absolute Pressure/Barometric Pressure Circuit</td>
+</tr>
+<tr>
+<td >16490</td>
+<td >P0106</td>
+<td>Manifold Absolute Pressure/Barometric Pressure Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16491</td>
+<td >P0107</td>
+<td>Manifold Absolute Pressure/Barometric Pressure Circuit Low</td>
+</tr>
+<tr>
+<td >16492</td>
+<td >P0108</td>
+<td>Manifold Absolute Pressure/Barometric Pressure Circuit High</td>
+</tr>
+<tr>
+<td >16495</td>
+<td >P0111</td>
+<td>Intake Air Temperature Sensor 1 Circuit Range/Performance Bank 1</td>
+</tr>
+<tr>
+<td >16496</td>
+<td >P0112</td>
+<td>Intake Air Temperature Sensor 1 Circuit Low Bank 1</td>
+</tr>
+<tr>
+<td >16497</td>
+<td >P0113</td>
+<td>Intake Air Temperature Sensor 1 Circuit High Bank 1</td>
+</tr>
+<tr>
+<td >16500</td>
+<td >P0116</td>
+<td>Engine Coolant Temperature Sensor 1 Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16501</td>
+<td >P0117</td>
+<td>Engine Coolant Temperature Sensor 1 Circuit Low</td>
+</tr>
+<tr>
+<td >16502</td>
+<td >P0118</td>
+<td>Engine Coolant Temperature Sensor 1 Circuit High</td>
+</tr>
+<tr>
+<td >16504</td>
+<td >P0120</td>
+<td>Throttle/Pedal Position Sensor/Switch "A" Circuit</td>
+</tr>
+<tr>
+<td >16505</td>
+<td >P0121</td>
+<td>Throttle/Pedal Position Sensor/Switch "A" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16506</td>
+<td >P0122</td>
+<td>Throttle/Pedal Position Sensor/Switch "A" Circuit Low</td>
+</tr>
+<tr>
+<td >16507</td>
+<td >P0123</td>
+<td>Throttle/Pedal Position Sensor/Switch "A" Circuit High</td>
+</tr>
+<tr>
+<td >16509</td>
+<td >P0125</td>
+<td>Insufficient Coolant Temperature for Closed Loop Fuel Control</td>
+</tr>
+<tr>
+<td >16512</td>
+<td >P0128</td>
+<td>Coolant Thermostat (Coolant Temperature Below Thermostat Regulating Temperature)</td>
+</tr>
+<tr>
+<td >16514</td>
+<td >P0130</td>
+<td>O2 Sensor Circuit Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16515</td>
+<td >P0131</td>
+<td>O2 Sensor Circuit Low Voltage Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16516</td>
+<td >P0132</td>
+<td>O2 Sensor Circuit High Voltage Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16517</td>
+<td >P0133</td>
+<td>O2 Sensor Circuit Slow Response Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16518</td>
+<td >P0134</td>
+<td>O2 Sensor Circuit No Activity Detected Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16519</td>
+<td >P0135</td>
+<td>O2 Sensor Heater Circuit Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16520</td>
+<td >P0136</td>
+<td>O2 Sensor Circuit Bank 1 Sensor 2</td>
+</tr>
+<tr>
+<td >16521</td>
+<td >P0137</td>
+<td>O2 Sensor Circuit Low Voltage Bank 1 Sensor 2</td>
+</tr>
+<tr>
+<td >16522</td>
+<td >P0138</td>
+<td>O2 Sensor Circuit High Voltage Bank 1 Sensor 2</td>
+</tr>
+<tr>
+<td >16523</td>
+<td >P0139</td>
+<td>O2 Sensor Circuit Slow Response Bank 1 Sensor 2</td>
+</tr>
+<tr>
+<td >16524</td>
+<td >P0140</td>
+<td>O2 Sensor Circuit No Activity Detected Bank 1 Sensor 2</td>
+</tr>
+<tr>
+<td >16525</td>
+<td >P0141</td>
+<td>O2 Sensor Heater Circuit Bank 1 Sensor 2</td>
+</tr>
+<tr>
+<td >16526</td>
+<td >P0142</td>
+<td>O2 Sensor Circuit Bank 1 Sensor 3</td>
+</tr>
+<tr>
+<td >16427</td>
+<td >P0143</td>
+<td>O2 Sensor Circuit Low Voltage Bank 1 Sensor 3</td>
+</tr>
+<tr>
+<td >16428</td>
+<td >P0144</td>
+<td>O2 Sensor Circuit High Voltage Bank 1 Sensor 3</td>
+</tr>
+<tr>
+<td >16429</td>
+<td >P0145</td>
+<td>O2 Sensor Circuit Slow Response Bank 1 Sensor 3</td>
+</tr>
+<tr>
+<td >16530</td>
+<td >P0146</td>
+<td>O2 Sensor Circuit No Activity Detected Bank 1 Sensor 3</td>
+</tr>
+<tr>
+<td >16531</td>
+<td >P0147</td>
+<td>O2 Sensor Heater Circuit Bank 1 Sensor 3</td>
+</tr>
+<tr>
+<td >16534</td>
+<td >P0150</td>
+<td>O2 Sensor Circuit Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16535</td>
+<td >P0151</td>
+<td>O2 Sensor Circuit Low Voltage Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16536</td>
+<td >P0152</td>
+<td>O2 Sensor Circuit High Voltage Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16537</td>
+<td >P0153</td>
+<td>O2 Sensor Circuit Slow Response Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16538</td>
+<td >P0154</td>
+<td>O2 Sensor Circuit No Activity Detected Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16539</td>
+<td >P0155</td>
+<td>O2 Sensor Heater Circuit Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16540</td>
+<td >P0156</td>
+<td>O2 Sensor Circuit Bank 2 Sensor 2</td>
+</tr>
+<tr>
+<td >16541</td>
+<td >P0157</td>
+<td>O2 Sensor Circuit Low Voltage Bank 2 Sensor 2</td>
+</tr>
+<tr>
+<td >16542</td>
+<td >P0158</td>
+<td>O2 Sensor Circuit High Voltage Bank 2 Sensor 2</td>
+</tr>
+<tr>
+<td >16543</td>
+<td >P0159</td>
+<td>O2 Sensor Circuit Slow Response Bank 2 Sensor 2</td>
+</tr>
+<tr>
+<td >16544</td>
+<td >P0160</td>
+<td>O2 Sensor Circuit No Activity Detected Bank 2 Sensor 2</td>
+</tr>
+<tr>
+<td >16545</td>
+<td >P0161</td>
+<td>O2 Sensor Heater Circuit Bank 2 Sensor 2</td>
+</tr>
+<tr>
+<td >16554</td>
+<td >P0170</td>
+<td>Fuel Trim Bank 1</td>
+</tr>
+<tr>
+<td >16555</td>
+<td >P0171</td>
+<td>System Too Lean Bank 1</td>
+</tr>
+<tr>
+<td >16556</td>
+<td >P0172</td>
+<td>System Too Rich Bank 1</td>
+</tr>
+<tr>
+<td >16557</td>
+<td >P0173</td>
+<td>Fuel Trim Bank 2</td>
+</tr>
+<tr>
+<td >16558</td>
+<td >P0174</td>
+<td>System Too Lean Bank 2</td>
+</tr>
+<tr>
+<td >16559</td>
+<td >P0175</td>
+<td>System Too Rich Bank 2</td>
+</tr>
+<tr>
+<td >16565</td>
+<td >P0181</td>
+<td>Fuel Temperature Sensor "A" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16566</td>
+<td >P0182</td>
+<td>Fuel Temperature Sensor "A" Circuit Low</td>
+</tr>
+<tr>
+<td >16567</td>
+<td >P0183</td>
+<td>Fuel Temperature Sensor "A" Circuit High</td>
+</tr>
+
+<tr>
+<td >16576</td>
+<td >P0192</td>
+<td>Fuel Rail Pressure Sensor "A" Circuit Low</td>
+</tr>
+<tr>
+<td >16581</td>
+<td >P0197</td>
+<td>Engine Oil Temperature Sensor Circuit Low</td>
+</tr>
+<tr>
+<td >16582</td>
+<td >P0198</td>
+<td>Engine Oil Temperature Sensor Circuit High</td>
+</tr>
+<tr>
+<td >16584</td>
+<td >P0200</td>
+<td>Injector Circuit/Open</td>
+</tr>
+<tr>
+<td >16585</td>
+<td >P0201</td>
+<td>Injector Circuit/Open - Cylinder 1</td>
+</tr>
+<tr>
+<td >16586</td>
+<td >P0202</td>
+<td>Injector Circuit/Open - Cylinder 2</td>
+</tr>
+<tr>
+<td >16587</td>
+<td >P0203</td>
+<td>Injector Circuit/Open - Cylinder 3</td>
+</tr>
+<tr>
+<td >16588</td>
+<td >P0204</td>
+<td>Injector Circuit/Open - Cylinder 4</td>
+</tr>
+<tr>
+<td >16589</td>
+<td >P0205</td>
+<td>Injector Circuit/Open - Cylinder 5</td>
+</tr>
+<tr>
+<td >16590</td>
+<td >P0206</td>
+<td>Injector Circuit/Open - Cylinder 6</td>
+</tr>
+<tr>
+<td >16591</td>
+<td >P0207</td>
+<td>Injector Circuit/Open - Cylinder 7</td>
+</tr>
+<tr>
+<td >16592</td>
+<td >P0208</td>
+<td>Injector Circuit/Open - Cylinder 8</td>
+</tr>
+<tr>
+<td >16599</td>
+<td >P0215</td>
+<td>Engine Shutoff Solenoid</td>
+</tr>
+<tr>
+<td >16600</td>
+<td >P0216</td>
+<td>Injector/Injection Timing Control Circuit</td>
+</tr>
+<tr>
+<td >16603</td>
+<td >P0219</td>
+<td>Engine Over speed Condition</td>
+</tr>
+<tr>
+<td >16605</td>
+<td >P0221</td>
+<td>Throttle/Pedal Position Sensor/Switch "B" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16606</td>
+<td >P0222</td>
+<td>Throttle/Pedal Position Sensor/Switch "B" Circuit Low</td>
+</tr>
+<tr>
+<td >16607</td>
+<td >P0223</td>
+<td>Throttle/Pedal Position Sensor/Switch "B" Circuit High</td>
+</tr>
+<tr>
+<td >16609</td>
+<td >P0225</td>
+<td>Throttle/Pedal Position Sensor/Switch "C" Circuit</td>
+</tr>
+<tr>
+<td >16610</td>
+<td >P0226</td>
+<td>Throttle/Pedal Position Sensor/Switch "C" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16611</td>
+<td >P0227</td>
+<td>Throttle/Pedal Position Sensor/Switch "C" Circuit Low</td>
+</tr>
+<tr>
+<td >16612</td>
+<td >P0228</td>
+<td>Throttle/Pedal Position Sensor/Switch "C" Circuit High</td>
+</tr>
+<tr>
+<td >16614</td>
+<td >P0230</td>
+<td>Fuel Pump Primary Circuit</td>
+</tr>
+<tr>
+<td >16615</td>
+<td >P0231</td>
+<td>Fuel Pump Secondary Circuit Low</td>
+</tr>
+<tr>
+<td >16616</td>
+<td >P0232</td>
+<td>Fuel Pump Secondary Circuit High</td>
+</tr>
+<tr>
+<td >16618</td>
+<td >P0234</td>
+<td>Turbocharger/Supercharger "A" Over boost Condition</td>
+</tr>
+<tr>
+<td >16619</td>
+<td >P0235</td>
+<td>Turbocharger/Supercharger Boost Sensor "A" Circuit</td>
+</tr>
+<tr>
+<td >16620</td>
+<td >P0236</td>
+<td>Turbocharger/Supercharger Boost Sensor "A" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16621</td>
+<td >P0237</td>
+<td>Turbocharger/Supercharger Boost Sensor "A" Circuit Low</td>
+</tr>
+<tr>
+<td >16622</td>
+<td >P0238</td>
+<td>Turbocharger/Supercharger Boost Sensor "A" Circuit High</td>
+</tr>
+<tr>
+<td >16627</td>
+<td >P0243</td>
+<td>Turbocharger/Supercharger Waste gate Solenoid "A"</td>
+</tr>
+<tr>
+<td >16629</td>
+<td >P0245</td>
+<td>Turbocharger Waste gate Solenoid (A) Low Input/Short to ground</td>
+</tr>
+<tr>
+<td >16630</td>
+<td >P0246</td>
+<td>Turbocharger Waste gate Solenoid (A) High Input/Short to B+</td>
+</tr>
+<tr>
+<td >16535</td>
+<td >P0251</td>
+<td>Injection Pump Fuel Metering Control "A" (Cam/Rotor/Injector)</td>
+</tr>
+<tr>
+<td >16636</td>
+<td >P0252</td>
+<td>Injection Pump Fuel Metering Control "A" Range/Performance (Cam/Rotor/Injector)</td>
+</tr>
+<tr>
+<td >16645</td>
+<td >P0261</td>
+<td>Cylinder 1 Injector Circuit Low</td>
+</tr>
+<tr>
+<td >16646</td>
+<td >P0262</td>
+<td>Cylinder 1 Injector Circuit High</td>
+</tr>
+<tr>
+<td >16647</td>
+<td >P0263</td>
+<td>Cylinder 1 Contribution/Balance</td>
+</tr>
+<tr>
+<td >16648</td>
+<td >P0264</td>
+<td>Cylinder 2 Injector Circuit Low</td>
+</tr>
+<tr>
+<td >16649</td>
+<td >P0265</td>
+<td>Cylinder 2 Injector Circuit High</td>
+</tr>
+<tr>
+<td >16650</td>
+<td >P0266</td>
+<td>Cylinder 2 Contribution/Balance</td>
+</tr>
+<tr>
+<td >16651</td>
+<td >P0267</td>
+<td>Cylinder 3 Injector Circuit Low</td>
+</tr>
+<tr>
+<td >16652</td>
+<td >P0268</td>
+<td>Cylinder 3 Injector Circuit High</td>
+</tr>
+<tr>
+<td >16653</td>
+<td >P0269</td>
+<td>Cylinder 3 Contribution/Balance</td>
+</tr>
+<tr>
+<td >16654</td>
+<td >P0270</td>
+<td>Cylinder 4 Injector Circuit Low</td>
+</tr>
+<tr>
+<td >16655</td>
+<td >P0271</td>
+<td>Cylinder 4 Injector Circuit High</td>
+</tr>
+<tr>
+<td >16656</td>
+<td >P0272</td>
+<td>Cylinder 4 Contribution/Balance</td>
+</tr>
+<tr>
+<td >16657</td>
+<td >P0273</td>
+<td>Cylinder 5 Injector Circuit Low</td>
+</tr>
+<tr>
+<td >16658</td>
+<td >P0274</td>
+<td>Cylinder 5 Injector Circuit High</td>
+</tr>
+<tr>
+<td >16659</td>
+<td >P0275</td>
+<td>Cylinder 5 Contribution/Balance</td>
+</tr>
+<tr>
+<td >16660</td>
+<td >P0276</td>
+<td>Cylinder 6 Injector Circuit Low</td>
+</tr>
+<tr>
+<td >16661</td>
+<td >P0277</td>
+<td>Cylinder 6 Injector Circuit High</td>
+</tr>
+<tr>
+<td >16662</td>
+<td >P0278</td>
+<td>Cylinder 6 Contribution/Balance</td>
+</tr>
+<tr>
+<td >16663</td>
+<td >P0279</td>
+<td>Cylinder 7 Injector Circuit Low</td>
+</tr>
+<tr>
+<td >16664</td>
+<td >P0280</td>
+<td>Cylinder 7 Injector Circuit High</td>
+</tr>
+<tr>
+<td >16665</td>
+<td >P0281</td>
+<td>Cylinder 7 Contribution/Balance</td>
+</tr>
+<tr>
+<td >16666</td>
+<td >P0282</td>
+<td>Cylinder 8 Injector Circuit Low</td>
+</tr>
+<tr>
+<td >16667</td>
+<td >P0283</td>
+<td>Cylinder 8 Injector Circuit High</td>
+</tr>
+<tr>
+<td >16668</td>
+<td >P0284</td>
+<td>Cylinder 8 Contribution/Balance</td>
+</tr>
+<tr>
+<td >16683</td>
+<td >P0299</td>
+<td>Turbocharger/Supercharger "A" Under boost Condition</td>
+</tr>
+<tr>
+<td >16684</td>
+<td >P0300</td>
+<td>Random/Multiple Cylinder Misfire Detected</td>
+</tr>
+<tr>
+<td >16685</td>
+<td >P0301</td>
+<td>Cylinder 1 Misfire Detected</td>
+</tr>
+<tr>
+<td >16686</td>
+<td >P0302</td>
+<td>Cylinder 2 Misfire Detected</td>
+</tr>
+<tr>
+<td >16687</td>
+<td >P0303</td>
+<td>Cylinder 3 Misfire Detected</td>
+</tr>
+<tr>
+<td >16688</td>
+<td >P0304</td>
+<td>Cylinder 4 Misfire Detected</td>
+</tr>
+<tr>
+<td >16689</td>
+<td >P0305</td>
+<td>Cylinder 5 Misfire Detected</td>
+</tr>
+<tr>
+<td >16690</td>
+<td >P0306</td>
+<td>Cylinder 6 Misfire Detected</td>
+</tr>
+<tr>
+<td >16691</td>
+<td >P0307</td>
+<td>Cylinder 7 Misfire Detected</td>
+</tr>
+<tr>
+<td >16692</td>
+<td >P0308</td>
+<td>Cylinder 8 Misfire Detected</td>
+</tr>
+<tr>
+<td >16697</td>
+<td >P0313</td>
+<td>Misfire Detected With Low Fuel</td>
+</tr>
+<tr>
+<td >16698</td>
+<td >P0314</td>
+<td>Single Cylinder Misfire (Cylinder not Specified)</td>
+</tr>
+<tr>
+<td >16702</td>
+<td >P0318</td>
+<td>Rough Road Sensor "A" Signal Circuit</td>
+</tr>
+<tr>
+<td >16705</td>
+<td >P0321</td>
+<td>Ignition/Distributor Engine Speed Input Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16706</td>
+<td >P0322</td>
+<td>Ignition/Distributor Engine Speed Input Circuit No Signal</td>
+</tr>
+<tr>
+<td >16708</td>
+<td >P0324</td>
+<td>Knock Control System Error</td>
+</tr>
+<tr>
+<td >16709</td>
+<td >P0325</td>
+<td>Knock Sensor 1 Circuit Bank 1 or Single Sensor</td>
+</tr>
+<tr>
+<td >16710</td>
+<td >P0326</td>
+<td>Knock Sensor 1 Circuit Range/Performance Bank 1 or Single Sensor</td>
+</tr>
+<tr>
+<td >16711</td>
+<td >P0327</td>
+<td>Knock Sensor 1 Circuit Low Bank 1 or Single Sensor</td>
+</tr>
+<tr>
+<td >16712</td>
+<td >P0328</td>
+<td>Knock Sensor 1 Circuit High Bank 1 or Single Sensor</td>
+</tr>
+<tr>
+<td >16716</td>
+<td >P0332</td>
+<td>Knock Sensor 2 Circuit Low Bank 2</td>
+</tr>
+<tr>
+<td >16717</td>
+<td >P0333</td>
+<td>Knock Sensor 2 Circuit High Bank 2</td>
+</tr>
+<tr>
+<td >16719</td>
+<td >P0335</td>
+<td>Crankshaft Position Sensor "A" Circuit</td>
+</tr>
+<tr>
+<td >16720</td>
+<td >P0336</td>
+<td>Crankshaft Position Sensor "A" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16721</td>
+<td >P0337</td>
+<td>Crankshaft Position Sensor "A" Circuit Low</td>
+</tr>
+<tr>
+<td >16724</td>
+<td >P0340</td>
+<td>Camshaft Position Sensor "A" Circuit Bank 1 or Single Sensor</td>
+</tr>
+<tr>
+<td >16725</td>
+<td >P0341</td>
+<td>Camshaft Position Sensor "A" Circuit Range/Performance Bank 1 or Single Sensor</td>
+</tr>
+<tr>
+<td >16726</td>
+<td >P0342</td>
+<td>Camshaft Position Sensor "A" Circuit Low Bank 1 or Single Sensor</td>
+</tr>
+<tr>
+<td >16727</td>
+<td >P0343</td>
+<td>Camshaft Position Sensor "A" Circuit High Bank 1 or Single Sensor</td>
+</tr>
+<tr>
+<td >16729</td>
+<td >P0345</td>
+<td>Camshaft Position Sensor "A" Circuit Bank 2</td>
+</tr>
+<tr>
+<td >16730</td>
+<td >P0346</td>
+<td>Camshaft Position Sensor "A" Circuit Range/Performance Bank 2</td>
+</tr>
+<tr>
+<td >16731</td>
+<td >P0347</td>
+<td>Camshaft Position Sensor "A" Circuit Low Bank 2</td>
+</tr>
+<tr>
+<td >16732</td>
+<td >P0348</td>
+<td>Camshaft Position Sensor "A" Circuit High Bank 2</td>
+</tr>
+<tr>
+<td >16735</td>
+<td >P0351</td>
+<td>Ignition Coil "A" Primary/Secondary Circuit</td>
+</tr>
+<tr>
+<td >16736</td>
+<td >P0352</td>
+<td>Ignition Coil "B" Primary/Secondary Circuit</td>
+</tr>
+<tr>
+<td >16737</td>
+<td >P0353</td>
+<td>Ignition Coil "C" Primary/Secondary Circuit</td>
+</tr>
+<tr>
+<td >16738</td>
+<td >P0354</td>
+<td>Ignition Coil "D" Primary/Secondary Circuit</td>
+</tr>
+<tr>
+<td >16739</td>
+<td >P0355</td>
+<td>Ignition Coil "E" Primary/Secondary Circuit</td>
+</tr>
+<tr>
+<td >16740</td>
+<td >P0356</td>
+<td>Ignition Coil "F" Primary/Secondary Circuit</td>
+</tr>
+<tr>
+<td >16741</td>
+<td >P0357</td>
+<td>Ignition Coil "G" Primary/Secondary Circuit</td>
+</tr>
+<tr>
+<td >16742</td>
+<td >P0358</td>
+<td>Ignition Coil "H" Primary/Secondary Circuit</td>
+</tr>
+<tr>
+<td >16764</td>
+<td >P0380</td>
+<td>Glow Plug/Heater Circuit "A"</td>
+</tr>
+<tr>
+<td >16765</td>
+<td >P0381</td>
+<td>Glow Plug/Heater Indicator Circuit</td>
+</tr>
+<tr>
+<td >16784</td>
+<td >P0400</td>
+<td>Exhaust Gas Recirculation "A" Flow</td>
+</tr>
+<tr>
+<td >16785</td>
+<td >P0401</td>
+<td>Exhaust Gas Recirculation "A" Flow Insufficient Detected</td>
+</tr>
+<tr>
+<td >16786</td>
+<td >P0402</td>
+<td>Exhaust Gas Recirculation "A" Flow Excessive Detected</td>
+</tr>
+<tr>
+<td >16787</td>
+<td >P0403</td>
+<td>Exhaust Gas Recirculation "A" Control Circuit</td>
+</tr>
+<tr>
+<td >16788</td>
+<td >P0404</td>
+<td>Exhaust Gas Recirculation "A" Control Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16789</td>
+<td >P0405</td>
+<td>Exhaust Gas Recirculation Sensor "A" Circuit Low</td>
+</tr>
+<tr>
+<td >16790</td>
+<td >P0406</td>
+<td>Exhaust Gas Recirculation Sensor "A" Circuit High</td>
+</tr>
+<tr>
+<td >16791</td>
+<td >P0407</td>
+<td>Exhaust Gas Recirculation Sensor "B" Circuit Low</td>
+</tr>
+<tr>
+<td >16792</td>
+<td >P0408</td>
+<td>Exhaust Gas Recirculation Sensor "B" Circuit High</td>
+</tr>
+<tr>
+<td >16794</td>
+<td >P0410</td>
+<td>Secondary Air Injection System</td>
+</tr>
+<tr>
+<td >16795</td>
+<td >P0411</td>
+<td>Secondary Air Injection System Incorrect Flow Detected</td>
+</tr>
+<tr>
+<td >16796</td>
+<td >P0412</td>
+<td>Secondary Air Injection System Switching Valve "A" Circuit</td>
+</tr>
+<tr>
+<td >16797</td>
+<td >P0413</td>
+<td>Secondary Air Injection System Switching Valve "A" Circuit Open</td>
+</tr>
+<tr>
+<td >16798</td>
+<td >P0414</td>
+<td>Secondary Air Injection System Switching Valve "A" Circuit Shorted</td>
+</tr>
+<tr>
+<td >16802</td>
+<td >P0418</td>
+<td>Secondary Air Injection System Control "A" Circuit</td>
+</tr>
+<tr>
+<td >16804</td>
+<td >P0420</td>
+<td>Catalyst System Efficiency Below Threshold Bank 1</td>
+</tr>
+<tr>
+<td >16806</td>
+<td >P0422</td>
+<td>Main Catalyst Efficiency Below Threshold Bank 1</td>
+</tr>
+<tr>
+<td >16811</td>
+<td >P0427</td>
+<td>Catalyst Temperature Sensor Circuit Low Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16812</td>
+<td >P0428</td>
+<td>Catalyst Temperature Sensor Circuit High Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16914</td>
+<td >P0430</td>
+<td>Catalyst System Efficiency Below Threshold Bank 2</td>
+</tr>
+<tr>
+<td >16816</td>
+<td >P0432</td>
+<td>Main Catalyst Efficiency Below Threshold Bank 2</td>
+</tr>
+<tr>
+<td >16820</td>
+<td >P0436</td>
+<td>Catalyst Temperature Sensor Circuit Range/Performance Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16821</td>
+<td >P0437</td>
+<td>Catalyst Temperature Sensor Circuit Low Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16822</td>
+<td >P0438</td>
+<td>Catalyst Temperature Sensor Circuit High Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >16824</td>
+<td >P0440</td>
+<td>Evaporative Emission System</td>
+</tr>
+<tr>
+<td >16825</td>
+<td >P0441</td>
+<td>Evaporative Emission System Incorrect Purge Flow</td>
+</tr>
+<tr>
+<td >16826</td>
+<td >P0442</td>
+<td>Evaporative Emission System Leak Detected (small leak)</td>
+</tr>
+<tr>
+<td >16827</td>
+<td >P0443</td>
+<td>Evaporative Emission System Purge Control Valve Circuit</td>
+</tr>
+<tr>
+<td >16828</td>
+<td >P0444</td>
+<td>Evaporative Emission System Purge Control Valve Circuit Open</td>
+</tr>
+<tr>
+<td >16829</td>
+<td >P0445</td>
+<td>Evaporative Emission System Purge Control Valve Circuit Shorted</td>
+</tr>
+<tr>
+<td >16833</td>
+<td >P0449</td>
+<td>Evaporative Emission System Vent Valve/Solenoid Circuit</td>
+</tr>
+<tr>
+<td >16836</td>
+<td >P0452</td>
+<td>Evaporative Emission System Pressure Sensor/Switch Low</td>
+</tr>
+<tr>
+<td >16837</td>
+<td >P0453</td>
+<td>Evaporative Emission System Pressure Sensor/Switch High</td>
+</tr>
+<tr>
+<td >16839</td>
+<td >P0455</td>
+<td>Evaporative Emission System Leak Detected (large leak)</td>
+</tr>
+<tr>
+<td >16840</td>
+<td >P0456</td>
+<td>Evaporative Emission System Leak Detected (small leak)</td>
+</tr>
+<tr>
+<td >16842</td>
+<td >P0458</td>
+<td>Evaporative Emission System Purge Control Valve Circuit Low</td>
+</tr>
+<tr>
+<td >16843</td>
+<td >P0459</td>
+<td>Evaporative Emission System Purge Control Valve Circuit High</td>
+</tr>
+<tr>
+<td >16845</td>
+<td >P0461</td>
+<td>Fuel Level Sensor "A" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16846</td>
+<td >P0462</td>
+<td>Fuel Level Sensor "A" Circuit Low</td>
+</tr>
+<tr>
+<td >16847</td>
+<td >P0463</td>
+<td>Fuel Level Sensor "A" Circuit High</td>
+</tr>
+<tr>
+<td >16864</td>
+<td >P0480</td>
+<td>Fan 1 Control Circuit</td>
+</tr>
+<tr>
+<td >16865</td>
+<td >P0481</td>
+<td>Fan 2 Control Circuit</td>
+</tr>
+<tr>
+<td >16873</td>
+<td >P0489</td>
+<td>Exhaust Gas Recirculation "A" Control Circuit Low</td>
+</tr>
+<tr>
+<td >16874</td>
+<td >P0490</td>
+<td>Exhaust Gas Recirculation "A" Control Circuit High</td>
+</tr>
+<tr>
+<td >16875</td>
+<td >P0491</td>
+<td>Secondary Air Injection System Insufficient Flow Bank 1</td>
+</tr>
+<tr>
+<td >16876</td>
+<td >P0492</td>
+<td>Secondary Air Injection System Insufficient Flow Bank 2</td>
+</tr>
+<tr>
+<td >16882</td>
+<td >P0498</td>
+<td>Evaporative Emission System Vent Valve Control Circuit Low</td>
+</tr>
+<tr>
+<td >16883</td>
+<td >P0499</td>
+<td>Evaporative Emission System Vent Valve Control Circuit High</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P050A</td>
+<td>Cold Start Idle Air Control System Performance</td>
+</tr>
+<tr>
+<td >16885</td>
+<td >P0501</td>
+<td>Vehicle Speed Sensor "A" Range/Performance</td>
+</tr>
+<tr>
+<td >16887</td>
+<td >P0503</td>
+<td>Vehicle Speed Sensor "A" Intermittent/Erratic/High</td>
+</tr>
+<tr>
+<td >16889</td>
+<td >P0505</td>
+<td>Idle Air Control System</td>
+</tr>
+<tr>
+<td >16890</td>
+<td >P0506</td>
+<td>Idle Air Control System RPM Lower Than Expected</td>
+</tr>
+<tr>
+<td >16891</td>
+<td >P0507</td>
+<td>Idle Air Control System RPM Higher Than Expected</td>
+</tr>
+<tr>
+<td >16894</td>
+<td >P0510</td>
+<td>Closed Throttle Position Switch</td>
+</tr>
+<tr>
+<td >16897</td>
+<td >P0513</td>
+<td>Incorrect Immobilizer Key</td>
+</tr>
+<tr>
+<td >16915</td>
+<td >P0531</td>
+<td>A/C Refrigerant Pressure Sensor "A" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16916</td>
+<td >P0532</td>
+<td>A/C Refrigerant Pressure Sensor "A" Circuit Low</td>
+</tr>
+<tr>
+<td >16917</td>
+<td >P0533</td>
+<td>A/C Refrigerant Pressure Sensor "A" Circuit High</td>
+</tr>
+<tr>
+<td >16928</td>
+<td >P0544</td>
+<td>Exhaust Gas Temperature Sensor Circuit Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16929</td>
+<td >P0545</td>
+<td>Exhaust Gas Temperature Sensor Circuit Low Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16930</td>
+<td >P0546</td>
+<td>Exhaust Gas Temperature Sensor Circuit High Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >16935</td>
+<td >P0551</td>
+<td>Power Steering Pressure Sensor/Switch Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >16944</td>
+<td >P0560</td>
+<td>System Voltage</td>
+</tr>
+<tr>
+<td >16946</td>
+<td >P0562</td>
+<td>System Voltage Low</td>
+</tr>
+<tr>
+<td >16947</td>
+<td >P0563</td>
+<td>System Voltage High</td>
+</tr>
+<tr>
+<td >16952</td>
+<td >P0568</td>
+<td>Cruise Control "Set" Signal</td>
+</tr>
+<tr>
+<td >16955</td>
+<td >P0571</td>
+<td>Brake Switch "A" Circuit</td>
+</tr>
+<tr>
+<td >16984</td>
+<td >P0600</td>
+<td>Serial Communication Link</td>
+</tr>
+<tr>
+<td >16985</td>
+<td >P0601</td>
+<td>Internal Control Module Memory Check Sum Error</td>
+</tr>
+<tr>
+<td >16986</td>
+<td >P0602</td>
+<td>Control Module Programming Error</td>
+</tr>
+<tr>
+<td >16987</td>
+<td >P0603</td>
+<td>Internal Control Module Keep Alive Memory (KAM) Error</td>
+</tr>
+<tr>
+<td >16988</td>
+<td >P0604</td>
+<td>Internal Control Module Random Access Memory (RAM) Error</td>
+</tr>
+<tr>
+<td >16989</td>
+<td >P0605</td>
+<td>Internal Control Module Read Only Memory (ROM) Error</td>
+</tr>
+<tr>
+<td >16990</td>
+<td >P0606</td>
+<td>Control Module Processor</td>
+</tr>
+<tr>
+<td >16991</td>
+<td >P0607</td>
+<td>Control Module Performance</td>
+</tr>
+<tr>
+<td >16992</td>
+<td >P0608</td>
+<td>Control Module VSS Output "A"</td>
+</tr>
+<tr>
+<td >16993</td>
+<td >P0609</td>
+<td>Control Module VSS Output "B"</td>
+</tr>
+<tr>
+<td >16994</td>
+<td >P0610</td>
+<td>Control Module Vehicle Options Error</td>
+</tr>
+<tr>
+<td >16997</td>
+<td >P0613</td>
+<td>TCM Processor</td>
+</tr>
+<tr>
+<td >16998</td>
+<td >P0614</td>
+<td>ECM/TCM Incompatible</td>
+</tr>
+<tr>
+<td >17011</td>
+<td >P0627</td>
+<td>Fuel Pump "A" Control Circuit/Open</td>
+</tr>
+<tr>
+<td >17012</td>
+<td >P0628</td>
+<td>Fuel Pump "A" Control Circuit Low</td>
+</tr>
+<tr>
+<td >17013</td>
+<td >P0629</td>
+<td>Fuel Pump "A" Control Circuit High</td>
+</tr>
+<tr>
+<td >17084</td>
+<td >P0634</td>
+<td>PCM/ECM/TCM Internal Temperature "A" Too High</td>
+</tr>
+<tr>
+<td >17022</td>
+<td >P0638</td>
+<td>Throttle Actuator Control Range/Performance Bank 1</td>
+</tr>
+<tr>
+<td >17023</td>
+<td >P0639</td>
+<td>Throttle Actuator Control Range/Performance Bank 2</td>
+</tr>
+<tr>
+<td >17025</td>
+<td >P0641</td>
+<td>Sensor Reference Voltage "A" Circuit/Open</td>
+</tr>
+<tr>
+<td >17026</td>
+<td >P0642</td>
+<td>Sensor Reference Voltage "A" Circuit Low</td>
+</tr>
+<tr>
+<td >17027</td>
+<td >P0643</td>
+<td>Sensor Reference Voltage "A" Circuit High</td>
+</tr>
+<tr>
+<td >17029</td>
+<td >P0645</td>
+<td>A/C Clutch Relay Control Circuit</td>
+</tr>
+<tr>
+<td >17034</td>
+<td >P0650</td>
+<td>Malfunction Indicator Lamp (MIL) Control Circuit</td>
+</tr>
+<tr>
+<td >17035</td>
+<td >P0651</td>
+<td>Sensor Reference Voltage "B" Circuit/Open</td>
+</tr>
+<tr>
+<td >17036</td>
+<td >P0652</td>
+<td>Sensor Reference Voltage "B" Circuit Low</td>
+</tr>
+<tr>
+<td >17037</td>
+<td >P0653</td>
+<td>Sensor Reference Voltage "B" Circuit High</td>
+</tr>
+<tr>
+<td >17038</td>
+<td >P0654</td>
+<td>Engine RPM Output Circuit</td>
+</tr>
+<tr>
+<td >17040</td>
+<td >P0656</td>
+<td>Fuel Level Output Circuit</td>
+</tr>
+<tr>
+<td >17041</td>
+<td >P0657</td>
+<td>Actuator Supply Voltage "A" Circuit/Open</td>
+</tr>
+<tr>
+<td >17042</td>
+<td >P0658</td>
+<td>Actuator Supply Voltage "A" Circuit Low</td>
+</tr>
+<tr>
+<td >17043</td>
+<td >P0659</td>
+<td>Actuator Supply Voltage "A" Circuit High</td>
+</tr>
+<tr>
+<td >17044</td>
+<td >P0660</td>
+<td>Intake Manifold Tuning Valve Control Circuit/Open Bank 1&#160;</td>
+</tr>
+<tr>
+<td >17045</td>
+<td >P0661</td>
+<td>Intake Manifold Tuning Valve Control Circuit Low Bank 1&#160;</td>
+</tr>
+<tr>
+<td >17046</td>
+<td >P0662</td>
+<td>Intake Manifold Tuning Valve Control Circuit High Bank 1&#160;</td>
+</tr>
+<tr>
+<td >17052</td>
+<td >P0668</td>
+<td>PCM/ECM/TCM Internal Temperature Sensor "A" Circuit Low</td>
+</tr>
+<tr>
+<td >17053</td>
+<td >P0669</td>
+<td>PCM/ECM/TCM Internal Temperature Sensor "A" Circuit High</td>
+</tr>
+<tr>
+<td >17054</td>
+<td >P0670</td>
+<td>Glow Plug Control Module Control Circuit/Open</td>
+</tr>
+<tr>
+<td >17055</td>
+<td >P0671</td>
+<td>Cylinder 1 Glow Plug Circuit/Open</td>
+</tr>
+<tr>
+<td >17056</td>
+<td >P0672</td>
+<td>Cylinder 2 Glow Plug Circuit/Open</td>
+</tr>
+<tr>
+<td >17057</td>
+<td >P0673</td>
+<td>Cylinder 3 Glow Plug Circuit/Open</td>
+</tr>
+<tr>
+<td >17058</td>
+<td >P0674</td>
+<td>Cylinder 4 Glow Plug Circuit/Open</td>
+</tr>
+<tr>
+<td >17068</td>
+<td >P0684</td>
+<td>Glow Plug Control Module to PCM Communication Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >17069</td>
+<td >P0685</td>
+<td>ECM/PCM Power Relay Control Circuit/Open</td>
+</tr>
+<tr>
+<td >17070</td>
+<td >P0686</td>
+<td>ECM/PCM Power Relay Control Circuit Low</td>
+</tr>
+<tr>
+<td >17071</td>
+<td >P0687</td>
+<td>ECM/PCM Power Relay Control Circuit High</td>
+</tr>
+<tr>
+<td >17072</td>
+<td >P0688</td>
+<td>ECM/PCM Power Relay Sense Circuit/Open</td>
+</tr>
+<tr>
+<td >17075</td>
+<td >P0691</td>
+<td>Fan 1 Control Circuit Low</td>
+</tr>
+<tr>
+<td >17076</td>
+<td >P0692</td>
+<td>Fan 1 Control Circuit High</td>
+</tr>
+<tr>
+<td >17081</td>
+<td >P0697</td>
+<td>Sensor Reference Voltage "C" Circuit/Open</td>
+</tr>
+<tr>
+<td >17082</td>
+<td >P0698</td>
+<td>Sensor Reference Voltage "C" Circuit Low</td>
+</tr>
+<tr>
+<td >17083</td>
+<td >P0699</td>
+<td>Sensor Reference Voltage "C" Circuit High</td>
+</tr>
+<tr>
+<td >17084</td>
+<td >P0700</td>
+<td>Transmission Control System (MIL Request)</td>
+</tr>
+<tr>
+<td >17085</td>
+<td >P0701</td>
+<td>Transmission Control System Range/Performance</td>
+</tr>
+<tr>
+<td >17086</td>
+<td >P0702</td>
+<td>Transmission Control System Electrical</td>
+</tr>
+<tr>
+<td >17087</td>
+<td >P0703</td>
+<td>Brake Switch "B" Circuit</td>
+</tr>
+<tr>
+<td >17088</td>
+<td >P0704</td>
+<td>Clutch Switch Input Circuit</td>
+</tr>
+<tr>
+<td >17089</td>
+<td >P0705</td>
+<td>Transmission Range Sensor "A" Circuit (PRNDL Input)</td>
+</tr>
+<tr>
+<td >17090</td>
+<td >P0706</td>
+<td>Transmission Range Sensor "A" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >17091</td>
+<td >P0707</td>
+<td>Transmission Range Sensor "A" Circuit Low</td>
+</tr>
+<tr>
+<td >17092</td>
+<td >P0708</td>
+<td>Transmission Range Sensor "A" Circuit High</td>
+</tr>
+<tr>
+<td >17094</td>
+<td >P0710</td>
+<td>Transmission Fluid Temperature Sensor "A" Circuit</td>
+</tr>
+<tr>
+<td >17095</td>
+<td >P0711</td>
+<td>Transmission Fluid Temperature Sensor "A" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >17096</td>
+<td >P0712</td>
+<td>Transmission Fluid Temperature Sensor "A" Circuit Low</td>
+</tr>
+<tr>
+<td >17097</td>
+<td >P0713</td>
+<td>Transmission Fluid Temperature Sensor "A" Circuit High</td>
+</tr>
+<tr>
+<td >17098</td>
+<td >P0714</td>
+<td>Transmission Fluid Temperature Sensor "A" Circuit Intermittent</td>
+</tr>
+<tr>
+<td >17099</td>
+<td >P0715</td>
+<td>Input/Turbine Speed Sensor "A" Circuit</td>
+</tr>
+<tr>
+<td >17100</td>
+<td >P0716</td>
+<td>Input/Turbine Speed Sensor "A" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >17101</td>
+<td >P0717</td>
+<td>Input/Turbine Speed Sensor "A" Circuit No Signal</td>
+</tr>
+<tr>
+<td >17104</td>
+<td >P0720</td>
+<td>Output Speed Sensor Circuit</td>
+</tr>
+<tr>
+<td >17105</td>
+<td >P0721</td>
+<td>Output Speed Sensor Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >17106</td>
+<td >P0722</td>
+<td>Output Speed Sensor Circuit No Signal</td>
+</tr>
+<tr>
+<td >17109</td>
+<td >P0725</td>
+<td>Engine Speed Input Circuit</td>
+</tr>
+<tr>
+<td >17110</td>
+<td >P0726</td>
+<td>Engine Speed Input Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >17111</td>
+<td >P0727</td>
+<td>Engine Speed Input Circuit No Signal</td>
+</tr>
+<tr>
+<td >17113</td>
+<td >P0729</td>
+<td>Gear 6 Incorrect Ratio</td>
+</tr>
+<tr>
+<td >17114</td>
+<td >P0730</td>
+<td>Incorrect Gear Ratio</td>
+</tr>
+<tr>
+<td >17115</td>
+<td >P0731</td>
+<td>Gear 1 Incorrect Ratio</td>
+</tr>
+<tr>
+<td >17116</td>
+<td >P0732</td>
+<td>Gear 2 Incorrect Ratio</td>
+</tr>
+<tr>
+<td >17117</td>
+<td >P0733</td>
+<td>Gear 3 Incorrect Ratio</td>
+</tr>
+<tr>
+<td >17118</td>
+<td >P0734</td>
+<td>Gear 4 Incorrect Ratio</td>
+</tr>
+<tr>
+<td >17119</td>
+<td >P0735</td>
+<td>Gear 5 Incorrect Ratio</td>
+</tr>
+<tr>
+<td >17120</td>
+<td >P0736</td>
+<td>Reverse Incorrect Ratio</td>
+</tr>
+<tr>
+<td >17124</td>
+<td >P0740</td>
+<td>Torque Converter Clutch Circuit/Open</td>
+</tr>
+<tr>
+<td >17125</td>
+<td >P0741</td>
+<td>Torque Converter Clutch Circuit Performance/Stuck Off</td>
+</tr>
+<tr>
+<td >17127</td>
+<td >P0743</td>
+<td>Torque Converter Clutch Circuit Electrical</td>
+</tr>
+<tr>
+<td >17130</td>
+<td >P0746</td>
+<td>Pressure Control Solenoid "A" Performance/Stuck Off</td>
+</tr>
+<tr>
+<td >17131</td>
+<td >P0747</td>
+<td>Pressure Control Solenoid "A" Stuck On</td>
+</tr>
+<tr>
+<td >17132</td>
+<td >P0748</td>
+<td>Pressure Control Solenoid "A" Electrical</td>
+</tr>
+<tr>
+<td >17133</td>
+<td >P0749</td>
+<td>Pressure Control Solenoid "A" Intermittent</td>
+</tr>
+<tr>
+<td >17134</td>
+<td >P0750</td>
+<td>Shift Solenoid "A"</td>
+</tr>
+<tr>
+<td >17135</td>
+<td >P0751</td>
+<td>Shift Solenoid "A" Performance/Stuck Off</td>
+</tr>
+<tr>
+<td >17136</td>
+<td >P0752</td>
+<td>Shift Solenoid "A" Stuck On</td>
+</tr>
+<tr>
+<td >17137</td>
+<td >P0753</td>
+<td>Shift Solenoid "A" Electrical</td>
+</tr>
+<tr>
+<td >17140</td>
+<td >P0756</td>
+<td>Shift Solenoid "B" Performance/Stuck Off</td>
+</tr>
+<tr>
+<td >17141</td>
+<td >P0757</td>
+<td>Shift Solenoid "B" Stuck On</td>
+</tr>
+<tr>
+<td >17142</td>
+<td >P0758</td>
+<td>Shift Solenoid "B" Electrical</td>
+</tr>
+<tr>
+<td >17145</td>
+<td >P0761</td>
+<td>Shift Solenoid "C" Performance/Stuck Off</td>
+</tr>
+<tr>
+<td >17146</td>
+<td >P0762</td>
+<td>Shift Solenoid "C" Stuck On</td>
+</tr>
+<tr>
+<td >17147</td>
+<td >P0763</td>
+<td>Shift Solenoid "C" Electrical</td>
+</tr>
+<tr>
+<td >17150</td>
+<td >P0766</td>
+<td>Shift Solenoid "D" Performance/Stuck Off</td>
+</tr>
+<tr>
+<td >17152</td>
+<td >P0768</td>
+<td>Shift Solenoid "D" Electrical</td>
+</tr>
+<tr>
+<td >17155</td>
+<td >P0771</td>
+<td>Shift Solenoid "E" Performance/Stuck Off</td>
+</tr>
+<tr>
+<td >17157</td>
+<td >P0773</td>
+<td>Shift Solenoid "E" Electrical</td>
+</tr>
+<tr>
+<td >17160</td>
+<td >P0776</td>
+<td>Pressure Control Solenoid "B" Performance/Stuck Off</td>
+</tr>
+<tr>
+<td >17161</td>
+<td >P0777</td>
+<td>Pressure Control Solenoid "B" Stuck On</td>
+</tr>
+<tr>
+<td >17162</td>
+<td >P0778</td>
+<td>Pressure Control Solenoid "B" Electrical</td>
+</tr>
+<tr>
+<td >17163</td>
+<td >P0779</td>
+<td>Pressure Control Solenoid "B" Intermittent</td>
+</tr>
+<tr>
+<td >17164</td>
+<td >P0780</td>
+<td>Shift Error</td>
+</tr>
+<tr>
+<td >17165</td>
+<td >P0781</td>
+<td>1-2 Shift</td>
+</tr>
+<tr>
+<td >17166</td>
+<td >P0782</td>
+<td>2-3 Shift</td>
+</tr>
+<tr>
+<td >17167</td>
+<td >P0783</td>
+<td>3-4 Shift</td>
+</tr>
+<tr>
+<td >17168</td>
+<td >P0784</td>
+<td>4-5 Shift</td>
+</tr>
+<tr>
+<td >17169</td>
+<td >P0785</td>
+<td>Shift Timing Solenoid "A"</td>
+</tr>
+<tr>
+<td >17174</td>
+<td >P0790</td>
+<td>Normal/Performance Switch Circuit</td>
+</tr>
+<tr>
+<td >17175</td>
+<td >P0791</td>
+<td>Intermediate Shaft Speed Sensor "A" Circuit</td>
+</tr>
+<tr>
+<td >17180</td>
+<td >P0796</td>
+<td>Pressure Control Solenoid "C" Performance/Stuck Off</td>
+</tr>
+<tr>
+<td >17181</td>
+<td >P0797</td>
+<td>Pressure Control Solenoid "C" Stuck On</td>
+</tr>
+<tr>
+<td >17182</td>
+<td >P0798</td>
+<td>Pressure Control Solenoid "C" Electrical</td>
+</tr>
+<tr>
+<td >17183</td>
+<td >P0799</td>
+<td>Pressure Control Solenoid "C" Intermittent</td>
+</tr>
+<tr>
+<td >17195</td>
+<td >P0811</td>
+<td>Excessive Clutch "A" Slippage</td>
+</tr>
+<tr>
+<td >17204</td>
+<td >P0820</td>
+<td>Gear Lever X-Y Position Sensor Circuit</td>
+</tr>
+<tr>
+<td >17213</td>
+<td >P0829</td>
+<td>5-6 Shift</td>
+</tr>
+<tr>
+<td >17224</td>
+<td >P0840</td>
+<td>Transmission Fluid Pressure Sensor/Switch "A" Circuit</td>
+</tr>
+<tr>
+<td >17225</td>
+<td >P0841</td>
+<td>Transmission Fluid Pressure Sensor/Switch "A" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >17226</td>
+<td >P0842</td>
+<td>Transmission Fluid Pressure Sensor/Switch "A" Circuit Low</td>
+</tr>
+<tr>
+<td >17227</td>
+<td >P0843</td>
+<td>Transmission Fluid Pressure Sensor/Switch "A" Circuit High</td>
+</tr>
+<tr>
+<td >17228</td>
+<td >P0844</td>
+<td>Transmission Fluid Pressure Sensor/Switch "A" Circuit Intermittent</td>
+</tr>
+<tr>
+<td >17229</td>
+<td >P0845</td>
+<td>Transmission Fluid Pressure Sensor/Switch "B" Circuit</td>
+</tr>
+<tr>
+<td >17230</td>
+<td >P0846</td>
+<td>Transmission Fluid Pressure Sensor/Switch "B" Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >17247</td>
+<td >P0863</td>
+<td>TCM Communication Circuit</td>
+</tr>
+<tr>
+<td >17248</td>
+<td >P0864</td>
+<td>TCM Communication Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >17249</td>
+<td >P0865</td>
+<td>TCM Communication Circuit Low</td>
+</tr>
+<tr>
+<td >17268</td>
+<td >P0884</td>
+<td>TCM Power Input Signal Intermittent</td>
+</tr>
+<tr>
+<td >17270</td>
+<td >P0886</td>
+<td>TCM Power Relay Control Circuit Low</td>
+</tr>
+<tr>
+<td >17271</td>
+<td >P0887</td>
+<td>TCM Power Relay Control Circuit High</td>
+</tr>
+<tr>
+<td >17273</td>
+<td >P0889</td>
+<td>TCM Power Relay Sense Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >17274</td>
+<td >P0890</td>
+<td>TCM Power Relay Sense Circuit Low</td>
+</tr>
+<tr>
+<td >17275</td>
+<td >P0891</td>
+<td>TCM Power Relay Sense Circuit High</td>
+</tr>
+<tr>
+<td >17276</td>
+<td >P0892</td>
+<td>TCM Power Relay Sense Circuit Intermittent</td>
+</tr>
+<tr>
+<td >17298</td>
+<td >P0914</td>
+<td>Gear Shift Position Circuit</td>
+</tr>
+<tr>
+<td >17303</td>
+<td >P0919</td>
+<td>Gear Shift Position Control Error</td>
+</tr>
+<tr>
+<td >17313</td>
+<td >P0929</td>
+<td>Gear Shift Lock Solenoid/Actuator Control Circuit "A" Range/Performance</td>
+</tr>
+<tr>
+<td >17433</td>
+<td >P1025</td>
+<td>Fuel Pressure Regulator Valve Mechanical Malfunction</td>
+</tr>
+<tr>
+<td >17434</td>
+<td >P1026</td>
+<td>Activation Intake Manifold Flap for Air-stream Regulation, Short to B+</td>
+</tr>
+<tr>
+<td >17435</td>
+<td >P1027</td>
+<td>Activation Intake Manifold Flap for Air-stream Regulation, Short to Ground</td>
+</tr>
+<tr>
+<td >17436</td>
+<td >P1028</td>
+<td>Activation Intake Manifold Flap for Air-stream Regulation, Open Circuit</td>
+</tr>
+<tr>
+<td >17501</td>
+<td >P1093</td>
+<td>Bank 1 Fuel Measuring System 2 Malfunction</td>
+</tr>
+<tr>
+<td >17506</td>
+<td >P1098</td>
+<td>Intake Manifold Tuning (IMT) Valve Position Sensor, Open Circuit / Short to B+</td>
+</tr>
+<tr>
+<td >17509</td>
+<td >P1101</td>
+<td>O2 Sensor Cir.,Bank1-Sensor1Voltage too Low/Air Leak</td>
+</tr>
+<tr>
+<td >17510</td>
+<td >P1102</td>
+<td>O2 Sensor Heating Cir.,Bank1-Sensor1 Short to B+</td>
+</tr>
+<tr>
+<td >17511</td>
+<td >P1103</td>
+<td>O2 Sensor Heating Cir.,Bank1-Sensor1 Output too Low</td>
+</tr>
+<tr>
+<td >17512</td>
+<td >P1104</td>
+<td>Bank1-Sensor2 Voltage too Low/Air Leak</td>
+</tr>
+<tr>
+<td >17513</td>
+<td >P1105</td>
+<td>O2 Sensor Heating Cir.,Bank1-Sensor2 Short to B+</td>
+</tr>
+<tr>
+<td >17514</td>
+<td >P1106</td>
+<td>O2 Sensor Cir.,Bank2-Sensor1 Voltage too Low/Air Leak</td>
+</tr>
+<tr>
+<td >17515</td>
+<td >P1107</td>
+<td>O2 Sensor Heating Cir.,Bank2-Sensor1 Short to B+</td>
+</tr>
+<tr>
+<td >17516</td>
+<td >P1108</td>
+<td>O2 Sensor Heating Cir.,Bank2-Sensor1 Output too Low</td>
+</tr>
+<tr>
+<td >17517</td>
+<td >P1109</td>
+<td>O2 Sensor Cir.,Bank2-Sensor2 Voltage too Low/Air Leak</td>
+</tr>
+<tr>
+<td >17518</td>
+<td >P1110</td>
+<td>O2 Sensor Heating Cir.,Bank2-Sensor2 Short to B+</td>
+</tr>
+<tr>
+<td >17519</td>
+<td >P1111</td>
+<td>O2 Control (Bank 1) System too lean</td>
+</tr>
+<tr>
+<td >17520</td>
+<td >P1112</td>
+<td>O2 Control (Bank 1) System too rich</td>
+</tr>
+<tr>
+<td >17521</td>
+<td >P1113</td>
+<td>Bank1-Sensor1 Internal Resistance too High</td>
+</tr>
+<tr>
+<td >17522</td>
+<td >P1114</td>
+<td>Bank1-Sensor2 Internal Resistant too High</td>
+</tr>
+<tr>
+<td >17523</td>
+<td >P1115</td>
+<td>O2 Sensor Heater Cir.,Bank1-Sensor1 Short to Ground</td>
+</tr>
+<tr>
+<td >17524</td>
+<td >P1116</td>
+<td>O2 Sensor Heater Cir.,Bank1-Sensor1 Open</td>
+</tr>
+<tr>
+<td >17525</td>
+<td >P1117</td>
+<td>O2 Sensor Heater Cir.,Bank1-Sensor2 Short to Ground</td>
+</tr>
+<tr>
+<td >17526</td>
+<td >P1118</td>
+<td>O2 Sensor Heater Cir.,Bank1-Sensor2 Open</td>
+</tr>
+<tr>
+<td >17527</td>
+<td >P1119</td>
+<td>O2 Sensor Heater Cir.,Bank2-Sensor1 Short to Ground</td>
+</tr>
+<tr>
+<td >17528</td>
+<td >P1120</td>
+<td>O2 Sensor Heater Cir.,Bank2-Sensor1 Open</td>
+</tr>
+<tr>
+<td >17529</td>
+<td >P1121</td>
+<td>O2 Sensor Heater Cir.,Bank2-Sensor2 Short to Ground</td>
+</tr>
+<tr>
+<td >17530</td>
+<td >P1122</td>
+<td>O2 Sensor Heater Cir.,Bank2-Sensor2 Open</td>
+</tr>
+<tr>
+<td >17531</td>
+<td >P1123</td>
+<td>Long Term Fuel Trim Add. Air.,Bank1 System too Rich</td>
+</tr>
+<tr>
+<td >17532</td>
+<td >P1124</td>
+<td>Long Term Fuel Trim Add. Air.,Bank1 System too Lean</td>
+</tr>
+<tr>
+<td >17533</td>
+<td >P1125</td>
+<td>Long Term Fuel Trim Add. Air.,Bank2 System too Rich</td>
+</tr>
+<tr>
+<td >17534</td>
+<td >P1126</td>
+<td>Long Term Fuel Trim Add. Air.,Bank2 System too Lean</td>
+</tr>
+<tr>
+<td >17535</td>
+<td >P1127</td>
+<td>Long Term Fuel Trim multi.,Bank1 System too Rich</td>
+</tr>
+<tr>
+<td >17536</td>
+<td >P1128</td>
+<td>Long Term Fuel Trim multi.,Bank1 System too Lean</td>
+</tr>
+<tr>
+<td >17537</td>
+<td >P1129</td>
+<td>Long Term Fuel Trim multi.,Bank2 System too Rich</td>
+</tr>
+<tr>
+<td >17538</td>
+<td >P1130</td>
+<td>Long Term Fuel Trim multi.,Bank2 System too Lean</td>
+</tr>
+<tr>
+<td >17539</td>
+<td >P1131</td>
+<td>Bank2-Sensor1 Internal Resistance too High</td>
+</tr>
+<tr>
+<td >17540</td>
+<td >P1132</td>
+<td>O2 Sensor Heating Cir.,Bank1+2-Sensor1 Short to B+</td>
+</tr>
+<tr>
+<td >17541</td>
+<td >P1133</td>
+<td>O2 Sensor Heating Cir.,Bank1+2-Sensor1 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17542</td>
+<td >P1134</td>
+<td>O2 Sensor Heating Cir.,Bank1+2-Sensor2 Short to B+</td>
+</tr>
+<tr>
+<td >17543</td>
+<td >P1135</td>
+<td>O2 Sensor Heating Cir.,Bank1+2-Sensor2 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17544</td>
+<td >P1136</td>
+<td>Long Term Fuel Trim Add. Fuel,Bank1 System too Lean</td>
+</tr>
+<tr>
+<td >17545</td>
+<td >P1137</td>
+<td>Long Term Fuel Trim Add. Fuel,Bank1 System too Rich</td>
+</tr>
+<tr>
+<td >17546</td>
+<td >P1138</td>
+<td>Long Term Fuel Trim Add. Fuel,Bank2 System too Lean</td>
+</tr>
+<tr>
+<td >17547</td>
+<td >P1139</td>
+<td>Long Term Fuel Trim Add. Fuel,Bank2 System too Rich</td>
+</tr>
+<tr>
+<td >17548</td>
+<td >P1140</td>
+<td>Bank2-Sensor2 Internal Resistance too High</td>
+</tr>
+<tr>
+<td >17549</td>
+<td >P1141</td>
+<td>Load Calculation Cross Check Range/Performance</td>
+</tr>
+<tr>
+<td >17550</td>
+<td >P1142</td>
+<td>Load Calculation Cross Check Lower Limit Exceeded</td>
+</tr>
+<tr>
+<td >17551</td>
+<td >P1143</td>
+<td>Load Calculation Cross Check Upper Limit Exceeded</td>
+</tr>
+<tr>
+<td >17552</td>
+<td >P1144</td>
+<td>Mass or Volume Air Flow Cir. Open/Short to Ground</td>
+</tr>
+<tr>
+<td >17553</td>
+<td >P1145</td>
+<td>Mass or Volume Air Flow Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17554</td>
+<td >P1146</td>
+<td>Mass or Volume Air Flow Cir. Supply Malfunction</td>
+</tr>
+<tr>
+<td >17555</td>
+<td >P1147</td>
+<td>O2 Control (Bank 2) System too lean</td>
+</tr>
+<tr>
+<td >17556</td>
+<td >P1148</td>
+<td>O2 Control (Bank 2) System too rich</td>
+</tr>
+<tr>
+<td >17557</td>
+<td >P1149</td>
+<td>O2 Control (Bank 1) Out of range</td>
+</tr>
+<tr>
+<td >17558</td>
+<td >P1150</td>
+<td>O2 Control (Bank 2) Out of range</td>
+</tr>
+<tr>
+<td >17559</td>
+<td >P1151</td>
+<td>Bank1, Long Term Fuel Trim, Range 1 Leanness Lower Limit Exceeded</td>
+</tr>
+<tr>
+<td >17560</td>
+<td >P1152</td>
+<td>Bank1, Long Term Fuel Trim, Range 2 Leanness Lower Limit Exceeded</td>
+</tr>
+<tr>
+<td >17562</td>
+<td >P1154</td>
+<td>Manifold Switch Over Malfunction</td>
+</tr>
+<tr>
+<td >17563</td>
+<td >P1155</td>
+<td>Manifold Abs. Pressure Sensor Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17564</td>
+<td >P1156</td>
+<td>Manifold Abs. Pressure Sensor Cir. Open/Short to Ground</td>
+</tr>
+<tr>
+<td >17565</td>
+<td >P1157</td>
+<td>Manifold Abs. Pressure Sensor Cir. Power Supply Malfunction</td>
+</tr>
+<tr>
+<td >17566</td>
+<td >P1158</td>
+<td>Manifold Abs. Pressure Sensor Cir. Range/Performance</td>
+</tr>
+<tr>
+<td >17568</td>
+<td >P1160</td>
+<td>Manifold Temp. Sensor (IAT). Short to Ground</td>
+</tr>
+<tr>
+<td >17569</td>
+<td >P1161</td>
+<td>Manifold Temp. Sensor Cir. Open/Short to B+</td>
+</tr>
+<tr>
+<td >17570</td>
+<td >P1162</td>
+<td>Fuel Temp. Sensor Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >17571</td>
+<td >P1163</td>
+<td>Fuel Temp. Sensor Cir. Open/Short to B+</td>
+</tr>
+<tr>
+<td >17572</td>
+<td >P1164</td>
+<td>Fuel Temperature Sensor Range/Performance/Incorrect Signal</td>
+</tr>
+<tr>
+<td >17573</td>
+<td >P1165</td>
+<td>Bank1, Long Term Fuel Trim, Range 1 Rich Limit Exceeded</td>
+</tr>
+<tr>
+<td >17574</td>
+<td >P1166</td>
+<td>Bank1, Long Term Fuel Trim, Range 2 Rich Limit Exceeded</td>
+</tr>
+<tr>
+<td >&#160;</td>
+<td >P117A</td>
+<td>Bank 1, Lambda Correction Catalyst Centre Control Limit Reached</td>
+</tr>
+<tr>
+<td >17579</td>
+<td >P1171</td>
+<td>Throttle Actuation Potentiometer Sign.2 Range/Performance</td>
+</tr>
+<tr>
+<td >17580</td>
+<td >P1172</td>
+<td>Throttle Actuation Potentiometer Sign.2 Signal too Low</td>
+</tr>
+<tr>
+<td >17581</td>
+<td >P1173</td>
+<td>Throttle Actuation Potentiometer Sign.2 Signal too High</td>
+</tr>
+<tr>
+<td >17582</td>
+<td >P1174</td>
+<td>Fuel Trim, Bank 1 Different injection times</td>
+</tr>
+<tr>
+<td >17584</td>
+<td >P1176</td>
+<td>O2 Correction Behind Catalyst,B1 Limit Attained</td>
+</tr>
+<tr>
+<td >17585</td>
+<td >P1177</td>
+<td>O2 Correction Behind Catalyst,B2 Limit Attained</td>
+</tr>
+<tr>
+<td >17586</td>
+<td >P1178</td>
+<td>Linear 02 Sensor / Pump Current Open Circuit</td>
+</tr>
+<tr>
+<td >17587</td>
+<td >P1179</td>
+<td>Linear 02 Sensor / Pump Current Short to ground</td>
+</tr>
+<tr>
+<td >17588</td>
+<td >P1180</td>
+<td>Linear 02 Sensor / Pump Current Short to B+</td>
+</tr>
+<tr>
+<td >17589</td>
+<td >P1181</td>
+<td>Linear 02 Sensor / Reference Voltage Open Circuit</td>
+</tr>
+<tr>
+<td >17590</td>
+<td >P1182</td>
+<td>Linear 02 Sensor / Reference Voltage Short to ground</td>
+</tr>
+<tr>
+<td >17591</td>
+<td >P1183</td>
+<td>Linear 02 Sensor / Reference Voltage Short to B+</td>
+</tr>
+<tr>
+<td >17592</td>
+<td >P1184</td>
+<td>Linear 02 Sensor / Common Ground Wire Open Circuit</td>
+</tr>
+<tr>
+<td >17593</td>
+<td >P1185</td>
+<td>Linear 02 Sensor / Common Ground Wire Short to ground</td>
+</tr>
+<tr>
+<td >17594</td>
+<td >P1186</td>
+<td>Linear 02 Sensor / Common Ground Wire Short to B+</td>
+</tr>
+<tr>
+<td >17595</td>
+<td >P1187</td>
+<td>Linear 02 Sensor / Compensate. Resistor Open Circuit</td>
+</tr>
+<tr>
+<td >17596</td>
+<td >P1188</td>
+<td>Linear 02 Sensor / Compensate. Resistor Short to ground</td>
+</tr>
+<tr>
+<td >17597</td>
+<td >P1189</td>
+<td>Linear 02 Sensor / Compensate. Resistor Short to B+</td>
+</tr>
+<tr>
+<td >17598</td>
+<td >P1190</td>
+<td>Linear 02 Sensor / Reference Voltage Incorrect Signal</td>
+</tr>
+<tr>
+<td >17604</td>
+<td >P1196</td>
+<td>O2 Sensor Heater Cir.,Bank1-Sensor1 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17605</td>
+<td >P1197</td>
+<td>O2 Sensor Heater Cir.,Bank2-Sensor1 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17606</td>
+<td >P1198</td>
+<td>O2 Sensor Heater Cir.,Bank1-Sensor2 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17607</td>
+<td >P1199</td>
+<td>O2 Sensor Heater Cir.,Bank2-Sensor2 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P12A1</td>
+<td>Fuel Rail Pressure Sensor Inappropriately Low</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P12A2</td>
+<td>Fuel Rail Pressure Sensor Inappropriately High</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P12A4</td>
+<td>Fuel Rail Pump Control Valve Stuck Closed</td>
+</tr>
+<tr>
+<td >17609</td>
+<td >P1201</td>
+<td>Cyl.1-Fuel Injector Circuit Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17610</td>
+<td >P1202</td>
+<td>Cyl.2-Fuel Injector Circuit Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17611</td>
+<td >P1203</td>
+<td>Cyl.3-Fuel Injector Circuit Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17612</td>
+<td >P1204</td>
+<td>Cyl.4-Fuel Injector Circuit Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17613</td>
+<td >P1205</td>
+<td>Cyl.5-Fuel Injector Circuit Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17614</td>
+<td >P1206</td>
+<td>Cyl.6-Fuel Injector Circuit Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17615</td>
+<td >P1207</td>
+<td>Cyl.7-Fuel Injector Circuit Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17616</td>
+<td >P1208</td>
+<td>Cyl.8-Fuel Injector Circuit Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17617</td>
+<td >P1209</td>
+<td>Intake valves for cylinder shut-off Short circuit to ground</td>
+</tr>
+<tr>
+<td >17618</td>
+<td >P1210</td>
+<td>Intake valves for cylinder shut-off Short to B+</td>
+</tr>
+<tr>
+<td >17619</td>
+<td >P1211</td>
+<td>Intake valves for cylinder shut-off Open circuit</td>
+</tr>
+<tr>
+<td >17621</td>
+<td >P1213</td>
+<td>Cyl.1-Fuel Injector Circuit Short to B+</td>
+</tr>
+<tr>
+<td >17622</td>
+<td >P1214</td>
+<td>Cyl.2-Fuel Injector Circuit Short to B+</td>
+</tr>
+<tr>
+<td >17623</td>
+<td >P1215</td>
+<td>Cyl.3-Fuel Injector Circuit Short to B+</td>
+</tr>
+<tr>
+<td >17624</td>
+<td >P1216</td>
+<td>Cyl.4-Fuel Injector Circuit Short to B+</td>
+</tr>
+<tr>
+<td >17625</td>
+<td >P1217</td>
+<td>Cyl.5-Fuel Injector Circuit Short to B+</td>
+</tr>
+<tr>
+<td >17626</td>
+<td >P1218</td>
+<td>Cyl.6-Fuel Injector Circuit Short to B+</td>
+</tr>
+<tr>
+<td >17627</td>
+<td >P1219</td>
+<td>Cyl.7-Fuel Injector Circuit Short to B+</td>
+</tr>
+<tr>
+<td >17628</td>
+<td >P1220</td>
+<td>Cyl.8-Fuel Injector Circuit Short to B+</td>
+</tr>
+<tr>
+<td >17629</td>
+<td >P1221</td>
+<td>Cylinder shut-off exhaust valves Short circuit to ground</td>
+</tr>
+<tr>
+<td >17630</td>
+<td >P1222</td>
+<td>Cylinder shut-off exhaust valves Short to B+</td>
+</tr>
+<tr>
+<td >17631</td>
+<td >P1223</td>
+<td>Cylinder shut-off exhaust valves Open circuit</td>
+</tr>
+<tr>
+<td >17633</td>
+<td >P1225</td>
+<td>Cyl.1-Fuel Injector Circuit Short to Ground</td>
+</tr>
+<tr>
+<td >17634</td>
+<td >P1226</td>
+<td>Cyl.2-Fuel Injector Circuit Short to Ground</td>
+</tr>
+<tr>
+<td >17635</td>
+<td >P1227</td>
+<td>Cyl.3-Fuel Injector Circuit Short to Ground</td>
+</tr>
+<tr>
+<td >17636</td>
+<td >P1228</td>
+<td>Cyl.4-Fuel Injector Circuit Short to Ground</td>
+</tr>
+<tr>
+<td >17637</td>
+<td >P1229</td>
+<td>Cyl.5-Fuel Injector Circuit Short to Ground</td>
+</tr>
+<tr>
+<td >17638</td>
+<td >P1230</td>
+<td>Cyl.6-Fuel Injector Circuit Short to Ground</td>
+</tr>
+<tr>
+<td >17639</td>
+<td >P1231</td>
+<td>Cyl.7-Fuel Injector Circuit Short to Ground</td>
+</tr>
+<tr>
+<td >17640</td>
+<td >P1232</td>
+<td>Cyl.8-Fuel Injector Circuit Short to Ground</td>
+</tr>
+<tr>
+<td >17645</td>
+<td >P1237</td>
+<td>Cyl.1-Fuel Injector Circuit Open Cir.</td>
+</tr>
+<tr>
+<td >17646</td>
+<td >P1238</td>
+<td>Cyl.2-Fuel Injector Circuit Open Cir.</td>
+</tr>
+<tr>
+<td >17647</td>
+<td >P1239</td>
+<td>Cyl.3-Fuel Injector Circuit Open Cir.</td>
+</tr>
+<tr>
+<td >17648</td>
+<td >P1240</td>
+<td>Cyl.4-Fuel Injector Circuit Open Cir.</td>
+</tr>
+<tr>
+<td >17649</td>
+<td >P1241</td>
+<td>Cyl.5-Fuel Injector Circuit Open Cir.</td>
+</tr>
+<tr>
+<td >17650</td>
+<td >P1242</td>
+<td>Cyl.6-Fuel Injector Circuit Open Cir.</td>
+</tr>
+<tr>
+<td >17651</td>
+<td >P1243</td>
+<td>Cyl.7-Fuel Injector Circuit Open Cir.</td>
+</tr>
+<tr>
+<td >17652</td>
+<td >P1244</td>
+<td>Cyl.8-Fuel Injector Circuit Open Cir.</td>
+</tr>
+<tr>
+<td >17653</td>
+<td >P1245</td>
+<td>Needle Lift Sensor Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >17654</td>
+<td >P1246</td>
+<td>Needle Lift Sensor Cir. Range/Performance</td>
+</tr>
+<tr>
+<td >17655</td>
+<td >P1247</td>
+<td>Needle Lift Sensor Cir. Open/Short to B+</td>
+</tr>
+<tr>
+<td >17656</td>
+<td >P1248</td>
+<td>Injection Start Control Deviation</td>
+</tr>
+<tr>
+<td >17657</td>
+<td >P1249</td>
+<td>Fuel consumption signal Electrical Fault in Circuit</td>
+</tr>
+<tr>
+<td >17658</td>
+<td >P1250</td>
+<td>Fuel Level Too Low</td>
+</tr>
+<tr>
+<td >17659</td>
+<td >P1251</td>
+<td>Start of Injection Solenoid Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17660</td>
+<td >P1252</td>
+<td>Start of Injection Solenoid Cir. Open/Short to Ground</td>
+</tr>
+<tr>
+<td >17661</td>
+<td >P1253</td>
+<td>Fuel consumption signal Short to ground</td>
+</tr>
+<tr>
+<td >17662</td>
+<td >P1254</td>
+<td>Fuel consumption signal Short to B+</td>
+</tr>
+<tr>
+<td >17663</td>
+<td >P1255</td>
+<td>Engine Coolant Temp. Circuit Short to Ground</td>
+</tr>
+<tr>
+<td >17664</td>
+<td >P1256</td>
+<td>Engine Coolant Temp. Circuit Open/Short to B+</td>
+</tr>
+<tr>
+<td >17665</td>
+<td >P1257</td>
+<td>Engine Coolant System Valve Open</td>
+</tr>
+<tr>
+<td >17666</td>
+<td >P1258</td>
+<td>Engine Coolant System Valve Short to B+</td>
+</tr>
+<tr>
+<td >17667</td>
+<td >P1259</td>
+<td>Engine Coolant System Valve Short to Ground</td>
+</tr>
+<tr>
+<td >17668</td>
+<td >P1260</td>
+<td>Valve for pump / injector, cylinder 1, implausible signal</td>
+</tr>
+<tr>
+<td >17670</td>
+<td >P1262</td>
+<td>Valve for pump / injector, cylinder 1, Control limit exceeded</td>
+</tr>
+<tr>
+<td >17672</td>
+<td >P1264</td>
+<td>Valve for pump / injector, cylinder 2, implausible signal</td>
+</tr>
+<tr>
+<td >17673</td>
+<td >P1265</td>
+<td>Valve for pump / injector, cylinder 2, Control limit exceeded</td>
+</tr>
+<tr>
+<td >17674</td>
+<td >P1266</td>
+<td>Valve for pump / injector, cylinder 3, implausible signal</td>
+</tr>
+<tr>
+<td >17675</td>
+<td >P1267</td>
+<td>Valve for pump / injector, cylinder 3, Control limit exceeded</td>
+</tr>
+<tr>
+<td >17676</td>
+<td >P1268</td>
+<td>Valve for pump / injector, cylinder 3, Lower Control limit exceeded</td>
+</tr>
+<tr>
+<td >17677</td>
+<td >P1269</td>
+<td>Valve for pump / injector, cylinder 4, implausible signal</td>
+</tr>
+<tr>
+<td >17678</td>
+<td >P1270</td>
+<td>Valve for pump / injector, cylinder 4, Control limit exceeded</td>
+</tr>
+<tr>
+<td >17679</td>
+<td >P1271</td>
+<td>Valve for pump / injector, cylinder 3, Lower Control limit exceeded</td>
+</tr>
+<tr>
+<td >17688</td>
+<td >P1280</td>
+<td>Fuel Injector Air Control. Valve Cir. Flow too Low</td>
+</tr>
+<tr>
+<td >17691</td>
+<td >P1283</td>
+<td>Fuel Injector Air Control. Valve Cir. Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17692</td>
+<td >P1284</td>
+<td>Fuel Injector Air Control. Valve Cir. Open</td>
+</tr>
+<tr>
+<td >17693</td>
+<td >P1285</td>
+<td>Fuel Injector Air Control. Valve Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >17694</td>
+<td >P1286</td>
+<td>Fuel Injector Air Control. Valve Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17695</td>
+<td >P1287</td>
+<td>Turbocharger bypass valve open</td>
+</tr>
+<tr>
+<td >17696</td>
+<td >P1288</td>
+<td>Turbocharger bypass valve short to B+</td>
+</tr>
+<tr>
+<td >17697</td>
+<td >P1289</td>
+<td>Turbocharger bypass valve short to ground</td>
+</tr>
+<tr>
+<td >17703</td>
+<td >P1295</td>
+<td>Bypass Turbocharger Throughput Faulty</td>
+</tr>
+<tr>
+<td >17704</td>
+<td >P1296</td>
+<td>Cooling system malfunction</td>
+</tr>
+<tr>
+<td >17705</td>
+<td >P1297</td>
+<td>Connection turbocharger - throttle valve pressure hose</td>
+</tr>
+<tr>
+<td >17708</td>
+<td >P1300</td>
+<td>Misfire detected Reason: Fuel level too low</td>
+</tr>
+<tr>
+<td >17721</td>
+<td >P1319</td>
+<td>Knock Sensor 1 Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >17728</td>
+<td >P1320</td>
+<td>Knock Sensor 2 Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >17729</td>
+<td >P1321</td>
+<td>Knock Sensor 3 Cir. Low Input</td>
+</tr>
+<tr>
+<td >17730</td>
+<td >P1322</td>
+<td>Knock Sensor 3 Cir. High Input</td>
+</tr>
+<tr>
+<td >17731</td>
+<td >P1323</td>
+<td>Knock Sensor 4 Cir. Low Input</td>
+</tr>
+<tr>
+<td >17732</td>
+<td >P1324</td>
+<td>Knock Sensor 4 Cir. High Input</td>
+</tr>
+<tr>
+<td >17733</td>
+<td >P1325</td>
+<td>Cyl.1-Knock Cont. Limit Attained</td>
+</tr>
+<tr>
+<td >17734</td>
+<td >P1326</td>
+<td>Cyl.2-Knock Cont. Limit Attained</td>
+</tr>
+<tr>
+<td >17735</td>
+<td >P1327</td>
+<td>Cyl.3-Knock Cont. Limit Attained</td>
+</tr>
+<tr>
+<td >17736</td>
+<td >P1328</td>
+<td>Cyl.4-Knock Cont. Limit Attained</td>
+</tr>
+<tr>
+<td >17737</td>
+<td >P1329</td>
+<td>Cyl.5-Knock Cont. Limit Attained</td>
+</tr>
+<tr>
+<td >17738</td>
+<td >P1330</td>
+<td>Cyl.6-Knock Cont. Limit Attained</td>
+</tr>
+<tr>
+<td >17739</td>
+<td >P1331</td>
+<td>Cyl.7-Knock Cont. Limit Attained</td>
+</tr>
+<tr>
+<td >17740</td>
+<td >P1332</td>
+<td>Cyl.8-Knock Cont. Limit Attained</td>
+</tr>
+<tr>
+<td >17743</td>
+<td >P1335</td>
+<td>Engine Torque Monitoring 2 Control Limit Exceeded</td>
+</tr>
+<tr>
+<td >17744</td>
+<td >P1336</td>
+<td>Engine Torque Monitoring Adaptation at limit</td>
+</tr>
+<tr>
+<td >17745</td>
+<td >P1337</td>
+<td>Camshaft Position. Sensor,Bank1 Short to Ground</td>
+</tr>
+<tr>
+<td >17746</td>
+<td >P1338</td>
+<td>Camshaft Position. Sensor,Bank1 Open Cir./Short to B+</td>
+</tr>
+<tr>
+<td >17747</td>
+<td >P1339</td>
+<td>Crankshaft Position./Engine Speed Sensor Cross Connected</td>
+</tr>
+<tr>
+<td >17748</td>
+<td >P1340</td>
+<td>Crankshaft-/Camshaft Position Sensor Signals Out of Sequence</td>
+</tr>
+<tr>
+<td >17749</td>
+<td >P1341</td>
+<td>Ignition Coil Power Output Stage 1 Short to Ground</td>
+</tr>
+<tr>
+<td >17750</td>
+<td >P1342</td>
+<td>Ignition Coil Power Output Stage 1 Short to B+</td>
+</tr>
+<tr>
+<td >17751</td>
+<td >P1343</td>
+<td>Ignition Coil Power Output Stage 2 Short to Ground</td>
+</tr>
+<tr>
+<td >17752</td>
+<td >P1344</td>
+<td>Ignition Coil Power Output Stage 2 Short to B+</td>
+</tr>
+<tr>
+<td >17753</td>
+<td >P1345</td>
+<td>Ignition Coil Power Output Stage 3 Short to Ground</td>
+</tr>
+<tr>
+<td >17754</td>
+<td >P1346</td>
+<td>Ignition Coil Power Output Stage 3 Short to B+</td>
+</tr>
+<tr>
+<td >17755</td>
+<td >P1347</td>
+<td>Bank2,Crankshaft-/Camshaft Position Sensor Signals Out of Sequence</td>
+</tr>
+<tr>
+<td >17756</td>
+<td >P1348</td>
+<td>Ignition Coil Power Output Stage 1 Open Circuit</td>
+</tr>
+<tr>
+<td >17757</td>
+<td >P1349</td>
+<td>Ignition Coil Power Output Stage 2 Open Circuit</td>
+</tr>
+<tr>
+<td >17758</td>
+<td >P1350</td>
+<td>Ignition Coil Power Output Stage 3 Open Circuit</td>
+</tr>
+<tr>
+<td >17762</td>
+<td >P1354</td>
+<td>Modulation Piston Displacement Sensor Cir. Malfunction</td>
+</tr>
+<tr>
+<td >17763</td>
+<td >P1355</td>
+<td>Cly. 1, ignition circuit Open Circuit</td>
+</tr>
+<tr>
+<td >17764</td>
+<td >P1356</td>
+<td>Cly. 1, ignition circuit Short to B+</td>
+</tr>
+<tr>
+<td >17765</td>
+<td >P1357</td>
+<td>Cly. 1, ignition circuit Short to ground</td>
+</tr>
+<tr>
+<td >17766</td>
+<td >P1358</td>
+<td>Cly. 2, ignition circuit Open Circuit</td>
+</tr>
+<tr>
+<td >17767</td>
+<td >P1359</td>
+<td>Cly. 2, ignition circuit Short Circuit to B+</td>
+</tr>
+<tr>
+<td >17768</td>
+<td >P1360</td>
+<td>Cly. 2, ignition circuit Short Circuit to Ground</td>
+</tr>
+<tr>
+<td >17769</td>
+<td >P1361</td>
+<td>Cly. 3, ignition circuit Open Circuit</td>
+</tr>
+<tr>
+<td >17770</td>
+<td >P1362</td>
+<td>Cly. 3, ignition circuit Short Circuit to B+</td>
+</tr>
+<tr>
+<td >17771</td>
+<td >P1363</td>
+<td>Cly. 3, ignition circuit Short Circuit to ground</td>
+</tr>
+<tr>
+<td >17772</td>
+<td >P1364</td>
+<td>Cly. 4 ignition circuit Open Circuit</td>
+</tr>
+<tr>
+<td >17773</td>
+<td >P1365</td>
+<td>Cly. 4 ignition circuit Short circuit to B+</td>
+</tr>
+<tr>
+<td >17774</td>
+<td >P1366</td>
+<td>Cly. 4 ignition circuit Short circuit to ground</td>
+</tr>
+<tr>
+<td >17775</td>
+<td >P1367</td>
+<td>Cly. 5, ignition circuit Open Circuit</td>
+</tr>
+<tr>
+<td >17776</td>
+<td >P1368</td>
+<td>Cly. 5, ignition circuit Short Circuit to B+</td>
+</tr>
+<tr>
+<td >17777</td>
+<td >P1369</td>
+<td>Cly. 5, ignition circuit short to ground</td>
+</tr>
+<tr>
+<td >17778</td>
+<td >P1370</td>
+<td>Cly. 6, ignition circuit Open Circuit</td>
+</tr>
+<tr>
+<td >17779</td>
+<td >P1371</td>
+<td>Cly. 6, ignition circuit Short Circuit to B+</td>
+</tr>
+<tr>
+<td >17780</td>
+<td >P1372</td>
+<td>Cly. 6, ignition circuit short to ground</td>
+</tr>
+<tr>
+<td >17781</td>
+<td >P1373</td>
+<td>Cly. 7, ignition circuit Open Circuit</td>
+</tr>
+<tr>
+<td >17782</td>
+<td >P1374</td>
+<td>Cly. 7, ignition circuit Short Circuit to B+</td>
+</tr>
+<tr>
+<td >17783</td>
+<td >P1375</td>
+<td>Cly. 7, ignition circuit short to ground</td>
+</tr>
+<tr>
+<td >17784</td>
+<td >P1376</td>
+<td>Cly. 8, ignition circuit Open Circuit</td>
+</tr>
+<tr>
+<td >17785</td>
+<td >P1377</td>
+<td>Cly. 8, ignition circuit Short Circuit to B+</td>
+</tr>
+<tr>
+<td >17786</td>
+<td >P1378</td>
+<td>Cly. 8, ignition circuit short to ground</td>
+</tr>
+<tr>
+<td >17793</td>
+<td >P1385</td>
+<td>Internal Control Module Memory Check Sum Error</td>
+</tr>
+<tr>
+<td >17794</td>
+<td >P1386</td>
+<td>Internal Control Module Knock Control Circuit Error Check Sum Error</td>
+</tr>
+<tr>
+<td >17795</td>
+<td >P1387</td>
+<td>Internal Cont. Module altitude sensor error Check Sum Error</td>
+</tr>
+<tr>
+<td >17796</td>
+<td >P1388</td>
+<td>Internal Cont. Module drive by wire error Check Sum Error</td>
+</tr>
+<tr>
+<td >17799</td>
+<td >P1391</td>
+<td>Camshaft Position. Sensor,Bank2 Short to Ground</td>
+</tr>
+<tr>
+<td >17800</td>
+<td >P1392</td>
+<td>Camshaft Position. Sensor,Bank2 Open Cir./Short to B+</td>
+</tr>
+<tr>
+<td >17801</td>
+<td >P1393</td>
+<td>Ignition Coil Power Output Stage 1 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17802</td>
+<td >P1394</td>
+<td>Ignition Coil Power Output Stage 2 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17803</td>
+<td >P1395</td>
+<td>Ignition Coil Power Output Stage 3 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17804</td>
+<td >P1396</td>
+<td>Engine Speed Sensor Missing Tooth</td>
+</tr>
+<tr>
+<td >17805</td>
+<td >P1397</td>
+<td>Engine speed wheel Adaptation limit reached</td>
+</tr>
+<tr>
+<td >17806</td>
+<td >P1398</td>
+<td>Engine RPM signal, TD Short to ground</td>
+</tr>
+<tr>
+<td >17807</td>
+<td >P1399</td>
+<td>Engine RPM signal, TD Short Circuit to B+</td>
+</tr>
+<tr>
+<td >17808</td>
+<td >P1400</td>
+<td>EGR Valve Cir. Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17809</td>
+<td >P1401</td>
+<td>EGR Valve Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >17810</td>
+<td >P1402</td>
+<td>EGR Valve Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17811</td>
+<td >P1403</td>
+<td>EGR Flow Deviation</td>
+</tr>
+<tr>
+<td >17812</td>
+<td >P1404</td>
+<td>EGR Flow Basic Setting not carried out</td>
+</tr>
+<tr>
+<td >17814</td>
+<td >P1406</td>
+<td>EGR Temp. Sensor Range/Performance</td>
+</tr>
+<tr>
+<td >17815</td>
+<td >P1407</td>
+<td>EGR Temp. Sensor Signal too Low</td>
+</tr>
+<tr>
+<td >17816</td>
+<td >P1408</td>
+<td>EGR Temp. Sensor Signal too High</td>
+</tr>
+<tr>
+<td >17817</td>
+<td >P1409</td>
+<td>Tank Ventilation Valve Cir. Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17818</td>
+<td >P1410</td>
+<td>Tank Ventilation Valve Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17819</td>
+<td >P1411</td>
+<td>Sec. Air Injector Sys.,Bank2 Flow too Flow</td>
+</tr>
+<tr>
+<td >17820</td>
+<td >P1412</td>
+<td>EGR Different. Pressure Sensor Signal too Low</td>
+</tr>
+<tr>
+<td >17821</td>
+<td >P1413</td>
+<td>EGR Different. Pressure Sensor Signal too High</td>
+</tr>
+<tr>
+<td >17822</td>
+<td >P1414</td>
+<td>Sec. Air Injector Sys.,Bank2 Leak Detected</td>
+</tr>
+<tr>
+<td >17825</td>
+<td >P1417</td>
+<td>Fuel Level Sensor Cir. Signal too Low</td>
+</tr>
+<tr>
+<td >17826</td>
+<td >P1418</td>
+<td>Fuel Level Sensor Cir. Signal too High</td>
+</tr>
+<tr>
+<td >17828</td>
+<td >P1420</td>
+<td>Sec. Air Injector Valve Cir. Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17829</td>
+<td >P1421</td>
+
+<td>Sec. Air Injector Valve Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >17830</td>
+<td >P1422</td>
+<td>Sec. Air Injection System Control Valve Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17831</td>
+<td >P1423</td>
+<td>Sec. Air Injector Sys.,Bank1 Flow too Low</td>
+</tr>
+<tr>
+<td >17832</td>
+<td >P1424</td>
+<td>Sec. Air Injector Sys.,Bank1 Leak Detected</td>
+</tr>
+<tr>
+<td >17833</td>
+<td >P1425</td>
+<td>Canister Vent. Valve Short to Ground</td>
+</tr>
+<tr>
+<td >17834</td>
+<td >P1426</td>
+<td>Canister Vent. Valve Open</td>
+</tr>
+<tr>
+<td >17840</td>
+<td >P1432</td>
+<td>Sec. Air Injector Valve Open</td>
+</tr>
+<tr>
+<td >17841</td>
+<td >P1433</td>
+<td>Sec. Air Injection System Pump Relay Cir. open</td>
+</tr>
+<tr>
+<td >17842</td>
+<td >P1434</td>
+<td>Sec. Air Injection System Pump Relay Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17843</td>
+<td >P1435</td>
+<td>Sec. Air Injection System Pump Relay Cir. Short to ground</td>
+</tr>
+<tr>
+<td >17844</td>
+<td >P1436</td>
+<td>Sec. Air Injection System Pump Relay Cir. Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17847</td>
+<td >P1439</td>
+<td>EGR Potentiometer Error in Basic Setting</td>
+</tr>
+<tr>
+<td >17848</td>
+<td >P1440</td>
+<td>EGR Valve Power Stage Open</td>
+</tr>
+<tr>
+<td >17849</td>
+<td >P1441</td>
+<td>EGR Valve Cir. Open/Short to Ground</td>
+</tr>
+<tr>
+<td >17850</td>
+<td >P1442</td>
+<td>EGR Valve Position Sensor Signal too high</td>
+</tr>
+<tr>
+<td >17851</td>
+<td >P1443</td>
+<td>EGR Valve Position Sensor Signal too low</td>
+</tr>
+<tr>
+<td >17852</td>
+<td >P1444</td>
+<td>EGR Valve Position Sensor range/performance</td>
+</tr>
+<tr>
+<td >17853</td>
+<td >P1445</td>
+<td>Catalyst Temp. Sensor 2 Cir. Range/Performance</td>
+</tr>
+<tr>
+<td >17854</td>
+<td >P1446</td>
+<td>Catalyst Temp. Circuit Short to Ground</td>
+</tr>
+<tr>
+<td >17855</td>
+<td >P1447</td>
+<td>Catalyst Temp. Circuit Open/Short to B+</td>
+</tr>
+<tr>
+<td >17856</td>
+<td >P1448</td>
+<td>Catalyst Temp. Sensor 2 Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >17857</td>
+<td >P1449</td>
+<td>Catalyst Temp. Sensor 2 Cir. Open/Short to B+</td>
+</tr>
+<tr>
+<td >17858</td>
+<td >P1450</td>
+<td>Sec. Air Injection System Circuit Short to B+</td>
+</tr>
+<tr>
+<td >17859</td>
+<td >P1451</td>
+<td>Sec. Air Injection System Circuit Short to Ground</td>
+</tr>
+<tr>
+<td >17860</td>
+<td >P1452</td>
+<td>Sec. Air Injector Sys. Open Cir.</td>
+</tr>
+<tr>
+<td >17861</td>
+<td >P1453</td>
+<td>Exhaust gas temperature sensor 1 open/short to B+</td>
+</tr>
+<tr>
+<td >17862</td>
+<td >P1454</td>
+<td>Exhaust gas temperature sensor short 1 to ground</td>
+</tr>
+<tr>
+<td >17863</td>
+<td >P1455</td>
+<td>Exhaust gas temperature sensor 1 range/performance</td>
+</tr>
+<tr>
+<td >17864</td>
+<td >P1456</td>
+<td>Exhaust gas temperature control bank 1 limit attained</td>
+</tr>
+<tr>
+<td >17865</td>
+<td >P1457</td>
+<td>Exhaust gas temperature sensor 2 open/short to B+</td>
+</tr>
+<tr>
+<td >17866</td>
+<td >P1458</td>
+<td>Exhaust gas temperature sensor 2 short to ground</td>
+</tr>
+<tr>
+<td >17867</td>
+<td >P1459</td>
+<td>Exhaust gas temperature sensor 2 range/performance</td>
+</tr>
+<tr>
+<td >17868</td>
+<td >P1460</td>
+<td>Exhaust gas temperature control bank 2 limit attained</td>
+</tr>
+<tr>
+<td >17869</td>
+<td >P1461</td>
+<td>Exhaust gas temperature control bank 1 Range/Performance</td>
+</tr>
+<tr>
+<td >17870</td>
+<td >P1462</td>
+<td>Exhaust gas temperature control bank 2 Range/Performance</td>
+</tr>
+<tr>
+<td >17873</td>
+<td >P1465</td>
+<td>Additive Pump Short Circuit to B+</td>
+</tr>
+<tr>
+<td >17874</td>
+<td >P1466</td>
+<td>Additive Pump Open/Short to Ground</td>
+</tr>
+<tr>
+<td >17875</td>
+<td >P1467</td>
+<td>EVAP Canister Purge Solenoid Valve Short Circuit to B+</td>
+</tr>
+<tr>
+<td >17876</td>
+<td >P1468</td>
+<td>EVAP Canister Purge Solenoid Valve Short Circuit to Ground</td>
+</tr>
+<tr>
+<td >17877</td>
+<td >P1469</td>
+<td>EVAP Canister Purge Solenoid Valve Open Circuit</td>
+</tr>
+<tr>
+<td >17878</td>
+<td >P1470</td>
+<td>EVAP Emission Controlled .LDP Cir. Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17879</td>
+<td >P1471</td>
+<td>EVAP Emission Controlled .LDP Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17880</td>
+<td >P1472</td>
+<td>EVAP Emission Controlled .LDP Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >17881</td>
+<td >P1473</td>
+<td>EVAP Emission Controlled .LDP Cir. Open Cir.</td>
+</tr>
+<tr>
+<td >17882</td>
+<td >P1474</td>
+<td>EVAP Canister Purge Solenoid Valve electrical malfunction</td>
+</tr>
+<tr>
+<td >17883</td>
+<td >P1475</td>
+<td>EVAP Emission Controlled .LDP Cir. Malfunction/Signal Circuit Open</td>
+</tr>
+<tr>
+<td >17884</td>
+<td >P1476</td>
+<td>EVAP Emission Controlled .LDP Cir. Malfunction/Insufficient Vacuum</td>
+</tr>
+<tr>
+<td >17885</td>
+<td >P1477</td>
+<td>EVAP Emission Controlled .LDP Cir. Malfunction</td>
+</tr>
+<tr>
+<td >17886</td>
+<td >P1478</td>
+<td>EVAP Emission Controlled .LDP Cir. Clamped Tube Detected</td>
+</tr>
+<tr>
+<td >17890</td>
+<td >P1482</td>
+<td>Secondary Air Injection (AIR) Pump Relay 2 Short to B+</td>
+</tr>
+<tr>
+<td >17891</td>
+<td >P1483</td>
+<td>Secondary Air Injection (AIR) Pump Relay 2 Short to Ground</td>
+</tr>
+<tr>
+<td >17892</td>
+<td >P1484</td>
+<td>Secondary Air Injection (AIR) Pump Relay 2 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17897</td>
+<td >P1489</td>
+<td>Evaporative Emission (EVAP) Canister Purge Regulator Valve 2 Short to B+</td>
+</tr>
+<tr>
+<td >17898</td>
+<td >P1490</td>
+<td>Evaporative Emission (EVAP) Canister Purge Regulator Valve 2 Short to Ground</td>
+</tr>
+<tr>
+<td >17899</td>
+<td >P1491</td>
+<td>Evaporative Emission (EVAP) Canister Purge Regulator Valve 2 Open Circuit</td>
+</tr>
+<tr>
+<td >17903</td>
+<td >P1495</td>
+<td>Radiator EGR Switch over valve. Open circuit / Short to Ground</td>
+</tr>
+<tr>
+<td >17904</td>
+<td >P1496</td>
+<td>Radiator EGR Switch over valve. Open circuit / Short to B+</td>
+</tr>
+<tr>
+<td >17908</td>
+<td >P1500</td>
+<td>Fuel Pump Relay Cir. Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17909</td>
+<td >P1501</td>
+<td>Fuel Pump Relay Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >17910</td>
+<td >P1502</td>
+<td>Fuel Pump Relay Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17911</td>
+<td >P1503</td>
+<td>Load signal from Alternator Term. DF Range/performance/Incorrect Signal</td>
+</tr>
+<tr>
+<td >17912</td>
+<td >P1504</td>
+<td>Intake Air Sys. Bypass Leak Detected</td>
+</tr>
+<tr>
+<td >17913</td>
+<td >P1505</td>
+<td>Closed Throttle Position. Does Not Close/Open Cir.</td>
+</tr>
+<tr>
+<td >17914</td>
+<td >P1506</td>
+<td>Closed Throttle Position. Switch Does Not Open/Short to Ground</td>
+</tr>
+<tr>
+<td >17915</td>
+<td >P1507</td>
+<td>Idle Sys. Learned Value Lower Limit Attained</td>
+</tr>
+<tr>
+<td >17916</td>
+<td >P1508</td>
+<td>Idle Sys. Learned Value Upper Limit Attained</td>
+</tr>
+<tr>
+<td >17917</td>
+<td >P1509</td>
+<td>Idle Air Control Cir. Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17918</td>
+<td >P1510</td>
+<td>Idle Air Control Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17919</td>
+<td >P1511</td>
+<td>Intake Manifold Changeover Valve circuit electrical malfunction</td>
+</tr>
+<tr>
+<td >17920</td>
+<td >P1512</td>
+<td>Intake Manifold Changeover Valve circuit Short to B+</td>
+</tr>
+<tr>
+<td >17921</td>
+<td >P1513</td>
+<td>Intake Manifold Changeover Valve2 circuit Short to B+</td>
+</tr>
+<tr>
+<td >17922</td>
+<td >P1514</td>
+<td>Intake Manifold Changeover Valve2 circuit Short to ground</td>
+</tr>
+<tr>
+<td >17923</td>
+<td >P1515</td>
+<td>Intake Manifold Changeover Valve circuit Short to Ground</td>
+</tr>
+<tr>
+<td >17924</td>
+<td >P1516</td>
+<td>Intake Manifold Changeover Valve circuit Open</td>
+</tr>
+<tr>
+<td >17925</td>
+<td >P1517</td>
+<td>Main Relay Cir. Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17926</td>
+<td >P1518</td>
+<td>Main Relay Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17927</td>
+<td >P1519</td>
+<td>Intake Camshaft Cont.,Bank1 Malfunction</td>
+</tr>
+<tr>
+<td >17928</td>
+<td >P1520</td>
+<td>Intake Manifold Changeover Valve2 circuit Open</td>
+</tr>
+<tr>
+<td >17929</td>
+<td >P1521</td>
+<td>Intake Manifold Changeover Valve2 circuit electrical malfunction</td>
+</tr>
+<tr>
+<td >17930</td>
+<td >P1522</td>
+<td>Intake Camshaft Cont.,Bank2 Malfunction</td>
+</tr>
+<tr>
+<td >17931</td>
+<td >P1523</td>
+<td>Crash Signal from Airbag Control Unit range/performance</td>
+</tr>
+<tr>
+<td >17933</td>
+<td >P1525</td>
+<td>Intake Camshaft Control. Circuit,Bank1 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17934</td>
+<td >P1526</td>
+<td>Intake Camshaft Control. Circuit,Bank1 Short to B+</td>
+</tr>
+<tr>
+<td >17935</td>
+<td >P1527</td>
+<td>Intake Camshaft Control. Circuit,Bank1 Short to Ground</td>
+</tr>
+<tr>
+<td >17936</td>
+<td >P1528</td>
+<td>Intake Camshaft Control. Circuit,Bank1 Open</td>
+</tr>
+<tr>
+<td >17937</td>
+<td >P1529</td>
+<td>Camshaft Control Circuit Short to B+</td>
+</tr>
+<tr>
+<td >17938</td>
+<td >P1530</td>
+<td>Camshaft Control Circuit Short to ground</td>
+</tr>
+<tr>
+<td >17939</td>
+<td >P1531</td>
+<td>Camshaft Control Circuit open</td>
+</tr>
+<tr>
+<td >17941</td>
+<td >P1533</td>
+<td>Intake Camshaft Control. Circuit,Bank2 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17942</td>
+<td >P1534</td>
+<td>Intake Camshaft Control. Circuit,Bank2 Short to B+</td>
+</tr>
+<tr>
+<td >17943</td>
+<td >P1535</td>
+<td>Intake Camshaft Control. Circuit,Bank2 Short to Ground</td>
+</tr>
+<tr>
+<td >17944</td>
+<td >P1536</td>
+<td>Intake Camshaft Control. Circuit,Bank2 Open</td>
+</tr>
+<tr>
+<td >17945</td>
+<td >P1537</td>
+<td>Engine Shutoff Solenoid Malfunction</td>
+</tr>
+<tr>
+<td >17946</td>
+<td >P1538</td>
+<td>Engine Shutoff Solenoid Open/Short to Ground</td>
+</tr>
+<tr>
+<td >17947</td>
+<td >P1539</td>
+<td>Clutch Vacuum Vent Valve Switch Incorrect signal</td>
+</tr>
+<tr>
+<td >17948</td>
+<td >P1540</td>
+<td>Vehicle Speed Sensor High Input</td>
+</tr>
+<tr>
+<td >17949</td>
+<td >P1541</td>
+<td>Fuel Pump Relay Cir. Open</td>
+</tr>
+<tr>
+<td >17950</td>
+<td >P1542</td>
+<td>Throttle Actuation Potentiometer Range/Performance</td>
+</tr>
+<tr>
+<td >17951</td>
+<td >P1543</td>
+<td>Throttle Actuation Potentiometer Signal too Low</td>
+</tr>
+<tr>
+<td >17952</td>
+<td >P1544</td>
+<td>Throttle Actuation Potentiometer Signal too High</td>
+</tr>
+<tr>
+<td >17953</td>
+<td >P1545</td>
+<td>Throttle Position. Control. Malfunction</td>
+</tr>
+<tr>
+<td >17954</td>
+<td >P1546</td>
+<td>Boost Pressure Control. Valve Short to B+</td>
+</tr>
+<tr>
+<td >17955</td>
+<td >P1547</td>
+<td>Boost Pressure Control. Valve Short to Ground</td>
+</tr>
+<tr>
+<td >17956</td>
+<td >P1548</td>
+<td>Boost Pressure Control. Valve Open</td>
+</tr>
+<tr>
+<td >17957</td>
+<td >P1549</td>
+<td>Boost Pressure Control. Valve Short to Ground</td>
+</tr>
+<tr>
+<td >17958</td>
+<td >P1550</td>
+<td>Charge Pressure Deviation</td>
+</tr>
+<tr>
+<td >17959</td>
+<td >P1551</td>
+<td>Barometric Pressure Sensor Cir. Short to B+</td>
+</tr>
+<tr>
+<td >17960</td>
+<td >P1552</td>
+<td>Barometric Pressure Sensor Cir. Open/Short to Ground</td>
+</tr>
+<tr>
+<td >17961</td>
+<td >P1553</td>
+<td>Barometric/manifold pressure signal ratio out of range</td>
+</tr>
+<tr>
+<td >17962</td>
+<td >P1554</td>
+<td>Idle Speed Control. Throttle Position. Basic Setting Conditions not met</td>
+</tr>
+<tr>
+<td >17963</td>
+<td >P1555</td>
+<td>Charge Pressure Upper Limit exceeded</td>
+</tr>
+<tr>
+<td >17964</td>
+<td >P1556</td>
+<td>Charge Pressure Cont. Negative Deviation</td>
+</tr>
+<tr>
+<td >17965</td>
+<td >P1557</td>
+<td>Charge Pressure Cont. Positive Deviation</td>
+</tr>
+<tr>
+<td >17966</td>
+<td >P1558</td>
+<td>Throttle Actuator Electrical Malfunction</td>
+</tr>
+<tr>
+<td >17967</td>
+<td >P1559</td>
+<td>Idle Speed Control. Throttle Position. Adaptation Malfunction</td>
+</tr>
+<tr>
+<td >17968</td>
+<td >P1560</td>
+<td>Maximum Engine Speed Exceeded</td>
+</tr>
+<tr>
+<td >17969</td>
+<td >P1561</td>
+<td>Quantity Adjuster Deviation</td>
+</tr>
+<tr>
+<td >17970</td>
+<td >P1562</td>
+<td>Quantity Adjuster Upper Limit Attained</td>
+</tr>
+<tr>
+<td >17971</td>
+<td >P1563</td>
+<td>Quantity Adjuster Lower Limit Attained</td>
+</tr>
+<tr>
+<td >17972</td>
+<td >P1564</td>
+<td>Idle Speed Control. Throttle Position. Low Voltage During Adaptation</td>
+</tr>
+<tr>
+<td >17973</td>
+<td >P1565</td>
+<td>Idle Speed Control Throttle Position lower limit not attained</td>
+</tr>
+<tr>
+<td >17974</td>
+<td >P1566</td>
+<td>Load signal from A/C compressor range/performance</td>
+</tr>
+<tr>
+<td >17975</td>
+<td >P1567</td>
+<td>Load signal from A/C compressor no signal</td>
+</tr>
+<tr>
+<td >17976</td>
+<td >P1568</td>
+<td>Idle Speed Control. Throttle Position. mechanical Malfunction</td>
+</tr>
+<tr>
+<td >17977</td>
+<td >P1569</td>
+<td>Cruise control switch Incorrect signal</td>
+</tr>
+<tr>
+<td >17978</td>
+<td >P1570</td>
+<td>Control. Module Locked</td>
+</tr>
+<tr>
+<td >17979</td>
+<td >P1571</td>
+<td>Left Eng. Mount Solenoid Valve Short to B+</td>
+</tr>
+<tr>
+<td >17980</td>
+<td >P1572</td>
+<td>Left Eng. Mount Solenoid Valve Short to ground</td>
+</tr>
+<tr>
+<td >17981</td>
+<td >P1573</td>
+<td>Left Eng. Mount Solenoid Valve Open circuit</td>
+</tr>
+<tr>
+<td >17982</td>
+<td >P1574</td>
+<td>Left Eng. Mount Solenoid Valve Electrical fault in circuit</td>
+</tr>
+<tr>
+<td >17983</td>
+<td >P1575</td>
+<td>Right Eng. Mount Solenoid Valve Short to B+</td>
+</tr>
+<tr>
+<td >17984</td>
+<td >P1576</td>
+<td>Right Eng. Mount Solenoid Valve Short to ground</td>
+</tr>
+<tr>
+<td >17985</td>
+<td >P1577</td>
+<td>Right Eng. Mount Solenoid Valve Open circuit</td>
+</tr>
+<tr>
+<td >17986</td>
+<td >P1578</td>
+<td>Right Eng. Mount Solenoid Valve Electrical fault in circuit</td>
+</tr>
+<tr>
+<td >17987</td>
+<td >P1579</td>
+<td>Idle Speed Control. Throttle Position. Adaptation not started</td>
+</tr>
+<tr>
+<td >17988</td>
+<td >P1580</td>
+<td>Throttle Actuator B1 Malfunction</td>
+</tr>
+<tr>
+<td >17989</td>
+<td >P1581</td>
+<td>Idle Speed Control. Throttle Position. Basic Setting Not Carried Out</td>
+</tr>
+<tr>
+<td >17990</td>
+<td >P1582</td>
+<td>Idle Adaptation at Limit</td>
+</tr>
+<tr>
+<td >17991</td>
+<td >P1583</td>
+<td>Transmission mount valves Short to B+</td>
+</tr>
+<tr>
+<td >17992</td>
+<td >P1584</td>
+<td>Transmission mount valves Short to ground</td>
+</tr>
+<tr>
+<td >17993</td>
+<td >P1585</td>
+<td>Transmission mount valves Open circuit</td>
+</tr>
+<tr>
+<td >17994</td>
+<td >P1586</td>
+<td>Engine mount solenoid valves Short to B+</td>
+</tr>
+<tr>
+<td >17995</td>
+<td >P1587</td>
+<td>Engine mount solenoid valves Short to ground</td>
+</tr>
+<tr>
+<td >17996</td>
+<td >P1588</td>
+<td>Engine mount solenoid valves Open circuit</td>
+</tr>
+<tr>
+<td >18000</td>
+<td >P1592</td>
+<td>Height Sensor / Charge pressure sensor , implausible ratio</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P160C</td>
+<td>Coolant Pump 2 Control Circuit Open</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P160E</td>
+<td>Coolant Pump 2 Control Circuit Low</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P160F</td>
+<td>Coolant Pump 2 Control Circuit High</td>
+</tr>
+<tr>
+<td >18008</td>
+<td >P1600</td>
+<td>Power Supply (B+) Terminal 15 Low Voltage</td>
+</tr>
+<tr>
+<td >18009</td>
+<td >P1601</td>
+<td>Power Supply Relay implausible Signal</td>
+</tr>
+<tr>
+<td >18010</td>
+<td >P1602</td>
+<td>Power Supply (B+) Terminal 30 Low Voltage</td>
+</tr>
+<tr>
+<td >18011</td>
+<td >P1603</td>
+<td>Internal Control Module Malfunction</td>
+</tr>
+<tr>
+<td >18012</td>
+<td >P1604</td>
+<td>Internal Control Module Driver Error</td>
+</tr>
+<tr>
+<td >18013</td>
+<td >P1605</td>
+<td>Rough Road/Acceleration Sensor Electrical Malfunction</td>
+</tr>
+<tr>
+<td >18014</td>
+<td >P1606</td>
+<td>Rough Road Spec Engine Torque ABS-ECU Electrical Malfunction</td>
+</tr>
+<tr>
+<td >18015</td>
+<td >P1607</td>
+<td>Vehicle speed signal Error message from instrument cluster</td>
+</tr>
+<tr>
+<td >18016</td>
+<td >P1608</td>
+<td>Steering angle signal Error message from steering angle sensor</td>
+</tr>
+<tr>
+<td >18017</td>
+<td >P1609</td>
+<td>Crash shut-down activated</td>
+</tr>
+<tr>
+<td >18018</td>
+<td >P1610</td>
+<td>Internal Control Module Check Sum Error</td>
+</tr>
+<tr>
+<td >18019</td>
+<td >P1611</td>
+<td>MIL Call-up Cir./Transmission Control Module Short to Ground</td>
+</tr>
+<tr>
+<td >18020</td>
+<td >P1612</td>
+<td>Electronic Control Module Incorrect Coding</td>
+</tr>
+<tr>
+<td >18021</td>
+<td >P1613</td>
+<td>MIL Call-up Cir. Open/Short to B+</td>
+</tr>
+<tr>
+<td >18022</td>
+<td >P1614</td>
+<td>MIL Call-up Cir./Transmission Control Module Range/Performance</td>
+</tr>
+<tr>
+<td >18023</td>
+<td >P1615</td>
+<td>Engine Oil Temperature Sensor Circuit range/performance</td>
+</tr>
+<tr>
+<td >18024</td>
+<td >P1616</td>
+<td>Glow Plug/Heater Indicator Cir. Short to B+</td>
+</tr>
+<tr>
+<td >18025</td>
+<td >P1617</td>
+<td>Glow Plug/Heater Indicator Cir. Open/Short to Ground</td>
+</tr>
+<tr>
+<td >18026</td>
+<td >P1618</td>
+<td>Glow Plug/Heater Relay Cir. Short to B+</td>
+</tr>
+<tr>
+<td >18027</td>
+<td >P1619</td>
+<td>Glow Plug/Heater Relay Cir. Open/Short to Ground</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P161A</td>
+<td>Glow Plug 1 Q10 Circuit Electrical</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P161B</td>
+<td>Glow Plug 2 Q11 Circuit Electrical</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P161C</td>
+<td>Glow Plug 3 Q12 Circuit Electrical</td>
+</tr>
+<tr>
+<td >&#8211;</td>
+<td >P161D</td>
+<td>Glow Plug 4 Q13 Circuit Electrical</td>
+</tr>
+<tr>
+<td >18028</td>
+<td >P1620</td>
+<td>Engine coolant temperature signal open/short to B+</td>
+</tr>
+<tr>
+<td >18029</td>
+<td >P1621</td>
+<td>Engine coolant temperature signal short to ground</td>
+</tr>
+<tr>
+<td >18030</td>
+<td >P1622</td>
+<td>Engine coolant temperature signal range/performance</td>
+</tr>
+<tr>
+<td >18031</td>
+<td >P1623</td>
+<td>Data Bus Power train No Communication</td>
+</tr>
+<tr>
+<td >18032</td>
+<td >P1624</td>
+<td>MIL Request signal active</td>
+</tr>
+<tr>
+<td >18033</td>
+<td >P1625</td>
+<td>Data-Bus Power train implausible Message from Trans. Control.</td>
+</tr>
+<tr>
+<td >18034</td>
+<td >P1626</td>
+<td>Data-Bus Power train Missing Message from Trans. Control.</td>
+</tr>
+<tr>
+<td >18035</td>
+<td >P1627</td>
+<td>Data-Bus Power train missing message from fuel injection pump</td>
+</tr>
+<tr>
+<td >18036</td>
+<td >P1628</td>
+<td>Data-Bus Power train missing message from steering sensor</td>
+</tr>
+<tr>
+<td >18037</td>
+<td >P1629</td>
+<td>Data-Bus Power train missing message from distance control</td>
+</tr>
+<tr>
+<td >18038</td>
+<td >P1630</td>
+<td>Accelerator Pedal Position. Sensor 1 Signal too Low</td>
+</tr>
+<tr>
+<td >18039</td>
+<td >P1631</td>
+<td>Accelerator Pedal Position. Sensor 1 Signal too High</td>
+</tr>
+<tr>
+<td >18040</td>
+<td >P1632</td>
+<td>Accelerator Pedal Position. Sensor 1 Power Supply Malfunction</td>
+</tr>
+<tr>
+<td >18041</td>
+<td >P1633</td>
+<td>Accelerator Pedal Position. Sensor 2 Signal too Low</td>
+</tr>
+<tr>
+<td >18042</td>
+<td >P1634</td>
+<td>Accelerator Pedal Position. Sensor 2 Signal too High</td>
+</tr>
+<tr>
+<td >18043</td>
+<td >P1635</td>
+<td>Data Bus Power train missing message fair condition control</td>
+</tr>
+<tr>
+<td >18044</td>
+<td >P1636</td>
+<td>Data Bus Power train missing message from Airbag control</td>
+</tr>
+<tr>
+<td >18045</td>
+<td >P1637</td>
+<td>Data Bus Power train missing message central controller</td>
+</tr>
+<tr>
+<td >18046</td>
+<td >P1638</td>
+<td>Data Bus Power train missing message from clutch control</td>
+</tr>
+<tr>
+<td >18047</td>
+<td >P1639</td>
+<td>Accelerator Pedal Position. Sensor 1+2 Range/Performance</td>
+</tr>
+<tr>
+<td >18048</td>
+<td >P1640</td>
+<td>Internal Control. Module (EEPROM) Error</td>
+</tr>
+<tr>
+<td >18049</td>
+<td >P1641</td>
+<td>Please check DTC Memory of Air Condition ECU</td>
+</tr>
+<tr>
+<td >18050</td>
+<td >P1642</td>
+<td>Please check DTC Memory of Airbag ECU</td>
+</tr>
+<tr>
+<td >18051</td>
+<td >P1643</td>
+<td>Please check DTC Memory of central electric ECU</td>
+</tr>
+<tr>
+<td >18052</td>
+<td >P1644</td>
+<td>Please check DTC Memory of clutch ECU</td>
+</tr>
+<tr>
+<td >18053</td>
+<td >P1645</td>
+<td>Data Bus Power train missing message from all wheel drive cont.</td>
+</tr>
+<tr>
+<td >18054</td>
+<td >P1646</td>
+<td>Please Check DTC Memory of all wheel drive ECU</td>
+</tr>
+<tr>
+<td >18055</td>
+<td >P1647</td>
+<td>Please check coding of ECU's in Data Bus Power train</td>
+</tr>
+<tr>
+<td >18056</td>
+<td >P1648</td>
+<td>Data Bus Power train Malfunction</td>
+</tr>
+<tr>
+<td >18057</td>
+<td >P1649</td>
+<td>Data Bus Power train Missing message from ABS Control Module</td>
+</tr>
+<tr>
+<td >18058</td>
+<td >P1650</td>
+<td>Data Bus Power train Missing message from instrument panel ECU</td>
+</tr>
+<tr>
+<td >18059</td>
+<td >P1651</td>
+<td>Data Bus Power train missing messages</td>
+</tr>
+<tr>
+<td >18060</td>
+<td >P1652</td>
+<td>Please check DTC Memory of transmission ECU</td>
+</tr>
+<tr>
+<td >18061</td>
+<td >P1653</td>
+<td>Please check DTC Memory of ABS Control Module</td>
+</tr>
+<tr>
+<td >18062</td>
+<td >P1654</td>
+<td>Please check DTC Memory of control panel ECU</td>
+</tr>
+<tr>
+<td >18063</td>
+<td >P1655</td>
+<td>Please check DTC Memory of ADR Control Module</td>
+</tr>
+<tr>
+<td >18064</td>
+<td >P1656</td>
+<td>A/C clutch relay circuit short to ground</td>
+</tr>
+<tr>
+<td >18065</td>
+<td >P1657</td>
+<td>A/C clutch relay circuit short to B+</td>
+</tr>
+<tr>
+<td >18066</td>
+<td >P1658</td>
+<td>Data Bus Power train Incorrect signal from ADR Control Module</td>
+</tr>
+<tr>
+<td >18081</td>
+<td >P1673</td>
+<td>Speed Signal Malfunction Message from ABS Control Module</td>
+</tr>
+<tr>
+<td >18082</td>
+<td >P1674</td>
+<td>Data bus drive-train implausible message from Instrument panel</td>
+</tr>
+<tr>
+<td >18084</td>
+<td >P1676</td>
+<td>Drive by Wire-MIL Cir. Electrical Malfunction</td>
+</tr>
+<tr>
+<td >18085</td>
+<td >P1677</td>
+<td>Drive by Wire-MIL Cir. Short to B+</td>
+</tr>
+<tr>
+<td >18086</td>
+<td >P1678</td>
+<td>Drive by Wire-MIL Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >18087</td>
+<td >P1679</td>
+<td>Drive by Wire-MIL Cir. Open</td>
+</tr>
+<tr>
+<td >18089</td>
+<td >P1681</td>
+<td>Control. Unit Programming, Programming not Finished</td>
+</tr>
+<tr>
+<td >18090</td>
+<td >P1682</td>
+<td>Power train data-bus implausible message from ABS Control Module</td>
+</tr>
+<tr>
+<td >18091</td>
+<td >P1683</td>
+<td>Power train data-bus implausible message from Airbag Control Module</td>
+</tr>
+<tr>
+<td >18092</td>
+<td >P1684</td>
+<td>Control. Unit Programming Communication Error</td>
+</tr>
+<tr>
+<td >18093</td>
+<td >P1685</td>
+<td>Data bus drive-train implausible message from Steering angle sensor</td>
+</tr>
+<tr>
+<td >18094</td>
+<td >P1686</td>
+<td>Control. Unit Error Programming Error</td>
+</tr>
+<tr>
+<td >18095</td>
+<td >P1687</td>
+<td>Data bus drive-train implausible message from Climate Control Module</td>
+</tr>
+<tr>
+<td >18097</td>
+<td >P1689</td>
+<td>Data bus drive-train implausible message from Electronic Central Unit</td>
+</tr>
+<tr>
+<td >18098</td>
+<td >P1690</td>
+<td>Malfunction Indication Light Malfunction</td>
+</tr>
+<tr>
+<td >18099</td>
+<td >P1691</td>
+<td>Malfunction Indication Light Open</td>
+</tr>
+<tr>
+<td >18100</td>
+<td >P1692</td>
+<td>Malfunction Indication Light Short to Ground</td>
+</tr>
+<tr>
+<td >18101</td>
+<td >P1693</td>
+<td>Malfunction Indication Light Short to B+</td>
+</tr>
+<tr>
+<td >18102</td>
+<td >P1694</td>
+<td>Malfunction Indication Light Open/Short to Ground</td>
+</tr>
+<tr>
+<td >18104</td>
+<td >P1696</td>
+<td>Data bus drive-train implausible message from Steering Column ECU.</td>
+</tr>
+<tr>
+<td >18106</td>
+<td >P1698</td>
+<td>Read fault memory of Steering Column ECU</td>
+</tr>
+<tr>
+<td >18110</td>
+<td >P1702</td>
+<td>Malfunction cannot activate control module replacement function, another malfunction with equal priory is present</td>
+</tr>
+<tr>
+<td >18112</td>
+<td >P1704</td>
+<td>Kick Down Switch Malfunction</td>
+</tr>
+<tr>
+<td >18113</td>
+<td >P1705</td>
+<td>Gear/Ratio Monitoring Adaptation limit reached</td>
+</tr>
+<tr>
+<td >18114</td>
+<td >P1706</td>
+<td>Transmission faulty</td>
+</tr>
+<tr>
+<td >18115</td>
+<td >P1707</td>
+<td>Interference in Mechatronic unit</td>
+</tr>
+<tr>
+<td >18119</td>
+<td >P1711</td>
+<td>Wheel Speed Signal 1 Range/Performance</td>
+</tr>
+<tr>
+<td >18124</td>
+<td >P1716</td>
+<td>Wheel Speed Signal 2 Range/Performance</td>
+</tr>
+<tr>
+<td >18129</td>
+<td >P1721</td>
+<td>Wheel Speed Signal 3 Range/Performance</td>
+</tr>
+<tr>
+<td >18131</td>
+<td >P1723</td>
+<td>Starter Interlock Cir. Open</td>
+</tr>
+<tr>
+<td >18132</td>
+<td >P1724</td>
+<td>Starter Interlock Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >18134</td>
+<td >P1726</td>
+<td>Wheel Speed Signal 4 Range/Performance</td>
+</tr>
+<tr>
+<td >18136</td>
+<td >P1728</td>
+<td>Different Wheel Speed Signals Range/Performance</td>
+</tr>
+<tr>
+<td >18137</td>
+<td >P1729</td>
+<td>Starter Interlock Cir. Short to B+</td>
+</tr>
+<tr>
+<td >18141</td>
+<td >P1733</td>
+<td>Tiptronic Switch Down Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >18147</td>
+<td >P1739</td>
+<td>Tiptronic Switch up Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >18148</td>
+<td >P1740</td>
+<td>Clutch temperature control</td>
+</tr>
+<tr>
+<td >18149</td>
+<td >P1741</td>
+<td>Clutch pressure adaptation at limit</td>
+</tr>
+<tr>
+<td >18150</td>
+<td >P1742</td>
+<td>Clutch torque adaptation at limit</td>
+</tr>
+<tr>
+<td >18151</td>
+<td >P1743</td>
+<td>Clutch slip control signal too high</td>
+</tr>
+<tr>
+<td >18152</td>
+<td >P1744</td>
+<td>Tiptronic Switch Recognition Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >18153</td>
+<td >P1745</td>
+<td>Transmission Control Unit Relay Short to B+</td>
+</tr>
+<tr>
+<td >18154</td>
+<td >P1746</td>
+<td>Transmission Control Unit Relay Malfunction</td>
+</tr>
+<tr>
+<td >18155</td>
+<td >P1747</td>
+<td>Transmission Control Unit Relay Open/Short to Ground</td>
+</tr>
+<tr>
+<td >18156</td>
+<td >P1748</td>
+<td>Transmission Control Unit Self-Check</td>
+</tr>
+<tr>
+<td >18157</td>
+<td >P1749</td>
+<td>Transmission Control Unit Incorrect Coded</td>
+</tr>
+<tr>
+<td >18158</td>
+<td >P1750</td>
+<td>Power Supply Voltage Low Voltage</td>
+</tr>
+<tr>
+<td >18159</td>
+<td >P1751</td>
+<td>Power Supply Voltage High Voltage</td>
+</tr>
+<tr>
+<td >18160</td>
+<td >P1752</td>
+<td>Power Supply Malfunction</td>
+</tr>
+<tr>
+<td >18161</td>
+<td >P1753</td>
+<td>Tiptronic Switch, &#8240;implausible signal</td>
+</tr>
+<tr>
+<td >18162</td>
+<td >P1754</td>
+<td>Tiptronic Switch, up function, Open circuit / short to B+</td>
+</tr>
+<tr>
+<td >18163</td>
+<td >P1755</td>
+<td>Tiptronic Switch, down function, Open circuit / short to B+</td>
+</tr>
+<tr>
+<td >18164</td>
+<td >P1756</td>
+<td>Tiptronic Switch, recognition function, Open circuit / short to B+</td>
+</tr>
+<tr>
+<td >18167</td>
+<td >P1759</td>
+<td>Transmission fluid temperature, Exceeded multiple times</td>
+</tr>
+<tr>
+<td >18168</td>
+<td >P1760</td>
+<td>Shift Lock Malfunction</td>
+</tr>
+<tr>
+<td >18169</td>
+<td >P1761</td>
+<td>Shift Lock Short to Ground</td>
+</tr>
+<tr>
+<td >18170</td>
+<td >P1762</td>
+<td>Shift Lock Short to B+</td>
+</tr>
+<tr>
+<td >18171</td>
+<td >P1763</td>
+<td>Shift Lock Open</td>
+</tr>
+<tr>
+<td >18172</td>
+<td >P1764</td>
+<td>Transmission temperature control</td>
+</tr>
+<tr>
+<td >18173</td>
+<td >P1765</td>
+<td>Hydraulic Pressure Sensor 2 adaptation at limit</td>
+</tr>
+<tr>
+<td >18174</td>
+<td >P1766</td>
+<td>Throttle Angle Signal Stuck Off</td>
+</tr>
+<tr>
+<td >18175</td>
+<td >P1767</td>
+<td>Throttle Angle Signal Stuck On</td>
+</tr>
+<tr>
+<td >18176</td>
+<td >P1768</td>
+<td>Hydraulic Pressure Sensor 2 Too High</td>
+</tr>
+<tr>
+<td >18177</td>
+<td >P1769</td>
+<td>Hydraulic Pressure Sensor 2 Too Low</td>
+</tr>
+<tr>
+<td >18178</td>
+<td >P1770</td>
+<td>Load Signal Range/Performance</td>
+</tr>
+<tr>
+<td >18179</td>
+<td >P1771</td>
+<td>Load Signal Stuck Off</td>
+</tr>
+<tr>
+<td >18180</td>
+<td >P1772</td>
+<td>Load Signal Stuck On</td>
+</tr>
+<tr>
+<td >18181</td>
+<td >P1773</td>
+<td>Hydraulic Pressure Sensor 1 Too High</td>
+</tr>
+<tr>
+<td >18182</td>
+<td >P1774</td>
+<td>Hydraulic Pressure Sensor 1 Too Low</td>
+</tr>
+<tr>
+<td >18183</td>
+<td >P1775</td>
+<td>Hydraulic Pressure Sensor 1 adaptation at limit</td>
+</tr>
+<tr>
+<td >18184</td>
+<td >P1776</td>
+<td>Hydraulic Pressure Sensor 1 range/performance</td>
+</tr>
+<tr>
+<td >18185</td>
+<td >P1777</td>
+<td>Hydraulic Pressure Sensor 2 range/performance</td>
+</tr>
+<tr>
+<td >18186</td>
+<td >P1778</td>
+<td>Solenoid EV7 Electrical Malfunction</td>
+</tr>
+<tr>
+<td >18188</td>
+<td >P1780</td>
+<td>Torque retraction malfunction</td>
+</tr>
+<tr>
+<td >18189</td>
+<td >P1781</td>
+<td>Engine Torque Reduction Open/Short to Ground</td>
+</tr>
+<tr>
+<td >18190</td>
+<td >P1782</td>
+<td>Engine Torque Reduction Short to B+</td>
+</tr>
+<tr>
+<td >18192</td>
+<td >P1784</td>
+<td>Shift up/down Wire Open/Short to Ground</td>
+</tr>
+<tr>
+<td >18193</td>
+<td >P1785</td>
+<td>Shift up/down Wire Short to B+</td>
+</tr>
+<tr>
+<td >18194</td>
+<td >P1786</td>
+<td>Reversing Light Cir. Open</td>
+</tr>
+<tr>
+<td >18195</td>
+<td >P1787</td>
+<td>Reversing Light Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >18196</td>
+<td >P1788</td>
+<td>Reversing Light Cir. Short to B+</td>
+</tr>
+<tr>
+<td >18197</td>
+<td >P1789</td>
+<td>Idle Speed Intervention Cir. Error Message from Engine Cont.</td>
+</tr>
+<tr>
+<td >18198</td>
+<td >P1790</td>
+<td>Transmission Range Display Cir. Open</td>
+</tr>
+<tr>
+<td >18199</td>
+<td >P1791</td>
+<td>Transmission Range Display Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >18200</td>
+<td >P1792</td>
+<td>Transmission Range Display Cir. Short to B+</td>
+</tr>
+<tr>
+<td >18201</td>
+<td >P1793</td>
+<td>Output Speed Sensor 2 Cir. No Signal</td>
+</tr>
+<tr>
+<td >18203</td>
+<td >P1795</td>
+<td>Vehicle Speed Signal Cir. Open</td>
+</tr>
+<tr>
+<td >18204</td>
+<td >P1796</td>
+<td>Vehicle Speed Signal Cir. Short to Ground</td>
+</tr>
+<tr>
+<td >18205</td>
+<td >P1797</td>
+<td>Vehicle Speed Signal Cir. Short to B+</td>
+</tr>
+<tr>
+<td >18206</td>
+<td >P1798</td>
+<td>Output Speed Sensor 2 Cir. Range/Performance</td>
+</tr>
+<tr>
+<td >18207</td>
+<td >P1799</td>
+<td>Output Speed Sensor 2 Cir. Rpm too High</td>
+</tr>
+<tr>
+<td >18221</td>
+<td >P1813</td>
+<td>Pressure Control. Solenoid 1 Electrical</td>
+</tr>
+<tr>
+<td >18222</td>
+<td >P1814</td>
+<td>Pressure Control. Solenoid 1 Open/Short to Ground</td>
+</tr>
+<tr>
+<td >18223</td>
+<td >P1815</td>
+<td>Pressure Control. Solenoid 1 Short to B+</td>
+</tr>
+<tr>
+<td >18226</td>
+<td >P1818</td>
+<td>Pressure Control. Solenoid 2 Electrical</td>
+</tr>
+<tr>
+<td >18227</td>
+<td >P1819</td>
+<td>Pressure Control. Solenoid 2 Open/Short to Ground</td>
+</tr>
+<tr>
+<td >18228</td>
+<td >P1820</td>
+<td>Pressure Control. Solenoid 2 Short to B+</td>
+</tr>
+<tr>
+<td >18231</td>
+<td >P1823</td>
+<td>Pressure Control. Solenoid 3 Electrical</td>
+</tr>
+<tr>
+<td >18232</td>
+<td >P1824</td>
+<td>Pressure Control. Solenoid 3 Open/Short to Ground</td>
+</tr>
+<tr>
+<td >18233</td>
+<td >P1825</td>
+<td>Pressure Control. Solenoid 3 Short to B+</td>
+</tr>
+<tr>
+<td >18236</td>
+<td >P1828</td>
+<td>Pressure Control. Solenoid 4 Electrical</td>
+</tr>
+<tr>
+<td >18237</td>
+<td >P1829</td>
+<td>Pressure Control. Solenoid 4 Open/Short to Ground</td>
+</tr>
+<tr>
+<td >18238</td>
+<td >P1830</td>
+<td>Pressure Control. Solenoid 4 Short to B+</td>
+</tr>
+<tr>
+<td >18241</td>
+<td >P1833</td>
+<td>Pressure regulating valve 5 for automatic transmission, electrical malfunction in circuit</td>
+</tr>
+<tr>
+<td >18242</td>
+<td >P1834</td>
+<td>Pressure Control. Solenoid 5 Open/Short to Ground</td>
+</tr>
+<tr>
+<td >18243</td>
+<td >P1835</td>
+<td>Pressure Control. Solenoid 5 Short to B+</td>
+</tr>
+<tr>
+<td >18246</td>
+<td >P1838</td>
+<td>Pressure regulating valve 6, electrical malfunction in circuit</td>
+</tr>
+<tr>
+<td >18247</td>
+<td >P1839</td>
+<td>Pressure regulating valve 6, Open/Short to Ground</td>
+</tr>
+<tr>
+<td >18248</td>
+<td >P1840</td>
+<td>Pressure regulating valve 6, Short to B+</td>
+</tr>
+<tr>
+<td >18249</td>
+<td >P1841</td>
+<td>Engine/Transmission Control Modules Versions do not match</td>
+</tr>
+<tr>
+<td >18250</td>
+<td >P1842</td>
+<td>Please check DTC Memory of instrument panel ECU</td>
+</tr>
+<tr>
+<td >18251</td>
+<td >P1843</td>
+<td>Please check DTC Memory of ADR Control Module</td>
+</tr>
+<tr>
+<td >18252</td>
+<td >P1844</td>
+<td>Please check DTC Memory of central electric control ECU</td>
+</tr>
+<tr>
+<td >18253</td>
+<td >P1845</td>
+<td>Please check DTC Memory of steering column ECU</td>
+</tr>
+<tr>
+<td >18255</td>
+<td >P1847</td>
+<td>Please check DTC Memory of brake system ECU</td>
+</tr>
+<tr>
+<td >18256</td>
+<td >P1848</td>
+<td>Please check DTC Memory of engine ECU</td>
+</tr>
+<tr>
+<td >18257</td>
+<td >P1849</td>
+<td>Please check DTC Memory of transmission ECU</td>
+</tr>
+<tr>
+<td >18258</td>
+<td >P1850</td>
+<td>Data-Bus Power train Missing Message from Engine Cont.</td>
+</tr>
+<tr>
+<td >18259</td>
+<td >P1851</td>
+<td>Data-Bus Power train Missing Message from Brake Cont.</td>
+</tr>
+<tr>
+<td >18260</td>
+<td >P1852</td>
+<td>Data-Bus Power train implausible Message from Engine Cont.</td>
+</tr>
+<tr>
+<td >18261</td>
+<td >P1853</td>
+<td>Data-Bus Power train implausible Message from Brake Cont.</td>
+</tr>
+<tr>
+<td >18262</td>
+<td >P1854</td>
+<td>Data-Bus Power train Hardware Defective</td>
+</tr>
+<tr>
+<td >18263</td>
+<td >P1855</td>
+<td>Data-Bus Power train Software version Cont.</td>
+</tr>
+<tr>
+<td >18264</td>
+<td >P1856</td>
+<td>Throttle/Pedal Position. Sensor A Cir. Error Message from Engine Cont.</td>
+</tr>
+<tr>
+<td >18265</td>
+<td >P1857</td>
+<td>Load Signal Error Message from Engine Cont.</td>
+</tr>
+<tr>
+<td >18266</td>
+<td >P1858</td>
+<td>Engine Speed Input Cir. Error Message from Engine Cont.</td>
+</tr>
+<tr>
+<td >18267</td>
+<td >P1859</td>
+<td>Brake Switch Cir. Error Message from Engine Cont.</td>
+</tr>
+<tr>
+<td >18268</td>
+<td >P1860</td>
+<td>Kick Down Switch Error Message from Engine Cont.</td>
+</tr>
+<tr>
+<td >18269</td>
+<td >P1861</td>
+<td>Throttle Position (TP) sensor Error Message from ECM</td>
+</tr>
+<tr>
+<td >18270</td>
+<td >P1862</td>
+<td>Data Bus Power train Missing message from instr. panel ECU</td>
+</tr>
+<tr>
+<td >18271</td>
+<td >P1863</td>
+<td>Data Bus Power train Missing Message from Steering Angle Sensor</td>
+</tr>
+<tr>
+<td >18272</td>
+<td >P1864</td>
+<td>Data Bus Power train Missing message from ADR control module</td>
+</tr>
+<tr>
+<td >18273</td>
+<td >P1865</td>
+<td>Data Bus Power train Missing message from central electronics</td>
+</tr>
+<tr>
+<td >18274</td>
+<td >P1866</td>
+<td>Data Bus Power train Missing messages</td>
+</tr>
+<tr>
+<td  width="64">18320</td>
+<td  width="64">P1912</td>
+<td>Brake Booster Pressure Sensor Short to Positive</td>
+</tr>
+<tr>
+<td >18321</td>
+<td >P1913</td>
+<td>Brake Booster Pressure Sensor Short to Ground</td>
+</tr>
+<tr>
+<td >18322</td>
+<td >P1914</td>
+<td>Brake Booster Pressure Sensor Implausible Signal</td>
+</tr>
+<tr>
+<td >18332</td>
+<td >P1924</td>
+<td>Control Module pin coding, Implausible Signal</td>
+</tr>
+<tr>
+<td >18436</td>
+<td >P2004</td>
+<td>Intake Manifold Runner Control Stuck Open Bank 1&#160;</td>
+</tr>
+<tr>
+<td >18440</td>
+<td >P2008</td>
+<td>Intake Manifold Runner Control Circuit/Open Bank 1&#160;</td>
+</tr>
+<tr>
+<td >18446</td>
+<td >P2014</td>
+<td>Intake Manifold Runner Position Sensor/Switch Circuit Bank 1</td>
+</tr>
+<tr>
+<td >18447</td>
+<td >P2015</td>
+<td>Intake Manifold Runner Position Sensor/Switch Circuit Range/Performance Bank 1</td>
+</tr>
+<tr>
+<td >18448</td>
+<td >P2016</td>
+<td>Intake Manifold Runner Position Sensor/Switch Circuit Low Bank 1</td>
+</tr>
+<tr>
+<td >18520</td>
+<td >P2088</td>
+<td>"A" Camshaft Position Actuator Control Circuit Low Bank 1</td>
+</tr>
+<tr>
+<td >18521</td>
+<td >P2089</td>
+<td>"A" Camshaft Position Actuator Control Circuit High Bank 1</td>
+</tr>
+<tr>
+<td >18522</td>
+<td >P2090</td>
+<td>"B" Camshaft Position Actuator Control Circuit Low Bank 1</td>
+</tr>
+<tr>
+<td >18523</td>
+<td >P2091</td>
+<td>"B" Camshaft Position Actuator Control Circuit High Bank 1</td>
+</tr>
+<tr>
+<td >18528</td>
+<td >P2096</td>
+<td>Post Catalyst Fuel Trim System Too Lean Bank 1</td>
+</tr>
+<tr>
+<td >18529</td>
+<td >P2097</td>
+<td>Post Catalyst Fuel Trim System Too Rich Bank 1</td>
+</tr>
+<tr>
+<td >18532</td>
+<td >P2100</td>
+<td>Throttle Actuator "A" Control Motor Circuit/Open</td>
+</tr>
+<tr>
+<td >18533</td>
+<td >P2101</td>
+<td>Throttle Actuator "A" Control Motor Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >18534</td>
+<td >P2102</td>
+<td>Throttle Actuator "A" Control Motor Circuit Low</td>
+</tr>
+<tr>
+<td >18535</td>
+<td >P2103</td>
+<td>Throttle Actuator "A" Control Motor Circuit High</td>
+</tr>
+<tr>
+<td >18538</td>
+<td >P2106</td>
+<td>Throttle Actuator Control System - Forced Limited Power</td>
+</tr>
+<tr>
+<td >18540</td>
+<td >P2108</td>
+<td>Throttle Actuator Control Module Performance</td>
+</tr>
+<tr>
+<td >18541</td>
+<td >P2110</td>
+<td>Throttle Actuator Control System - Forced Limited RPM</td>
+</tr>
+<tr>
+<td >18544</td>
+<td >P2112</td>
+<td>Throttle Actuator Control System - Stuck Closed</td>
+</tr>
+<tr>
+<td >18554</td>
+<td >P2122</td>
+<td>Throttle/Pedal Position Sensor/Switch "D" Circuit Low</td>
+</tr>
+<tr>
+<td >18555</td>
+<td >P2123</td>
+<td>Throttle/Pedal Position Sensor/Switch "D" Circuit High</td>
+</tr>
+<tr>
+<td >18559</td>
+<td >P2127</td>
+<td>Throttle/Pedal Position Sensor/Switch "E" Circuit Low</td>
+</tr>
+<tr>
+<td >18560</td>
+<td >P2128</td>
+<td>Throttle/Pedal Position Sensor/Switch "E" Circuit High</td>
+</tr>
+<tr>
+<td >18565</td>
+<td >P2133</td>
+<td>Throttle/Pedal Position Sensor/Switch "F" Circuit High</td>
+</tr>
+<tr>
+<td >18570</td>
+<td >P2138</td>
+<td>Throttle/Pedal Position Sensor/Switch "D"/"F" Voltage Correlation</td>
+</tr>
+<tr>
+<td >18578</td>
+<td >P2146</td>
+<td>Fuel Injector Group "A" Supply Voltage Circuit/Open</td>
+</tr>
+<tr>
+<td >18581</td>
+<td >P2149</td>
+<td>Fuel Injector Group "B" Supply Voltage Circuit/Open</td>
+</tr>
+<tr>
+<td >18609</td>
+<td >P2177</td>
+<td>System Too Lean Off Idle Bank 1</td>
+</tr>
+<tr>
+<td >18610</td>
+<td >P2178</td>
+<td>System Too Rich Off Idle Bank 1</td>
+</tr>
+<tr>
+<td >18611</td>
+<td >P2179</td>
+<td>System Too Lean Off Idle Bank 2</td>
+</tr>
+<tr>
+<td >18612</td>
+<td >P2180</td>
+<td>System Too Rich Off Idle Bank 2</td>
+</tr>
+<tr>
+<td >18613</td>
+<td >P2181</td>
+<td>Cooling System Performance</td>
+</tr>
+<tr>
+<td >18616</td>
+<td >P2184</td>
+<td>Engine Coolant Temperature Sensor 2 (on Radiator) Circuit Low</td>
+</tr>
+<tr>
+<td >18617</td>
+<td >P2185</td>
+<td>Engine Coolant Temperature Sensor 2 (on Radiator) Circuit High</td>
+</tr>
+<tr>
+<td >18619</td>
+<td >P2187</td>
+<td>System Too Lean at Idle Bank 1</td>
+</tr>
+<tr>
+<td >18620</td>
+<td >P2188</td>
+<td>System Too Rich at Idle Bank 1</td>
+</tr>
+<tr>
+<td >18621</td>
+<td >P2189</td>
+<td>System Too Lean at Idle Bank 2</td>
+</tr>
+<tr>
+<td >18622</td>
+<td >P2190</td>
+<td>System Too Rich at Idle Bank 2</td>
+</tr>
+<tr>
+<td >18623</td>
+<td >P2191</td>
+<td>System Too Lean at Higher Load Bank 1</td>
+</tr>
+<tr>
+<td >18624</td>
+<td >P2192</td>
+<td>System Too Rich at Higher Load Bank 1</td>
+</tr>
+<tr>
+<td >18625</td>
+<td >P2193</td>
+<td>System Too Lean at Higher Load Bank 2</td>
+</tr>
+<tr>
+<td >18626</td>
+<td >P2194</td>
+<td>System Too Rich at Higher Load Bank 2</td>
+</tr>
+<tr>
+<td >18627</td>
+<td >P2195</td>
+<td>O2 Sensor Signal Biased/Stuck Lean Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18628</td>
+<td >P2196</td>
+<td>O2 Sensor Signal Biased/Stuck Rich Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18663</td>
+<td >P2231</td>
+<td>O2 Sensor Signal Circuit Shorted to Heater Circuit Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18666</td>
+<td >P2234</td>
+<td>O2 Sensor Signal Circuit Shorted to Heater Circuit Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >18669</td>
+<td >P2237</td>
+<td>O2 Sensor Positive Current Control Circuit/Open Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18670</td>
+<td >P2238</td>
+<td>O2 Sensor Positive Current Control Circuit Low Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18671</td>
+<td >P2239</td>
+<td>O2 Sensor Positive Current Control Circuit High Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18672</td>
+<td >P2240</td>
+<td>O2 Sensor Positive Current Control Circuit/Open Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >18675</td>
+<td >P2243</td>
+<td>O2 Sensor Reference Voltage Circuit/Open Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18677</td>
+<td >P2245</td>
+<td>O2 Sensor Reference Voltage Circuit Low Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18678</td>
+<td >P2246</td>
+<td>O2 Sensor Reference Voltage Circuit High Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18679</td>
+<td >P2247</td>
+<td>O2 Sensor Reference Voltage Circuit/Open Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >18683</td>
+<td >P2251</td>
+<td>O2 Sensor Negative Current Control Circuit/Open Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18684</td>
+<td >P2252</td>
+<td>O2 Sensor Negative Current Control Circuit Low Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18685</td>
+<td >P2253</td>
+<td>O2 Sensor Negative Current Control Circuit High Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18686</td>
+<td >P2254</td>
+<td>O2 Sensor Negative Current Control Circuit/Open Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >18689</td>
+<td >P2257</td>
+<td>Secondary Air Injection System Control "A" Circuit Low</td>
+</tr>
+<tr>
+<td >18690</td>
+<td >P2258</td>
+<td>Secondary Air Injection System Control "A" Circuit High</td>
+</tr>
+<tr>
+<td >18693</td>
+<td >P2261</td>
+<td>Turbocharger/Supercharger Bypass Valve - Mechanical</td>
+</tr>
+<tr>
+<td >18695</td>
+<td >P2263</td>
+<td>Turbocharger/Supercharger Boost System Performance</td>
+</tr>
+<tr>
+<td >18702</td>
+<td >P2270</td>
+<td>O2 Sensor Signal Biased/Stuck Lean Bank 1 Sensor 2</td>
+</tr>
+<tr>
+<td >18703</td>
+<td >P2271</td>
+<td>O2 Sensor Signal Biased/Stuck Rich Bank 1 Sensor 2</td>
+</tr>
+<tr>
+<td >18704</td>
+<td >P2272</td>
+<td>O2 Sensor Signal Biased/Stuck Lean Bank 2 Sensor 2</td>
+</tr>
+<tr>
+<td >18705</td>
+<td >P2273</td>
+<td>O2 Sensor Signal Biased/Stuck Rich Bank 2 Sensor 2</td>
+</tr>
+<tr>
+<td >18706</td>
+<td >P2274</td>
+<td>O2 Sensor Signal Biased/Stuck Lean Bank 1 Sensor 3</td>
+</tr>
+<tr>
+<td >18707</td>
+<td >P2275</td>
+<td>O2 Sensor Signal Biased/Stuck Rich Bank 1 Sensor 3</td>
+</tr>
+<tr>
+<td >18711</td>
+<td >P2279</td>
+<td>Intake Air System Leak</td>
+</tr>
+<tr>
+<td >18725</td>
+<td >P2293</td>
+<td>Fuel Pressure Regulator 2 Performance</td>
+</tr>
+<tr>
+<td >18726</td>
+<td >P2294</td>
+<td>Fuel Pressure Regulator 2 Control Circuit/Open</td>
+</tr>
+<tr>
+<td >18727</td>
+<td >P2295</td>
+<td>Fuel Pressure Regulator 2 Control Circuit Low</td>
+</tr>
+<tr>
+<td >18728</td>
+<td >P2296</td>
+<td>Fuel Pressure Regulator 2 Control Circuit High</td>
+</tr>
+<tr>
+<td >18732</td>
+<td >P2300</td>
+<td>Ignition Coil "A" Primary Control Circuit Low</td>
+</tr>
+<tr>
+<td >18733</td>
+<td >P2301</td>
+<td>Ignition Coil "A" Primary Control Circuit High</td>
+</tr>
+<tr>
+<td >18735</td>
+<td >P2303</td>
+<td>Ignition Coil "B" Primary Control Circuit Low</td>
+</tr>
+<tr>
+<td >18736</td>
+<td >P2304</td>
+<td>Ignition Coil "B" Primary Control Circuit High</td>
+</tr>
+<tr>
+<td >18738</td>
+<td >P2306</td>
+<td>Ignition Coil "C" Primary Control Circuit Low</td>
+</tr>
+<tr>
+<td >18739</td>
+<td >P2307</td>
+<td>Ignition Coil "C" Primary Control Circuit High</td>
+</tr>
+<tr>
+<td >18741</td>
+<td >P2309</td>
+<td>Ignition Coil "D" Primary Control Circuit Low</td>
+</tr>
+<tr>
+<td >18742</td>
+<td >P2310</td>
+<td>Ignition Coil "D" Primary Control Circuit High</td>
+</tr>
+<tr>
+<td >18768</td>
+<td >P2336</td>
+<td>Cylinder 1 Above Knock Threshold</td>
+</tr>
+<tr>
+<td >18769</td>
+<td >P2337</td>
+<td>Cylinder 2 Above Knock Threshold</td>
+</tr>
+<tr>
+<td >18770</td>
+<td >P2338</td>
+<td>Cylinder 3 Above Knock Threshold</td>
+</tr>
+<tr>
+<td >18771</td>
+<td >P2339</td>
+<td>Cylinder 4 Above Knock Threshold</td>
+</tr>
+<tr>
+<td >18772</td>
+<td >P2340</td>
+<td>Cylinder 5 Above Knock Threshold</td>
+</tr>
+<tr>
+<td >18773</td>
+<td >P2341</td>
+<td>Cylinder 6 Above Knock Threshold</td>
+</tr>
+<tr>
+<td >18832</td>
+<td >P2400</td>
+<td>Evaporative Emission System Leak Detection Pump Control Circuit/Open</td>
+</tr>
+<tr>
+<td >18833</td>
+<td >P2401</td>
+<td>Evaporative Emission System Leak Detection Pump Control Circuit Low</td>
+</tr>
+<tr>
+<td >18834</td>
+<td >P2402</td>
+<td>Evaporative Emission System Leak Detection Pump Control Circuit High</td>
+</tr>
+<tr>
+<td >18835</td>
+<td >P2403</td>
+<td>Evaporative Emission System Leak Detection Pump Sense Circuit/Open</td>
+</tr>
+<tr>
+<td >18836</td>
+<td >P2404</td>
+<td>Evaporative Emission System Leak Detection Pump Sense Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >18845</td>
+<td >P2413</td>
+<td>Exhaust Gas Recirculation System Performance</td>
+</tr>
+<tr>
+<td >18846</td>
+<td >P2414</td>
+<td>O2 Sensor Exhaust Sample Error Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >18848</td>
+<td >P2416</td>
+<td>O2 Sensor Signals Swapped Bank 1 Sensor 2/Bank 1 Sensor 3</td>
+</tr>
+<tr>
+<td >18854</td>
+<td >P2422</td>
+<td>Evaporative Emission System Vent Valve Stuck Closed</td>
+</tr>
+<tr>
+<td >18857</td>
+<td >P2425</td>
+<td>Exhaust Gas Recirculation Cooling Valve Control Circuit/Open</td>
+</tr>
+<tr>
+<td >18858</td>
+<td >P2426</td>
+<td>Exhaust Gas Recirculation Cooling Valve Control Circuit Low</td>
+</tr>
+<tr>
+<td >18859</td>
+<td >P2427</td>
+<td>Exhaust Gas Recirculation Cooling Valve Control Circuit High</td>
+</tr>
+<tr>
+<td >18971</td>
+<td >P2539</td>
+<td>Low Pressure Fuel System Sensor Circuit</td>
+</tr>
+<tr>
+<td >18972</td>
+<td >P2540</td>
+<td>Low Pressure Fuel System Sensor Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >18973</td>
+<td >P2541</td>
+<td>Low Pressure Fuel System Sensor Circuit Low</td>
+</tr>
+<tr>
+<td >18996</td>
+<td >P2564</td>
+<td>Turbocharger Boost Control Position Sensor "A" Circuit Low</td>
+</tr>
+<tr>
+<td >18997</td>
+<td >P2565</td>
+<td>Turbocharger Boost Control Position Sensor "A" Circuit High</td>
+</tr>
+<tr>
+<td >19032</td>
+<td >P2600</td>
+<td>Coolant Pump "A" Control Circuit/Open</td>
+</tr>
+<tr>
+<td >19033</td>
+<td >P2601</td>
+<td>Coolant Pump "A" Control Circuit Range/Performance</td>
+</tr>
+<tr>
+<td >19034</td>
+<td >P2602</td>
+<td>Coolant Pump "A" Control Circuit Low</td>
+</tr>
+<tr>
+<td >19035</td>
+<td >P2603</td>
+<td>Coolant Pump "A" Control Circuit High</td>
+</tr>
+<tr>
+<td >19058</td>
+<td >P2626</td>
+<td>O2 Sensor Pumping Current Trim Circuit/Open Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >19061</td>
+<td >P2629</td>
+<td>O2 Sensor Pumping Current Trim Circuit/Open Bank 2 Sensor 1</td>
+</tr>
+<tr>
+<td >19069</td>
+<td >P2637</td>
+<td>Torque Management Feedback Signal "A"</td>
+</tr>
+<tr>
+<td >19140</td>
+<td >P2708</td>
+<td>Shift Solenoid "F" Stuck On</td>
+</tr>
+<tr>
+<td >19143</td>
+<td >P2711</td>
+<td>Unexpected Mechanical Gear Disengagement</td>
+</tr>
+<tr>
+<td >19146</td>
+<td >P2714</td>
+<td>Pressure Control Solenoid "D" Performance/Stuck Off</td>
+</tr>
+<tr>
+<td >19147</td>
+<td >P2715</td>
+<td>Pressure Control Solenoid "D" Stuck On</td>
+</tr>
+<tr>
+<td >19141</td>
+<td >P2716</td>
+<td>Pressure Control Solenoid "D" Electrical</td>
+</tr>
+<tr>
+<td >19142</td>
+<td >P2717</td>
+<td>Pressure Control Solenoid "D" Intermittent</td>
+</tr>
+<tr>
+<td >19155</td>
+<td >P2723</td>
+<td>Pressure Control Solenoid "E" Performance/Stuck Off</td>
+</tr>
+<tr>
+<td >19156</td>
+<td >P2724</td>
+<td>Pressure Control Solenoid "E" Stuck On</td>
+</tr>
+<tr>
+<td >19157</td>
+<td >P2725</td>
+<td>Pressure Control Solenoid "E" Electrical</td>
+</tr>
+<tr>
+<td >19158</td>
+<td >P2726</td>
+<td>Pressure Control Solenoid "E" Intermittent</td>
+</tr>
+<tr>
+<td >19164</td>
+<td >P2732</td>
+<td>Pressure Control Solenoid "F" Performance/Stuck Off</td>
+</tr>
+<tr>
+<td >19165</td>
+<td >P2733</td>
+<td>Pressure Control Solenoid "F" Stuck On</td>
+</tr>
+<tr>
+<td >19166</td>
+<td >P2734</td>
+<td>Pressure Control Solenoid "F" Electrical</td>
+</tr>
+<tr>
+<td >19167</td>
+<td >P2735</td>
+<td>Pressure Control Solenoid "F" Intermittent</td>
+</tr>
+<tr>
+<td >19456</td>
+<td >P3000</td>
+<td>Glow Plug Indicator Light Malfunction Message from Instrument Cluster</td>
+</tr>
+<tr>
+<td >19473</td>
+<td >P3017</td>
+<td>Electronic Differential Lock Intake Valve for Left Front and Right Rear Short to Positive</td>
+</tr>
+<tr>
+<td >19474</td>
+<td >P3018</td>
+<td>Exhaust Flap Valve 1 Short to Ground</td>
+</tr>
+<tr>
+<td >19475</td>
+<td >P3019</td>
+<td>Exhaust Flap Valve 1 Open Circuit</td>
+</tr>
+<tr>
+<td >19481</td>
+<td >P3025</td>
+<td>Angle Sensor 1 (on Throttle Drive 2 power accelerator actuation) Implausible signal</td>
+</tr>
+<tr>
+<td >19482</td>
+<td >P3026</td>
+<td>Angle Sensor 1 (on Throttle Drive 2 power accelerator actuation) Signal too small</td>
+</tr>
+<tr>
+<td >19483</td>
+<td >P3027</td>
+<td>Angle Sensor 1 (on Throttle Drive 2 power accelerator actuation) Signal too large</td>
+</tr>
+<tr>
+<td >19484</td>
+<td >P3028</td>
+<td>Angle Sensor 2 (on Throttle Drive 2 power accelerator actuation) Implausible signal</td>
+</tr>
+<tr>
+<td >19485</td>
+<td >P3029</td>
+<td>Angle Sensor 2 (on Throttle Drive 2 power accelerator actuation) Signal too small</td>
+</tr>
+<tr>
+<td >19486</td>
+<td >P3030</td>
+<td>Angle Sensor 1 (on Throttle Drive 2 power accelerator actuation) Signal too large</td>
+</tr>
+<tr>
+<td >19487</td>
+<td >P3031</td>
+<td>Throttle Drive 2 (Power Accelerator Actuation) Electrical malfunction in circuit.</td>
+</tr>
+<tr>
+<td >19488</td>
+<td >P3032</td>
+<td>Throttle Valve Control Module 2. Malfunction in basic setting</td>
+</tr>
+<tr>
+<td >19491</td>
+<td >P3035</td>
+<td>Throttle Valve Control Module 2. Mechanical malfunction</td>
+</tr>
+<tr>
+<td >19494</td>
+<td >P3038</td>
+<td>Throttle Valve Control Module 2. Lower impact is not being reached</td>
+</tr>
+<tr>
+<td >19501</td>
+<td >P3045</td>
+<td>Fuel Pump Electronic Faulty</td>
+</tr>
+<tr>
+<td >19503</td>
+<td >P3047</td>
+<td>Activation Starter Relay 2. Short to Positive</td>
+</tr>
+<tr>
+<td >19504</td>
+<td >P3048</td>
+<td>Activation Starter Relay 2. Short to Negative</td>
+</tr>
+<tr>
+<td >19505</td>
+<td >P3049</td>
+<td>Activation Starter Relay 2. Open Circuit</td>
+</tr>
+<tr>
+<td >19506</td>
+<td >P3050</td>
+<td>Starter Relay 2 Electrical Malfunction in circuit ( Stuck / Inoperative Relay)</td>
+</tr>
+<tr>
+<td >19518</td>
+<td >P3062</td>
+<td>Turbo / Super Charger Over boost Condition</td>
+</tr>
+<tr>
+<td >19519</td>
+<td >P3063</td>
+<td>Turbo / Super Charger Under boost Condition</td>
+</tr>
+<tr>
+<td >19537</td>
+<td >P3081</td>
+<td>Engine Temperature too low</td>
+</tr>
+<tr>
+<td >19586</td>
+<td >P3130</td>
+<td>Exhaust Gas Recirculation System Control Limit Exceeded</td>
+</tr>
+<tr>
+<td >19587</td>
+<td >P3131</td>
+<td>Exhaust Gas Recirculation System Lowest Control Limit Exceeded</td>
+</tr>
+<tr>
+<td >19593</td>
+<td >P3137</td>
+<td>Intake Manifold Runner Control (IMRC) . Basic setting not carried out</td>
+</tr>
+<tr>
+<td >19594</td>
+<td >P3138</td>
+<td>Intake Manifold Runner Control (IMRC) Deviation</td>
+</tr>
+<tr>
+<td >19647</td>
+<td >P3191</td>
+<td>Intake Manifold Runner Control (IMRC) Bank 1, Basic Setting Aborted with Mechanical Impact Open</td>
+</tr>
+<tr>
+<td >19648</td>
+<td >P3192</td>
+<td>Intake Manifold Runner Control (IMRC) Bank 1, Basic Setting Aborted with Mechanical Impact Closed</td>
+</tr>
+<tr>
+<td >19649</td>
+<td >P3193</td>
+<td>Intake Manifold Runner Control (IMRC) Bank 1, Control Circuit Outside Valid Range</td>
+</tr>
+<tr>
+<td >19667</td>
+<td >P3211</td>
+<td>Exhaust Bank 1 S1 Heater return connection</td>
+</tr>
+<tr>
+<td >19711</td>
+<td >P3255</td>
+<td>Bank1, Oxygen Sensor before Catalytic Converter, Heating Circuit Regulation at Upper Limit</td>
+</tr>
+<tr>
+<td >19712</td>
+<td >P3256</td>
+<td>Bank1, Oxygen Sensor before Catalytic Converter, Heating Circuit Regulation at Lower Limit</td>
+</tr>
+<tr>
+<td >19722</td>
+<td >P3266</td>
+<td>Bank 1 sensor 1 internal resistance to large</td>
+</tr>
+<tr>
+<td >28673</td>
+<td >U0001</td>
+<td>High Speed CAN Communication Bus</td>
+</tr>
+<tr>
+<td >28772</td>
+<td >U0100</td>
+<td>Lost Communication With ECM/PCM "A"</td>
+</tr>
+<tr>
+<td >28773</td>
+<td >U0101</td>
+<td>Lost Communication with TCM</td>
+</tr>
+<tr>
+<td >28775</td>
+<td >U0103</td>
+<td>Lost Communication With Gear Shift Control Module "A"</td>
+</tr>
+<tr>
+<td >28793</td>
+<td >U0121</td>
+<td>Lost Communication With Anti-Lock Brake System (ABS) Control Module</td>
+</tr>
+<tr>
+<td >28798</td>
+<td >U0126</td>
+<td>Lost Communication With Steering Angle Sensor Module</td>
+</tr>
+<tr>
+<td >28818</td>
+<td >U0146</td>
+<td>Lost Communication With Gateway "A" Diagnostic Interface</td>
+</tr>
+<tr>
+<td >28823</td>
+<td >U0151</td>
+<td>Lost Communication With Restraints Control Module (Airbag Control Unit)</td>
+</tr>
+<tr>
+<td >28827</td>
+<td >U0155</td>
+<td>Lost Communication With Instrument Panel Cluster (IPC) Control Module</td>
+</tr>
+<tr>
+<td >28836</td>
+<td >U0164</td>
+<td>Lost Communication With HVAC Control Module</td>
+</tr>
+<tr>
+<td >28974</td>
+<td >U0302</td>
+<td>Software Incompatibility With Transmission Control Module</td>
+</tr>
+<tr>
+<td >28987</td>
+<td >U0315</td>
+<td>Software Incompatibility With Anti-Lock Brake System Control Module</td>
+</tr>
+<tr>
+<td >29074</td>
+<td >U0402</td>
+<td>Invalid Data Received From TCM</td>
+</tr>
+<tr>
+<td >29076</td>
+<td >U0404</td>
+<td>Invalid Data Received From Gear Shift Control Module "A"</td>
+</tr>
+<tr>
+<td >29087</td>
+<td >U0415</td>
+<td>Invalid Data Received From Anti-Lock Brake System (ABS) Control Module</td>
+</tr>
+<tr>
+<td >29696</td>
+<td >U1000</td>
+<td>Lost communication with Central Control Module for Comfort System</td>
+</tr>
+<tr>
+<td >29697</td>
+<td >U1001</td>
+<td>Central Control Module for Comfort System. Range / Performance</td>
+</tr>
+<tr>
+<td >29698</td>
+<td >U1002</td>
+<td>Central Control Module for Comfort System. Check fault memory</td>
+</tr>
+<tr>
+<td >29702</td>
+<td >U1006</td>
+<td>Lost Communication NOX Sensor Bank 1 Sensor 1</td>
+</tr>
+<tr>
+<td >29704</td>
+<td >U1008</td>
+<td>Diagnostic Interface for database. Check fault memory</td>
+</tr>
+<tr>
+<td >29705</td>
+<td >U1009</td>
+<td>Gateway. Range / Performance</td>
+</tr>
+<tr>
+<td >65535</td>
+<td >&#8211;</td>
+<td>Internal Control Module Memory Check Sum Error</td>
+</tr>
+</table>

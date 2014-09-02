@@ -1,0 +1,10 @@
+﻿<ol>
+<li>Transmission must not be in emergency running (backup) mode.</li>
+<li>Connect Scan tool to read ATF Temp.</li>
+<li>Trans in Park, Engine idling, A/C OFF</li>
+<li>Remove inspection plug.</li>
+<li>With ATF Temp. between 35&#176;C and 45&#176;C</li>
+<li>If ATF drips, level OK.</li>
+<li>If ATF not, top up transmission</li>
+<li>Renew washer on plug.</li>
+</ol>

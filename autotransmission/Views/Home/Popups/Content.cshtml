@@ -1,0 +1,36 @@
+﻿
+
+<div class="modal-content">
+    <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal">&times;</button>
+        <h3>Content</h3>
+    </div>
+
+    <div class="modal-body">
+        <div class="row">
+            <div class="col-lg-6">
+                <form action="GetContent" method="post">
+                    <label for="make" class="label">Make</label>
+                    <input type="text" class="form-control" id="make" />
+                    <label for="model" class="label">Model</label>
+                    <input type="text" class="form-control" id="model" />
+                    <label for="model" class="label">Model</label>
+                    <input type="text" class="form-control" id="model" />
+                    <button type="button" class="btn btn-sm btn-primary">Search</button>
+                </form>
+            </div>
+            <div class="col-lg-6">
+                <label for="results">Results</label>
+                <table class="table table-striped">
+                    <tr><td>Some article</td><td><a href="#">View</a></td></tr>
+                    <tr><td>Some other article</td><td><a href="#">View</a></td></tr>
+                    <tr><td>But not this one </td><td><a href="#">View</a></td></tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="modal-footer">
+        <a href="#" class="btn" data-dismiss="modal">Close</a>
+    </div>
+</div>

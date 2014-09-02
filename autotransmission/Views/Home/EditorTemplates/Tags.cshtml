@@ -1,0 +1,17 @@
+﻿@model IEnumerable<to_lib.Tag>
+
+@{
+    var id = ViewData["modelId"];
+}
+
+<div class="tagEditor">
+    <a class="btn btn-sm btn-default" data-toggle="modal" href="/Home/LoadTags?id=@id" data-target="#tags@(id)">Tags</a>
+</div>
+
+
+<div id="tags@(id)" class="modal fade attEditor" tabindex="-1" role="dialog" aria-labelledby="remoteModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+    </div>
+</div>
