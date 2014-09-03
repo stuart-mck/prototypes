@@ -1,39 +1,32 @@
 ﻿@model IEnumerable<to_lib.ServiceInterval>
 
-<html>
-<head>
-    <title>Service Intervals</title>
-</head>
-<body>
-    <div class="modal-content">
-        <div class="modal-header">
-            <button type="button" class="close" data-dismiss="modal">&times;</button>
-            <h3>Service Intervals</h3>
-        </div>
 
-        <div class="modal-body">
-            <table class="table table-striped">
-                <thead>
-                    <tr>
-                        <th>Interval</th>
-                        <th>Months</th>
-                        <th>Labour Charge</th>
-                        <th>Selected</th>
-                    </tr>
-                </thead>
-                <tbody>
-                    @foreach (var i in Model)
-                    {
-                        <tr>
-                            <td>@i.ServiceIntervalMarker</td>
-                            <td>@i.Months</td>
-                            <td>@i.Labour</td>
-                            <td><input type="checkbox" /></td>
-                        </tr>
-                    }
-                </tbody>
-            </table>
-        </div>
-    </div>
-</body>
-</html>
+
+<div class="modal-header">
+    <button type="button" class="close" data-dismiss="modal">&times;</button>
+    <h3>Service Intervals</h3>
+</div>
+
+<div class="modal-body">
+    <table class="table table-striped">
+        <thead>
+            <tr>
+                <th>Interval</th>
+                <th>Months</th>
+                <th>Labour Charge</th>
+                <th>Selected</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var i in Model)
+            {
+                <tr>
+                    <td>@i.ServiceIntervalMarker</td>
+                    <td>@i.Months</td>
+                    <td>@i.Labour</td>
+                    <td><input type="checkbox" /></td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

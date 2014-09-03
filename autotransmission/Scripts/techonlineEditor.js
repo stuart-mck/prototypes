@@ -11,3 +11,4 @@ function loadAttributePopup(id)
 {
     $(id).modal();
 }
+
