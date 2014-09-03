@@ -13,7 +13,8 @@ namespace autotransmission.Controllers
     public class HomeController : Controller
     {
 
-        private Article _currentArticle;
+        private SessionState _session = new SessionState();
+
 
         public ActionResult LoadArticle(string data)
         {
@@ -22,20 +23,20 @@ namespace autotransmission.Controllers
             switch (data)
             {
                 case "at":
-                    _currentArticle = lib.GetAutoTransArticle();
+                    _session.CurrentArticle = lib.GetAutoTransArticle();
                     break;
                 case "em":
-                    _currentArticle = lib.GetEngineManagementArticle();
+                    _session.CurrentArticle = lib.GetEngineManagementArticle();
                     break;
                 case "tt":
-                    _currentArticle = lib.GetTechTalkArticle();
+                    _session.CurrentArticle = lib.GetTechTalkArticle();
                     break;
                 case "ss":
-                    _currentArticle = lib.GetServiceScheduleArticle();
+                    _session.CurrentArticle = lib.GetServiceScheduleArticle();
                     break;
             }
 
-            return View("Index", _currentArticle);
+            return View("Index", _session.CurrentArticle);
         }
 
         public ActionResult Index()
@@ -49,7 +50,7 @@ namespace autotransmission.Controllers
 
         public ActionResult TablesPartial()
         {
-            return PartialView("TablesPartial", _currentArticle);
+            return PartialView("TablesPartial", _session.CurrentArticle);
         }
 
 
@@ -99,8 +100,33 @@ namespace autotransmission.Controllers
 
         public ActionResult GetServiceIntervals()
         {
-            var ss = ((ServiceSchedule)_currentArticle.Sections[1].Elements[0]).ServiceIntervals;
-            return PartialView("Popups/ServiceIntervals", ss );
+            //var ss = new ServiceIntervalEditorModel(((ServiceSchedule)_session.CurrentArticle.Sections[0].Elements[0]).ServiceIntervals);
+            return PartialView("Popups/ServiceIntervals", ((ServiceSchedule)_session.CurrentArticle.Sections[0].Elements[0]).ServiceIntervals );
+        }
+
+        [HttpPost]
+        public ActionResult SaveIntervals(List<ServiceInterval> intervals)
+        {
+            var ss = (ServiceSchedule)_session.CurrentArticle.Sections[0].Elements[0];
+
+            foreach (var i in intervals)
+            {
+                foreach (var sog in ss.ServiceOperationGroups)
+                {
+                    foreach (var so in sog.ServiceOperations)
+                    {
+                        so.ServiceOperations.Add(new ServiceIntervalOperation() { ServiceInterval = i, OperationType = operationType.Adjust });
+                    }
+                }
+            }
+
+            return RedirectToAction("ShowServiceSchedule", new {ss = ss});
+        }
+
+
+        public ActionResult ShowServiceSchedule(ServiceSchedule ss)
+        {
+            return View(ss);
         }
     }
 }

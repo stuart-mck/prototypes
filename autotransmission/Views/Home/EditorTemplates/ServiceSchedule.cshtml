@@ -1,6 +1,4 @@
-﻿<div id="@Model.Id" class="row tableContentEditor sectionContent">
-
-@model to_lib.ServiceSchedule
+﻿@model to_lib.ServiceSchedule
 
 
 <div id="@Model.Id" class="row serviceScheduleContentEditor sectionContent">
@@ -11,6 +9,6 @@
         <a href="#" onclick="toggleFirstChild('@Model.Id')" class="col-lg-1 glyphicon glyphicon-arrow-down"> </a>
     </div>
     <div class="row ssEditor">
-        @Html.EditorFor(e => e.ServiceIntervals, "ServiceIntervals", new {modelId = @Model.Id})
+        @Html.EditorFor(e => e.ServiceIntervals, "ServiceIntervalEditor", new { modelId = @Model.Id })
     </div>
 </div>

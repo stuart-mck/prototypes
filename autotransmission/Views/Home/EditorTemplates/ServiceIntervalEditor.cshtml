@@ -1,0 +1,23 @@
+﻿@model IEnumerable<to_lib.ServiceInterval>
+
+@{
+    var id = ViewData["modelId"];
+}
+
+
+<div class="row">
+    <a class="btn btn-sm btn-default" data-toggle="modal" href="/Home/GetServiceIntervals" data-target="#ss@(id)">Select Intervals</a>
+</div>
+<div class="row" id="x">
+
+</div>
+
+<div id="ss@(id)" class="modal fade attEditor"  tabindex="-1" role="dialog" aria-labelledby="remoteModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            
+        </div>
+    </div>
+</div>
+
+

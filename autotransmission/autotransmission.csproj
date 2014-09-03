@@ -140,6 +140,8 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Models\NoCacheAttribute.cs" />
+    <Compile Include="Models\ServiceIntervalEditorModel.cs" />
+    <Compile Include="Models\SessionState.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
@@ -195,8 +197,11 @@
     <Content Include="Views\Home\Popups\UploadResource.cshtml" />
     <Content Include="Views\Home\Popups\ConfigureResource.cshtml" />
     <Content Include="Views\Home\EditorTemplates\ServiceSchedule.cshtml" />
-    <Content Include="Views\Home\EditorTemplates\ServiceIntervals.cshtml" />
+    <Content Include="Views\Home\EditorTemplates\ServiceIntervalEditor.cshtml" />
     <Content Include="Views\Home\Popups\ServiceIntervals.cshtml" />
+    <Content Include="Views\Home\EditorTemplates\Partial1.cshtml" />
+    <Content Include="Views\Home\EditorTemplates\ServiceInterval.cshtml" />
+    <Content Include="Views\Home\ShowServiceSchedule.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
